@@ -1,0 +1,1682 @@
+/usr/share/texmf-texlive/doc/latex3/template/template-test.tex:   \show\xkey
+/usr/share/texmf-texlive/doc/latex3/template/template-test.tex:   \show\value
+/usr/share/texmf-texlive/doc/latex3/template/template-test.tex:   \show\foo
+/usr/share/texmf-texlive/doc/eplain/doc/eplain.html:therefore, commands like <code>\showthe\topmargin</code> will not do what you
+/usr/share/texmf-texlive/doc/generic/pstricks/voss/bsp05.tex:%\show\Data% for the logfile
+/usr/share/texmf-texlive/doc/generic/pstricks/lgc/4-6-6.inl:\begin{pspicture}(-.2,-.5)(3,1)\showgrid
+/usr/share/texmf-texlive/doc/generic/pstricks/lgc/4-6-20.inl:\begin{pspicture}(-.2,-.5)(3,2)\showgrid
+/usr/share/texmf-texlive/doc/generic/pstricks/lgc/4-6-17.inl:\begin{pspicture}(-.2,-.5)(3,2)\showgrid
+/usr/share/texmf-texlive/doc/generic/pstricks/lgc/4-6-7.inl:\begin{pspicture}(-.2,-.5)(3,1)\showgrid
+/usr/share/texmf-texlive/doc/generic/pstricks/lgc/4-2-2.inl:\begin{pspicture}(0,0)(1,1)\showgrid
+/usr/share/texmf-texlive/doc/generic/pstricks/lgc/4-3-2.inl:\begin{pspicture}(0,0)(2.2,2)\showgrid
+/usr/share/texmf-texlive/doc/generic/pstricks/lgc/4-6-19.inl:\begin{pspicture}(-.2,-.5)(3,2)\showgrid
+/usr/share/texmf-texlive/doc/generic/pstricks/lgc/4-6-2.inl:\begin{pspicture}(-.2,-.5)(3,1)\showgrid
+/usr/share/texmf-texlive/doc/generic/pstricks/lgc/4-6-24.inl:\begin{pspicture}(-.2,-.5)(3.5,5)\showgrid
+/usr/share/texmf-texlive/doc/generic/pstricks/lgc/4-4-8.inl:\begin{pspicture}(0,0)(3,2)\showgrid
+/usr/share/texmf-texlive/doc/generic/pstricks/lgc/4-4-6.inl:\begin{pspicture}(0,0)(4,2)\showgrid
+/usr/share/texmf-texlive/doc/generic/pstricks/lgc/4-6-9.inl:\begin{pspicture}(-.2,-.5)(3,1)\showgrid
+/usr/share/texmf-texlive/doc/generic/pstricks/lgc/4-6-11.inl:\begin{pspicture}(-.2,-.5)(3,1)\showgrid
+/usr/share/texmf-texlive/doc/generic/pstricks/lgc/4-6-21.inl:\begin{pspicture}(-.2,-.5)(3,2)\showgrid
+/usr/share/texmf-texlive/doc/generic/pstricks/lgc/4-4-11.inl:\begin{pspicture}(0,0)(3,2)\showgrid
+/usr/share/texmf-texlive/doc/generic/pstricks/lgc/4-6-1.inl:\begin{pspicture}(0,0)(5,5)\showgrid
+/usr/share/texmf-texlive/doc/generic/pstricks/lgc/4-9-2.inl:\begin{pspicture}(0,0)(3,3)\showgrid
+/usr/share/texmf-texlive/doc/generic/pstricks/lgc/4-4-5.inl:\begin{pspicture}(0,0)(4.5,2)\showgrid
+/usr/share/texmf-texlive/doc/generic/pstricks/lgc/4-4-12.inl:\begin{pspicture}(0,0)(4,2)\showgrid
+/usr/share/texmf-texlive/doc/generic/pstricks/lgc/4-2-3.inl:\begin{pspicture}(0,0)(1,2)\showgrid
+/usr/share/texmf-texlive/doc/generic/pstricks/lgc/4-4-2.inl:\begin{pspicture}(0,0)(2,1)\showgrid
+/usr/share/texmf-texlive/doc/generic/pstricks/lgc/4-4-10.inl:\begin{pspicture}(0,0)(3,2)\showgrid
+/usr/share/texmf-texlive/doc/generic/pstricks/lgc/4-6-15.inl:\begin{pspicture}(-.2,-.5)(3,2)\showgrid
+/usr/share/texmf-texlive/doc/generic/pstricks/lgc/4-4-9.inl:\begin{pspicture}(0,0)(4,2)\showgrid
+/usr/share/texmf-texlive/doc/generic/pstricks/lgc/4-2-1.inl:\begin{pspicture}(0,0)(2,2)\showgrid
+/usr/share/texmf-texlive/doc/generic/pstricks/lgc/4-10-4.inl:\begin{pspicture}(0,0)(2,2)\showgrid
+/usr/share/texmf-texlive/doc/generic/pstricks/lgc/4-4-4.inl:\begin{pspicture}(0,0)(4,2)\showgrid
+/usr/share/texmf-texlive/doc/generic/pstricks/lgc/4-6-25.inl:\begin{pspicture}(-.2,-.5)(3.5,5)\showgrid
+/usr/share/texmf-texlive/doc/generic/pstricks/lgc/4-6-10.inl:\begin{pspicture}(-.2,-.5)(3,1)\showgrid
+/usr/share/texmf-texlive/doc/generic/pstricks/lgc/4-6-12.inl:\begin{pspicture}(-.2,-.5)(3,1)\showgrid
+/usr/share/texmf-texlive/doc/generic/pstricks/lgc/4-10-3.inl:\begin{pspicture}(0,0)(2,2)\showgrid
+/usr/share/texmf-texlive/doc/generic/pstricks/lgc/4-6-18.inl:\begin{pspicture}(-.2,-.5)(3,2)\showgrid
+/usr/share/texmf-texlive/doc/generic/pstricks/lgc/4-6-5.inl:\begin{pspicture}(-.2,-.5)(3,1)\showgrid
+/usr/share/texmf-texlive/doc/generic/pstricks/lgc/4-6-13.inl:\begin{pspicture}(-.2,-.5)(3,1)\showgrid
+/usr/share/texmf-texlive/doc/generic/pstricks/lgc/4-6-16.inl:\begin{pspicture}(-.2,-.5)(3,1)\showgrid
+/usr/share/texmf-texlive/doc/generic/pstricks/lgc/4-6-3.inl:\begin{pspicture}(-.2,-.5)(3,1)\showgrid
+/usr/share/texmf-texlive/doc/generic/pstricks/lgc/4-4-1.inl:\begin{pspicture}(0,0)(2,1)\showgrid
+/usr/share/texmf-texlive/doc/generic/pstricks/lgc/4-4-3.inl:\begin{pspicture}(0,0)(2,1)\showgrid
+/usr/share/texmf-texlive/doc/generic/pstricks/lgc/4-6-14.inl:\begin{pspicture}(-.2,-.5)(3,2)\showgrid
+/usr/share/texmf-texlive/doc/generic/pstricks/lgc/4-6-4.inl:\begin{pspicture}(-.2,-.5)(3,1)\showgrid
+/usr/share/texmf-texlive/doc/generic/pstricks/lgc/4-10-2.inl:\begin{pspicture}(0,0)(2,2)\showgrid
+/usr/share/texmf-texlive/doc/generic/pstricks/lgc/4-4-7.inl:\begin{pspicture}(0,0)(3,2)\showgrid
+/usr/share/texmf-texlive/doc/generic/pstricks/lgc/4-10-6.inl:\begin{pspicture}(0,0)(2,1)\showgrid
+/usr/share/texmf-texlive/doc/generic/pstricks/lgc/4-6-23.inl:\begin{pspicture}(-.2,-.5)(3,2)\showgrid
+/usr/share/texmf-texlive/doc/generic/pstricks/lgc/4-6-8.inl:\begin{pspicture}(-.2,-.5)(3,1)\showgrid
+/usr/share/texmf-texlive/doc/generic/pstricks/lgc/4-6-22.inl:\begin{pspicture}(-.2,-.5)(3,2)\showgrid
+/usr/share/texmf-texlive/doc/generic/pstricks/lgc/4-9-1.inl:\begin{pspicture}(0,0)(2,2)\showgrid
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5iwona-sample.tex:\showletters{T5}{iwona}{l}{n}      {t5-iwonal}      {IwonaLight-Regular}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5iwona-sample.tex:\showletters{T5}{iwona}{l}{it}     {t5-iwonali}     {IwonaLight-Italic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5iwona-sample.tex:\showletters{T5}{iwona}{l}{sc}     {t5-iwonalcap}   {IwonaLight-Regular}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5iwona-sample.tex:\showletters{T5}{iwona}{l}{scit}   {t5-iwonalicap}  {IwonaLight-Italic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5iwona-sample.tex:\showtext   {T5}{iwona}{l}{n}      {t5-iwonal}      {IwonaLight-Regular}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5iwona-sample.tex:\showletters{T5}{iwona}{m}{n}      {t5-iwonar}      {Iwona-Regular}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5iwona-sample.tex:\showletters{T5}{iwona}{m}{it}     {t5-iwonari}     {Iwona-Italic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5iwona-sample.tex:\showletters{T5}{iwona}{m}{sc}     {t5-iwonarcap}   {Iwona-Regular}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5iwona-sample.tex:\showletters{T5}{iwona}{m}{scit}   {t5-iwonaricap}  {Iwona-Italic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5iwona-sample.tex:\showtext   {T5}{iwona}{m}{n}      {t5-iwonar}      {Iwona-Regular}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5iwona-sample.tex:\showletters{T5}{iwona}{sb}{n}     {t5-iwonam}      {IwonaMedium-Regular}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5iwona-sample.tex:\showletters{T5}{iwona}{sb}{it}    {t5-iwonami}     {IwonaMedium-Italic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5iwona-sample.tex:\showletters{T5}{iwona}{sb}{sc}    {t5-iwonamcap}   {IwonaMedium-Regular}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5iwona-sample.tex:\showletters{T5}{iwona}{sb}{scit}  {t5-iwonamicap}  {IwonaMedium-Italic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5iwona-sample.tex:\showtext   {T5}{iwona}{sb}{n}     {t5-iwonam}      {IwonaMedium-Regular}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5iwona-sample.tex:\showletters{T5}{iwona}{b}{n}      {t5-iwonab}      {Iwona-Bold}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5iwona-sample.tex:\showletters{T5}{iwona}{b}{it}     {t5-iwonabi}     {Iwona-BoldItalic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5iwona-sample.tex:\showletters{T5}{iwona}{b}{sc}     {t5-iwonabcap}   {Iwona-Bold}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5iwona-sample.tex:\showletters{T5}{iwona}{b}{scit}   {t5-iwonabicap}  {Iwona-BoldItalic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5iwona-sample.tex:\showtext   {T5}{iwona}{b}{n}      {t5-iwonab}      {Iwona-Bold}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5iwona-sample.tex:\showletters{T5}{iwona}{lc}{n}     {t5-iwonacl}     {IwonaCondLight-Regular}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5iwona-sample.tex:\showletters{T5}{iwona}{lc}{it}    {t5-iwonacli}    {IwonaCondLight-Italic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5iwona-sample.tex:\showletters{T5}{iwona}{lc}{sc}    {t5-iwonaclcap}  {IwonaCondLight-Regular}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5iwona-sample.tex:\showletters{T5}{iwona}{lc}{scit}  {t5-iwonaclicap} {IwonaCondLight-Italic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5iwona-sample.tex:\showtext   {T5}{iwona}{lc}{n}     {t5-iwonacl}     {IwonaCondLight-Regular}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5iwona-sample.tex:\showletters{T5}{iwona}{mc}{n}     {t5-iwonacr}     {IwonaCond-Regular}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5iwona-sample.tex:\showletters{T5}{iwona}{mc}{it}    {t5-iwonacri}    {IwonaCond-Italic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5iwona-sample.tex:\showletters{T5}{iwona}{mc}{sc}    {t5-iwonacrcap}  {IwonaCond-Regular}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5iwona-sample.tex:\showletters{T5}{iwona}{mc}{scit}  {t5-iwonacricap} {IwonaCond-Italic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5iwona-sample.tex:\showtext   {T5}{iwona}{mc}{n}     {t5-iwonacr}     {IwonaCond-Regular}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5iwona-sample.tex:\showletters{T5}{iwona}{sbc}{n}    {t5-iwonacm}     {IwonaCondMedium-Regular}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5iwona-sample.tex:\showletters{T5}{iwona}{sbc}{it}   {t5-iwonacmi}    {IwonaCondMedium-Italic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5iwona-sample.tex:\showletters{T5}{iwona}{sbc}{sc}   {t5-iwonacmcap}  {IwonaCondMedium-Regular}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5iwona-sample.tex:\showletters{T5}{iwona}{sbc}{scit} {t5-iwonacmicap} {IwonaCondMedium-Italic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5iwona-sample.tex:\showtext   {T5}{iwona}{sbc}{n}    {t5-iwonacm}     {IwonaCondMedium-Regular}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5iwona-sample.tex:\showletters{T5}{iwona}{bc}{n}     {t5-iwonacb}     {IwonaCond-Bold}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5iwona-sample.tex:\showletters{T5}{iwona}{bc}{it}    {t5-iwonacbi}    {IwonaCond-BoldItalic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5iwona-sample.tex:\showletters{T5}{iwona}{bc}{sc}    {t5-iwonacbcap}  {IwonaCond-Bold}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5iwona-sample.tex:\showletters{T5}{iwona}{bc}{scit}  {t5-iwonacbicap} {IwonaCond-BoldItalic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5iwona-sample.tex:\showtext   {T5}{iwona}{bc}{n}     {t5-iwonacb}     {IwonaCond-Bold}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/pagella-sample.tex:\showletters{T5}{qpl}{m}{n}    {t5-qplr}     {TeXGyrePagella-Regular}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/pagella-sample.tex:\showletters{T5}{qpl}{m}{it}   {t5-qplri}    {TeXGyrePagella-Italic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/pagella-sample.tex:\showletters{T5}{qpl}{b}{n}    {t5-qplb}     {TeXGyrePagella-Bold}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/pagella-sample.tex:\showletters{T5}{qpl}{b}{it}   {t5-qplbi}    {TeXGyrePagella-BoldItalic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/pagella-sample.tex:\showletters{T5}{qpl}{m}{sc}   {t5-qplr-sc}  {TeXGyrePagella-Regular}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/pagella-sample.tex:\showletters{T5}{qpl}{m}{scit} {t5-qplri-sc} {TeXGyrePagella-Italic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/pagella-sample.tex:\showletters{T5}{qpl}{b}{sc}   {t5-qplb-sc}  {TeXGyrePagella-Bold}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/pagella-sample.tex:\showtext   {T5}{qpl}{m}{n}    {t5-qplr}     {TeXGyrePagella-Regular}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/arevvn-sample.tex:\showletters{T5}{fav}{m}{n}  {favr8v}  {ArevSans-Roman-T5}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/arevvn-sample.tex:\showletters{T5}{fav}{m}{it} {favri8v} {ArevSans-Oblique-T5}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/arevvn-sample.tex:\showletters{T5}{fav}{b}{n}  {favb8v}  {ArevSans-Bold-T5}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/arevvn-sample.tex:\showletters{T5}{fav}{b}{it} {favbi8v} {ArevSans-BoldOblique-T5}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/arevvn-sample.tex:\showtext   {T5}{fav}{m}{n}  {favr8v}  {ArevSans-Roman-T5}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5gentium-sample.tex:\showletters{T5}{vgn}{m}{n}  {vgnr-t5}  {Gentium}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5gentium-sample.tex:\showletters{T5}{vgn}{m}{it} {vgnri-t5} {Gentium-Italic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5gentium-sample.tex:\showtext   {T5}{vgn}{m}{n}  {vgnr-t5}  {Gentium}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/chartervn-sample.tex:\showletters{T5}{bch}{m}{n}  {bchr8v}   {VnBitstreamCharter}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/chartervn-sample.tex:\showletters{T5}{bch}{m}{it} {bchri8v}  {VnCharterBT-Italic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/chartervn-sample.tex:\showletters{T5}{bch}{m}{sl} {bchro8v}  {VnBitstreamCharter}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/chartervn-sample.tex:\showletters{T5}{bch}{b}{n}  {bchb8v}   {VnCharterBT-Bold}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/chartervn-sample.tex:\showletters{T5}{bch}{b}{it} {bchbi8v}  {VnCharterBT-BoldItalic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/chartervn-sample.tex:\showletters{T5}{bch}{b}{sl} {bchbo8v}  {VnCharterBT-Bold}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/chartervn-sample.tex:\showletters{T5}{bch}{m}{sc} {bchrc8v}  {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/chartervn-sample.tex:\showletters{T5}{bch}{b}{sc} {bchbc8v}  {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/chartervn-sample.tex:\showtext   {T5}{bch}{m}{n}  {bchr8v}   {VnBitstreamCharter}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/urwvn-sample.tex:\showletters{T5}{uag}{db}{n}  {uagd8v}  {VnURWGothicL-Demi}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/urwvn-sample.tex:\showletters{T5}{uag}{db}{sc} {uagdc8v} {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/urwvn-sample.tex:\showletters{T5}{uag}{db}{sl} {uagdo8v} {VnURWGothicL-DemiItalic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/urwvn-sample.tex:\showletters{T5}{uag}{m}{n}   {uagk8v}  {VnURWGothicL}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/urwvn-sample.tex:\showletters{T5}{uag}{m}{sc}  {uagkc8v} {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/urwvn-sample.tex:\showletters{T5}{uag}{m}{sl}  {uagko8v} {VnURWGothicL-Italic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/urwvn-sample.tex:\showtext   {T5}{uag}{m}{n}   {uagk8v}  {VnURWGothicL}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/urwvn-sample.tex:\showletters{T5}{ubk}{db}{n}  {ubkd8v}  {VnURWBookmanL-Bold}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/urwvn-sample.tex:\showletters{T5}{ubk}{db}{sc} {ubkdc8v} {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/urwvn-sample.tex:\showletters{T5}{ubk}{db}{it} {ubkdi8v} {VnURWBookmanL-BoldItalic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/urwvn-sample.tex:\showletters{T5}{ubk}{db}{sl} {ubkdo8v} {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/urwvn-sample.tex:\showletters{T5}{ubk}{l}{n}   {ubkl8v}  {VnURWBookmanL}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/urwvn-sample.tex:\showletters{T5}{ubk}{l}{sc}  {ubklc8v} {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/urwvn-sample.tex:\showletters{T5}{ubk}{l}{it}  {ubkli8v} {VnURWBookmanL-Italic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/urwvn-sample.tex:\showletters{T5}{ubk}{l}{sl}  {ubklo8v} {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/urwvn-sample.tex:\showtext   {T5}{ubk}{l}{n}   {ubkl8v}  {VnURWBookmanL}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/urwvn-sample.tex:\showletters{T5}{ucr}{b}{n}   {ucrb8v}  {VnNimbusMonoL-Bold}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/urwvn-sample.tex:\showletters{T5}{ucr}{b}{sc}  {ucrbc8v} {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/urwvn-sample.tex:\showletters{T5}{ucr}{b}{sl}  {ucrbo8v} {VnNimbusMonoL-BoldItalic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/urwvn-sample.tex:\showletters{T5}{ucr}{m}{n}   {ucrr8v}  {VnNimbusMonoL}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/urwvn-sample.tex:\showletters{T5}{ucr}{m}{sc}  {ucrrc8v} {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/urwvn-sample.tex:\showletters{T5}{ucr}{m}{sl}  {ucrro8v} {VnNimbusMonoL-Italic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/urwvn-sample.tex:\showtext   {T5}{ucr}{m}{n}   {ucrr8v}  {VnNimbusMonoL}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/urwvn-sample.tex:\showletters{T5}{uhv}{b}{n}   {uhvb8v}  {VnNimbusSansL-Bold}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/urwvn-sample.tex:\showletters{T5}{uhv}{b}{sc}  {uhvbc8v} {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/urwvn-sample.tex:\showletters{T5}{uhv}{b}{sl}  {uhvbo8v} {VnNimbusSansL-BoldItalic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/urwvn-sample.tex:\showletters{T5}{uhv}{m}{n}   {uhvr8v}  {VnNimbusSansL}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/urwvn-sample.tex:\showletters{T5}{uhv}{m}{sc}  {uhvrc8v} {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/urwvn-sample.tex:\showletters{T5}{uhv}{m}{sl}  {uhvro8v} {VnNimbusSansL-Italic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/urwvn-sample.tex:\showtext   {T5}{uhv}{m}{n}   {uhvr8v}  {VnNimbusSansL}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/urwvn-sample.tex:\showletters{T5}{unc}{b}{n}   {uncb8v}  {VnCenturySchoolbookL-Bold}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/urwvn-sample.tex:\showletters{T5}{unc}{b}{sc}  {uncbc8v} {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/urwvn-sample.tex:\showletters{T5}{unc}{b}{it}  {uncbi8v} {VnCenturySchoolbookL-BoldItalic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/urwvn-sample.tex:\showletters{T5}{unc}{b}{sl}  {uncbo8v} {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/urwvn-sample.tex:\showletters{T5}{unc}{m}{n}   {uncr8v}  {VnCenturySchoolbookL}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/urwvn-sample.tex:\showletters{T5}{unc}{m}{sc}  {uncrc8v} {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/urwvn-sample.tex:\showletters{T5}{unc}{m}{it}  {uncri8v} {VnCenturySchoolbookL-Italic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/urwvn-sample.tex:\showletters{T5}{unc}{m}{sl}  {uncro8v} {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/urwvn-sample.tex:\showtext   {T5}{unc}{m}{n}   {uncr8v}  {VnCenturySchoolbookL}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/urwvn-sample.tex:\showletters{T5}{upl}{b}{n}   {uplb8v}  {VnURWPalladioL-Bold}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/urwvn-sample.tex:\showletters{T5}{upl}{b}{sc}  {uplbc8v} {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/urwvn-sample.tex:\showletters{T5}{upl}{b}{it}  {uplbi8v} {VnURWPalladioL-BoldItalic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/urwvn-sample.tex:\showletters{T5}{upl}{b}{sl}  {uplbo8v} {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/urwvn-sample.tex:\showletters{T5}{upl}{m}{n}   {uplr8v}  {VnURWPalladioL}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/urwvn-sample.tex:\showletters{T5}{upl}{m}{sc}  {uplrc8v} {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/urwvn-sample.tex:\showletters{T5}{fpl}{m}{sc}  {fplrc8v} {VnTeXPalladioL-SC}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/urwvn-sample.tex:\showletters{T5}{upl}{m}{it}  {uplri8v} {VnURWPalladioL-Italic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/urwvn-sample.tex:\showletters{T5}{upl}{m}{sl}  {uplro8v} {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/urwvn-sample.tex:\showtext   {T5}{upl}{m}{n}   {uplr8v}  {VnURWPalladioL}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/urwvn-sample.tex:\showletters{T5}{utm}{b}{n}   {utmb8v}  {VnNimbusRomanNo9L-Bold}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/urwvn-sample.tex:\showletters{T5}{utm}{b}{sc}  {utmbc8v} {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/urwvn-sample.tex:\showletters{T5}{utm}{b}{it}  {utmbi8v} {VnNimbusRomanNo9L-BoldItalic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/urwvn-sample.tex:\showletters{T5}{utm}{b}{sl}  {utmbo8v} {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/urwvn-sample.tex:\showletters{T5}{utm}{m}{n}   {utmr8v}  {VnNimbusRomanNo9L}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/urwvn-sample.tex:\showletters{T5}{utm}{m}{sc}  {utmrc8v} {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/urwvn-sample.tex:\showletters{T5}{utm}{m}{it}  {utmri8v} {VnNimbusRomanNo9L-Italic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/urwvn-sample.tex:\showletters{T5}{utm}{m}{sl}  {utmro8v} {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/urwvn-sample.tex:\showtext   {T5}{utm}{m}{n}   {utmr8v}  {VnNimbusRomanNo9L}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/urwvn-sample.tex:\showletters{T5}{uzcm}{b}{n} {uzcmi8v}  {VnURWChanceryL-MediItal}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/urwvn-sample.tex:\showtext   {T5}{uzcm}{b}{n} {uzcmi8v}  {VnURWChanceryL-MediItal}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/cmbrightvn-sample.tex:\showletters{T5}{cmbr}{m}{n}{vncmbr10}{vncmbr10}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/cmbrightvn-sample.tex:\showletters{T5}{cmbr}{m}{sl}{vncmbrsl10}{vncmbrsl10}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/cmbrightvn-sample.tex:\showletters{T5}{cmbr}{bx}{n}{vncmbrbx10}{vncmbrbx10}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/cmbrightvn-sample.tex:\showtext   {T5}{cmbr}{m}{n}{vncmbr10}{vncmbr10}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/cmbrightvn-sample.tex:\showletters{T5}{cmtl}{m}{n}{vncmtl10}{vncmtl10}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/cmbrightvn-sample.tex:\showletters{T5}{cmtl}{m}{sl}{vncmsltl10}{vncmsltl10}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/cmbrightvn-sample.tex:\showtext   {T5}{cmtl}{m}{n}{vncmtl10}{vncmtl10}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/concretevn-sample.tex:\showletters{T5}{ccr}{m}{n}   {vnccr10}   {Vnccr10}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/concretevn-sample.tex:\showletters{T5}{ccr}{m}{sl}  {vnccsl10}  {Vnccsl10}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/concretevn-sample.tex:\showletters{T5}{ccr}{m}{it}  {vnccti10}  {Vnccti10}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/concretevn-sample.tex:\showletters{T5}{ccr}{m}{sc}  {vncccsc10} {Vncccsc10}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/concretevn-sample.tex:\showtext   {T5}{ccr}{m}{n}   {vnccr10}   {Vnccr10}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/mscore-sample.tex:\showletters{T5}{ma1}{m}{n}  {ma1r8v}  {ArialMT}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/mscore-sample.tex:\showletters{T5}{ma1}{b}{n}  {ma1b8v}  {Arial-BoldMT}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/mscore-sample.tex:\showletters{T5}{ma1}{m}{it} {ma1ri8v} {Arial-ItalicMT}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/mscore-sample.tex:\showletters{T5}{ma1}{b}{it} {ma1bi8v} {Arial-BoldItalicMT}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/mscore-sample.tex:\showletters{T5}{ma1}{m}{sc} {ma1rc8v} {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/mscore-sample.tex:\showletters{T5}{ma1}{b}{sc} {ma1bc8v} {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/mscore-sample.tex:\showtext   {T5}{ma1}{m}{n}  {ma1r8v}  {ArialMT}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/mscore-sample.tex:\showletters{T5}{mcr}{m}{n}  {mcrr8v}  {CourierNewPSMT}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/mscore-sample.tex:\showletters{T5}{mcr}{b}{n}  {mcrb8v}  {CourierNewPS-BoldMT}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/mscore-sample.tex:\showletters{T5}{mcr}{m}{it} {mcrri8v} {CourierNewPS-ItalicMT}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/mscore-sample.tex:\showletters{T5}{mcr}{b}{it} {mcrbi8v} {CourierNewPS-BoldItalicMT}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/mscore-sample.tex:\showletters{T5}{mcr}{m}{sc} {mcrrc8v} {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/mscore-sample.tex:\showletters{T5}{mcr}{b}{sc} {mcrbc8v} {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/mscore-sample.tex:\showtext   {T5}{mcr}{m}{n}  {mcrr8v}  {CourierNewPSMT}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/mscore-sample.tex:\showletters{T5}{lpr}{m}{n}  {lprr8v}  {PalatinoLinotype-Roman}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/mscore-sample.tex:\showletters{T5}{lpr}{b}{n}  {lprb8v}  {PalatinoLinotype-Bold}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/mscore-sample.tex:\showletters{T5}{lpr}{m}{it} {lprri8v} {PalatinoLinotype-Italic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/mscore-sample.tex:\showletters{T5}{lpr}{b}{it} {lprbi8v} {PalatinoLinotype-BoldItalic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/mscore-sample.tex:\showletters{T5}{lpr}{m}{sc} {lprrc8v} {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/mscore-sample.tex:\showletters{T5}{lpr}{b}{sc} {lprbc8v} {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/mscore-sample.tex:\showtext   {T5}{lpr}{m}{n}  {lprr8v}  {PalatinoLinotype-Roman}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/mscore-sample.tex:\showletters{T5}{mns}{m}{n}  {mnsr8v}  {TimesNewRomanPSMT}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/mscore-sample.tex:\showletters{T5}{mns}{b}{n}  {mnsb8v}  {TimesNewRomanPS-BoldMT}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/mscore-sample.tex:\showletters{T5}{mns}{m}{it} {mnsri8v} {TimesNewRomanPS-ItalicMT}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/mscore-sample.tex:\showletters{T5}{mns}{b}{it} {mnsbi8v} {TimesNewRomanPS-BoldItalicMT}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/mscore-sample.tex:\showletters{T5}{mns}{m}{sc} {mnsrc8v} {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/mscore-sample.tex:\showletters{T5}{mns}{b}{sc} {mnsbc8v} {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/mscore-sample.tex:\showtext   {T5}{mns}{m}{n}  {mnsr8v}  {TimesNewRomanPSMT}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/mscore-sample.tex:\showletters{T5}{jth}{m}{n}  {jthr8v}  {Tahoma}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/mscore-sample.tex:\showletters{T5}{jth}{b}{n}  {jthb8v}  {Tahoma-Bold}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/mscore-sample.tex:\showletters{T5}{jth}{m}{sc} {jthrc8v} {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/mscore-sample.tex:\showletters{T5}{jth}{b}{sc} {jthbc8v} {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/mscore-sample.tex:\showtext   {T5}{jth}{m}{n}  {jthr8v}  {Tahoma}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/mscore-sample.tex:\showletters{T5}{jvn}{m}{n}  {jvnr8v}  {Verdana}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/mscore-sample.tex:\showletters{T5}{jvn}{b}{n}  {jvnb8v}  {Verdana-Bold}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/mscore-sample.tex:\showletters{T5}{jvn}{m}{it} {jvnri8v} {Verdana-Italic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/mscore-sample.tex:\showletters{T5}{jvn}{b}{it} {jvnbi8v} {Verdana-BoldItalic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/mscore-sample.tex:\showletters{T5}{jvn}{m}{sc} {jvnrc8v} {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/mscore-sample.tex:\showletters{T5}{jvn}{b}{sc} {jvnbc8v} {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/mscore-sample.tex:\showtext   {T5}{jvn}{m}{n}  {jvnr8v}  {Verdana}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5antt-sample.tex:\showletters{T5}{antt}{l}{n}      {t5-anttl}      {AntykwaTorunskaLigh-Regular}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5antt-sample.tex:\showletters{T5}{antt}{l}{it}     {t5-anttli}     {AntykwaTorunskaLigh-Italic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5antt-sample.tex:\showletters{T5}{antt}{l}{sc}     {t5-anttlcap}   {AntykwaTorunskaLigh-Regular}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5antt-sample.tex:\showletters{T5}{antt}{l}{scit}   {t5-anttlicap}  {AntykwaTorunskaLigh-Italic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5antt-sample.tex:\showtext   {T5}{antt}{l}{n}      {t5-anttl}      {AntykwaTorunskaLigh-Regular}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5antt-sample.tex:\showletters{T5}{antt}{m}{n}      {t5-anttr}      {AntykwaTorunska-Regular}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5antt-sample.tex:\showletters{T5}{antt}{m}{it}     {t5-anttri}     {AntykwaTorunska-Italic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5antt-sample.tex:\showletters{T5}{antt}{m}{sc}     {t5-anttrcap}   {AntykwaTorunska-Regular}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5antt-sample.tex:\showletters{T5}{antt}{m}{scit}   {t5-anttricap}  {AntykwaTorunska-Italic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5antt-sample.tex:\showletters{T5}{antt}{b}{n}      {t5-anttb}      {AntykwaTorunska-Bold}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5antt-sample.tex:\showletters{T5}{antt}{b}{it}     {t5-anttbi}     {AntykwaTorunska-BoldItalic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5antt-sample.tex:\showletters{T5}{antt}{b}{sc}     {t5-anttbcap}   {AntykwaTorunska-Bold}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5antt-sample.tex:\showletters{T5}{antt}{b}{scit}   {t5-anttbicap}  {AntykwaTorunska-BoldItalic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5antt-sample.tex:\showtext   {T5}{antt}{m}{n}      {t5-anttr}      {AntykwaTorunska-Regular}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5antt-sample.tex:\showletters{T5}{antt}{sb}{n}     {t5-anttm}      {AntykwaTorunskaMed-Regular}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5antt-sample.tex:\showletters{T5}{antt}{sb}{it}    {t5-anttmi}     {AntykwaTorunskaMed-Italic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5antt-sample.tex:\showletters{T5}{antt}{sb}{sc}    {t5-anttmcap}   {AntykwaTorunskaMed-Regular}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5antt-sample.tex:\showletters{T5}{antt}{sb}{scit}  {t5-anttmicap}  {AntykwaTorunskaMed-Italic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5antt-sample.tex:\showtext   {T5}{antt}{sb}{n}     {t5-anttm}      {AntykwaTorunskaMed-Regular}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5antt-sample.tex:\showletters{T5}{antt}{lc}{n}     {t5-anttcl}     {AntykwaTorunskaCondLigh-Regular}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5antt-sample.tex:\showletters{T5}{antt}{lc}{it}    {t5-anttcli}    {AntykwaTorunskaCondLigh-Italic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5antt-sample.tex:\showletters{T5}{antt}{lc}{sc}    {t5-anttclcap}  {AntykwaTorunskaCondLigh-Regular}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5antt-sample.tex:\showletters{T5}{antt}{lc}{scit}  {t5-anttclicap} {AntykwaTorunskaCondLigh-Italic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5antt-sample.tex:\showtext   {T5}{antt}{lc}{n}     {t5-anttcl}     {AntykwaTorunskaCondLigh-Regular}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5antt-sample.tex:\showletters{T5}{antt}{mc}{n}     {t5-anttcr}     {AntykwaTorunskaCond-Regular}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5antt-sample.tex:\showletters{T5}{antt}{mc}{it}    {t5-anttcri}    {AntykwaTorunskaCond-Italic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5antt-sample.tex:\showletters{T5}{antt}{mc}{sc}    {t5-anttcrcap}  {AntykwaTorunskaCond-Regular}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5antt-sample.tex:\showletters{T5}{antt}{mc}{scit}  {t5-anttcricap} {AntykwaTorunskaCond-Italic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5antt-sample.tex:\showletters{T5}{antt}{bc}{n}     {t5-anttcb}     {AntykwaTorunskaCond-Bold}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5antt-sample.tex:\showletters{T5}{antt}{bc}{it}    {t5-anttcbi}    {AntykwaTorunskaCond-BoldItalic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5antt-sample.tex:\showletters{T5}{antt}{bc}{sc}    {t5-anttcbcap}  {AntykwaTorunskaCond-Bold}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5antt-sample.tex:\showletters{T5}{antt}{bc}{scit}  {t5-anttcbicap} {AntykwaTorunskaCond-BoldItalic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5antt-sample.tex:\showtext   {T5}{antt}{mc}{n}     {t5-anttcr}     {AntykwaTorunskaCond-Regular}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5antt-sample.tex:\showletters{T5}{antt}{sbc}{n}    {t5-anttcm}     {AntykwaTorunskaCondMed-Regular}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5antt-sample.tex:\showletters{T5}{antt}{sbc}{it}   {t5-anttcmi}    {AntykwaTorunskaCondMed-Italic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5antt-sample.tex:\showletters{T5}{antt}{sbc}{sc}   {t5-anttcmcap}  {AntykwaTorunskaCondMed-Regular}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5antt-sample.tex:\showletters{T5}{antt}{sbc}{scit} {t5-anttcmicap} {AntykwaTorunskaCondMed-Italic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5antt-sample.tex:\showtext   {T5}{antt}{sbc}{n}    {t5-anttcm}     {AntykwaTorunskaCondMed-Regular}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/classicovn-sample.tex:\showletters{T5}{uop}{m}{n}  {uopr8v}   {VnURWClassico}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/classicovn-sample.tex:\showletters{T5}{uop}{m}{it} {uopri8v}  {VnURWClassico-Italic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/classicovn-sample.tex:\showletters{T5}{uop}{m}{sl} {uopro8v}  {VnURWClassico}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/classicovn-sample.tex:\showletters{T5}{uop}{b}{n}  {uopb8v}   {VnURWClassico-Bold}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/classicovn-sample.tex:\showletters{T5}{uop}{b}{it} {uopbi8v}  {VnURWClassico-BoldItalic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/classicovn-sample.tex:\showletters{T5}{uop}{b}{sl} {uopbo8v}  {VnURWClassico-Bold}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/classicovn-sample.tex:\showletters{T5}{uop}{m}{sc} {uoprc8v}  {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/classicovn-sample.tex:\showletters{T5}{uop}{b}{sc} {uopbc8v}  {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/classicovn-sample.tex:\showtext   {T5}{uop}{m}{n}  {uopr8v}   {VnURWClassico}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/bonum-sample.tex:\showletters{T5}{qbk}{m}{n}    {t5-qbkr}     {TeXGyreBonum-Regular}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/bonum-sample.tex:\showletters{T5}{qbk}{m}{it}   {t5-qbkri}    {TeXGyreBonum-Italic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/bonum-sample.tex:\showletters{T5}{qbk}{b}{n}    {t5-qbkb}     {TeXGyreBonum-Bold}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/bonum-sample.tex:\showletters{T5}{qbk}{b}{it}   {t5-qbkbi}    {TeXGyreBonum-BoldItalic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/bonum-sample.tex:\showletters{T5}{qbk}{m}{sc}   {t5-qbkr-sc}  {TeXGyreBonum-Regular}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/bonum-sample.tex:\showletters{T5}{qbk}{m}{scit} {t5-qbkri-sc} {TeXGyreBonum-Italic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/bonum-sample.tex:\showletters{T5}{qbk}{b}{sc}   {t5-qbkb-sc}  {TeXGyreBonum-Bold}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/bonum-sample.tex:\showtext   {T5}{qbk}{m}{n}    {t5-qbkr}     {TeXGyreBonum-Regular}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/vntopia-sample.tex:\showletters{T5}{put}{m}{n}  {putr8v}   {Vntopia-Regular}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/vntopia-sample.tex:\showletters{T5}{put}{m}{it} {putri8v}  {Vntopia-Italic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/vntopia-sample.tex:\showletters{T5}{put}{m}{sl} {putro8v}  {Vntopia-Regular}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/vntopia-sample.tex:\showletters{T5}{put}{b}{n}  {putb8v}   {Vntopia-Bold}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/vntopia-sample.tex:\showletters{T5}{put}{b}{it} {putbi8v}  {Vntopia-BoldItalic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/vntopia-sample.tex:\showletters{T5}{put}{b}{sl} {putbo8v}  {Vntopia-Bold}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/vntopia-sample.tex:\showletters{T5}{put}{m}{sc} {putrc8v}  {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/vntopia-sample.tex:\showletters{T5}{put}{b}{sc} {putbc8v}  {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/vntopia-sample.tex:\showtext   {T5}{put}{m}{n}  {putr8v}   {Vntopia-Regular}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/grotesqvn-sample.tex:\showletters{T5}{ugq}{b}{n}    {ugqb8v}   {VnURWGroteskT-Bold}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/grotesqvn-sample.tex:\showletters{T5}{ugq}{b}{sl}   {ugqbo8v}  {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/grotesqvn-sample.tex:\showtext   {T5}{ugq}{b}{n}    {ugqb8v}   {VnURWGroteskT-Bold}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/garamondvn-sample.tex:\showletters{T5}{ugm}{m}{n}  {ugmr8v}   {VnGaramondNo8-Reg}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/garamondvn-sample.tex:\showletters{T5}{ugm}{m}{it} {ugmri8v}  {VnGaramondNo8-Ita}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/garamondvn-sample.tex:\showletters{T5}{ugm}{m}{sl} {ugmro8v}  {VnGaramondNo8-Reg}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/garamondvn-sample.tex:\showletters{T5}{ugm}{b}{n}  {ugmm8v}   {VnGaramondNo8-Med}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/garamondvn-sample.tex:\showletters{T5}{ugm}{b}{it} {ugmmi8v}  {VnGaramondNo8-MedIta}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/garamondvn-sample.tex:\showletters{T5}{ugm}{b}{sl} {ugmmo8v}  {VnGaramondNo8-Med}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/garamondvn-sample.tex:\showletters{T5}{ugm}{m}{sc} {ugmrc8v}  {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/garamondvn-sample.tex:\showletters{T5}{ugm}{b}{sc} {ugmmc8v}  {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/garamondvn-sample.tex:\showtext   {T5}{ugm}{m}{n}  {ugmr8v}   {VnGaramondNo8-Reg}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/txttvn-sample.tex:\showletters{T5}{txtt}{m}{n} {txtt8v}        {VnTXTT-Medium}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/txttvn-sample.tex:\showletters{T5}{txtt}{m}{sc} {txttsc8v}        {VnTXTTSC-Medium}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/txttvn-sample.tex:\showletters{T5}{txtt}{m}{sl} {txttsl8v}        {VnTXTT-Medium}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/txttvn-sample.tex:\showletters{T5}{txtt}{bx}{n} {txbtt8v}        {VnTXTT-Bold}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/txttvn-sample.tex:\showletters{T5}{txtt}{bx}{sc} {txbttsc8v}        {VnTXTTSC-Bold}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/txttvn-sample.tex:\showletters{T5}{txtt}{bx}{sl} {txbttsl8v}        {VnTXTT-Bold}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/txttvn-sample.tex:\showtext   {T5}{txtt}{m}{n} {txtt8v}        {VnTXTT-Medium}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/termes-sample.tex:\showletters{T5}{qtm}{m}{n}    {t5-qtmr}     {TeXGyreTermes-Regular}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/termes-sample.tex:\showletters{T5}{qtm}{m}{it}   {t5-qtmri}    {TeXGyreTermes-Italic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/termes-sample.tex:\showletters{T5}{qtm}{b}{n}    {t5-qtmb}     {TeXGyreTermes-Bold}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/termes-sample.tex:\showletters{T5}{qtm}{b}{it}   {t5-qtmbi}    {TeXGyreTermes-BoldItalic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/termes-sample.tex:\showletters{T5}{qtm}{m}{sc}   {t5-qtmr-sc}  {TeXGyreTermes-Regular}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/termes-sample.tex:\showletters{T5}{qtm}{m}{scit} {t5-qtmri-sc} {TeXGyreTermes-Italic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/termes-sample.tex:\showletters{T5}{qtm}{b}{sc}   {t5-qtmb-sc}  {TeXGyreTermes-Bold}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/termes-sample.tex:\showtext   {T5}{qtm}{m}{n}    {t5-qtmr}     {TeXGyreTermes-Regular}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/vnr-sample.tex:\showCMfont{T5}{cmr}{b}{n}    {vnb10}    {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/vnr-sample.tex:\showCMfont{T5}{cmr}{bx}{n}   {vnbx5}    {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/vnr-sample.tex:\showCMfont{T5}{cmr}{bx}{n}   {vnbx6}    {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/vnr-sample.tex:\showCMfont{T5}{cmr}{bx}{n}   {vnbx7}    {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/vnr-sample.tex:\showCMfont{T5}{cmr}{bx}{n}   {vnbx8}    {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/vnr-sample.tex:\showCMfont{T5}{cmr}{bx}{n}   {vnbx9}    {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/vnr-sample.tex:\showCMfont{T5}{cmr}{bx}{n}   {vnbx10}   {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/vnr-sample.tex:\showCMfont{T5}{cmr}{bx}{n}   {vnbx12}   {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/vnr-sample.tex:\showCMfont{T5}{cmr}{bx}{sl}  {vnbxsl10} {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/vnr-sample.tex:\showCMfont{T5}{cmr}{bx}{it}  {vnbxti10} {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/vnr-sample.tex:\showCMfont{T5}{cmr}{m}{sc}   {vncsc10}  {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/vnr-sample.tex:\showCMfont{T5}{cmdh}{m}{n}   {vndunh10} {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/vnr-sample.tex:\showCMfont{T5}{cmfr}{m}{n}   {vnff10}   {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/vnr-sample.tex:\showCMfont{T5}{cmfr}{m}{it}  {vnfi10}   {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/vnr-sample.tex:\showCMfont{T5}{cmfib}{bx}{n} {vnfib8}   {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/vnr-sample.tex:\showCMfont{T5}{cmtt}{m}{it}  {vnitt10}  {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/vnr-sample.tex:\showCMfont{T5}{cmr}{m}{n}    {vnr5}     {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/vnr-sample.tex:\showCMfont{T5}{cmr}{m}{n}    {vnr6}     {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/vnr-sample.tex:\showCMfont{T5}{cmr}{m}{n}    {vnr7}     {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/vnr-sample.tex:\showCMfont{T5}{cmr}{m}{n}    {vnr8}     {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/vnr-sample.tex:\showCMfont{T5}{cmr}{m}{n}    {vnr9}     {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/vnr-sample.tex:\showCMfont{T5}{cmr}{m}{n}    {vnr10}    {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/vnr-sample.tex:\showCMfont{T5}{cmr}{m}{n}    {vnr12}    {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/vnr-sample.tex:\showCMfont{T5}{cmr}{m}{n}    {vnr17}    {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/vnr-sample.tex:\showCMfont{T5}{cmr}{m}{sl}   {vnsl8}    {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/vnr-sample.tex:\showCMfont{T5}{cmr}{m}{sl}   {vnsl9}    {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/vnr-sample.tex:\showCMfont{T5}{cmr}{m}{sl}   {vnsl10}   {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/vnr-sample.tex:\showCMfont{T5}{cmr}{m}{sl}   {vnsl12}   {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/vnr-sample.tex:\showCMfont{T5}{cmtt}{m}{sl}  {vnsltt10} {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/vnr-sample.tex:\showCMfont{T5}{cmss}{m}{n}   {vnss8}    {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/vnr-sample.tex:\showCMfont{T5}{cmss}{m}{n}   {vnss9}    {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/vnr-sample.tex:\showCMfont{T5}{cmss}{m}{n}   {vnss10}   {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/vnr-sample.tex:\showCMfont{T5}{cmss}{m}{n}   {vnss12}   {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/vnr-sample.tex:\showCMfont{T5}{cmss}{m}{n}   {vnss17}   {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/vnr-sample.tex:\showCMfont{T5}{cmss}{bx}{n}  {vnssbx10} {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/vnr-sample.tex:\showCMfont{T5}{cmss}{dc}{n}  {vnssdc10} {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/vnr-sample.tex:\showCMfont{T5}{cmss}{m}{it}  {vnssi8}   {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/vnr-sample.tex:\showCMfont{T5}{cmss}{m}{it}  {vnssi9}   {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/vnr-sample.tex:\showCMfont{T5}{cmss}{m}{it}  {vnssi10}  {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/vnr-sample.tex:\showCMfont{T5}{cmss}{m}{it}  {vnssi12}  {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/vnr-sample.tex:\showCMfont{T5}{cmss}{m}{it}  {vnssi17}  {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/vnr-sample.tex:\showCMfont{T5}{cmss}{q}{n}   {vnssq8}   {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/vnr-sample.tex:\showCMfont{T5}{cmss}{q}{it}  {vnssqi8}  {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/vnr-sample.tex:\showCMfont{T5}{cmtt}{m}{sc}  {vntcsc10} {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/vnr-sample.tex:\showCMfont{T5}{cmr}{m}{it}   {vnti7}    {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/vnr-sample.tex:\showCMfont{T5}{cmr}{m}{it}   {vnti8}    {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/vnr-sample.tex:\showCMfont{T5}{cmr}{m}{it}   {vnti9}    {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/vnr-sample.tex:\showCMfont{T5}{cmr}{m}{it}   {vnti10}   {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/vnr-sample.tex:\showCMfont{T5}{cmr}{m}{it}   {vnti12}   {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/vnr-sample.tex:\showCMfont{T5}{cmtt}{m}{n}   {vntt8}    {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/vnr-sample.tex:\showCMfont{T5}{cmtt}{m}{n}   {vntt9}    {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/vnr-sample.tex:\showCMfont{T5}{cmtt}{m}{n}   {vntt10}   {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/vnr-sample.tex:\showCMfont{T5}{cmtt}{m}{n}   {vntt12}   {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/vnr-sample.tex:\showCMfont{T5}{cmr}{m}{u}    {vnu10}    {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/vnr-sample.tex:\showCMfont{T5}{cmvtt}{m}{n}  {vnvtt10}  {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5kurier-sample.tex:\showletters{T5}{kurier}{l}{n}      {t5-kurierl}      {KurierLight-Regular}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5kurier-sample.tex:\showletters{T5}{kurier}{l}{it}     {t5-kurierli}     {KurierLight-Italic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5kurier-sample.tex:\showletters{T5}{kurier}{l}{sc}     {t5-kurierlcap}   {KurierLight-Regular}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5kurier-sample.tex:\showletters{T5}{kurier}{l}{scit}   {t5-kurierlicap}  {KurierLight-Italic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5kurier-sample.tex:\showtext   {T5}{kurier}{l}{n}      {t5-kurierl}      {KurierLight-Regular}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5kurier-sample.tex:\showletters{T5}{kurier}{m}{n}      {t5-kurierr}      {Kurier-Regular}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5kurier-sample.tex:\showletters{T5}{kurier}{m}{it}     {t5-kurierri}     {Kurier-Italic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5kurier-sample.tex:\showletters{T5}{kurier}{m}{sc}     {t5-kurierrcap}   {Kurier-Regular}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5kurier-sample.tex:\showletters{T5}{kurier}{m}{scit}   {t5-kurierricap}  {Kurier-Italic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5kurier-sample.tex:\showtext   {T5}{kurier}{m}{n}      {t5-kurierr}      {Kurier-Regular}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5kurier-sample.tex:\showletters{T5}{kurier}{sb}{n}     {t5-kurierm}      {KurierMedium-Regular}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5kurier-sample.tex:\showletters{T5}{kurier}{sb}{it}    {t5-kuriermi}     {KurierMedium-Italic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5kurier-sample.tex:\showletters{T5}{kurier}{sb}{sc}    {t5-kuriermcap}   {KurierMedium-Regular}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5kurier-sample.tex:\showletters{T5}{kurier}{sb}{scit}  {t5-kuriermicap}  {KurierMedium-Italic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5kurier-sample.tex:\showtext   {T5}{kurier}{sb}{n}     {t5-kurierm}      {KurierMedium-Regular}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5kurier-sample.tex:\showletters{T5}{kurier}{b}{n}      {t5-kurierb}      {Kurier-Bold}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5kurier-sample.tex:\showletters{T5}{kurier}{b}{it}     {t5-kurierbi}     {Kurier-BoldItalic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5kurier-sample.tex:\showletters{T5}{kurier}{b}{sc}     {t5-kurierbcap}   {Kurier-Bold}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5kurier-sample.tex:\showletters{T5}{kurier}{b}{scit}   {t5-kurierbicap}  {Kurier-BoldItalic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5kurier-sample.tex:\showtext   {T5}{kurier}{b}{n}      {t5-kurierb}      {Kurier-Bold}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5kurier-sample.tex:\showletters{T5}{kurier}{lc}{n}     {t5-kuriercl}     {KurierCondLight-Regular}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5kurier-sample.tex:\showletters{T5}{kurier}{lc}{it}    {t5-kuriercli}    {KurierCondLight-Italic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5kurier-sample.tex:\showletters{T5}{kurier}{lc}{sc}    {t5-kurierclcap}  {KurierCondLight-Regular}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5kurier-sample.tex:\showletters{T5}{kurier}{lc}{scit}  {t5-kurierclicap} {KurierCondLight-Italic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5kurier-sample.tex:\showtext   {T5}{kurier}{lc}{n}     {t5-kuriercl}     {KurierCondLight-Regular}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5kurier-sample.tex:\showletters{T5}{kurier}{mc}{n}     {t5-kuriercr}     {KurierCond-Regular}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5kurier-sample.tex:\showletters{T5}{kurier}{mc}{it}    {t5-kuriercri}    {KurierCond-Italic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5kurier-sample.tex:\showletters{T5}{kurier}{mc}{sc}    {t5-kuriercrcap}  {KurierCond-Regular}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5kurier-sample.tex:\showletters{T5}{kurier}{mc}{scit}  {t5-kuriercricap} {KurierCond-Italic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5kurier-sample.tex:\showtext   {T5}{kurier}{mc}{n}     {t5-kuriercr}     {KurierCond-Regular}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5kurier-sample.tex:\showletters{T5}{kurier}{sbc}{n}    {t5-kuriercm}     {KurierCondMedium-Regular}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5kurier-sample.tex:\showletters{T5}{kurier}{sbc}{it}   {t5-kuriercmi}    {KurierCondMedium-Italic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5kurier-sample.tex:\showletters{T5}{kurier}{sbc}{sc}   {t5-kuriercmcap}  {KurierCondMedium-Regular}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5kurier-sample.tex:\showletters{T5}{kurier}{sbc}{scit} {t5-kuriercmicap} {KurierCondMedium-Italic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5kurier-sample.tex:\showtext   {T5}{kurier}{sbc}{n}    {t5-kuriercm}     {KurierCondMedium-Regular}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5kurier-sample.tex:\showletters{T5}{kurier}{bc}{n}     {t5-kuriercb}     {KurierCond-Bold}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5kurier-sample.tex:\showletters{T5}{kurier}{bc}{it}    {t5-kuriercbi}    {KurierCond-BoldItalic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5kurier-sample.tex:\showletters{T5}{kurier}{bc}{sc}    {t5-kuriercbcap}  {KurierCond-Bold}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5kurier-sample.tex:\showletters{T5}{kurier}{bc}{scit}  {t5-kuriercbicap} {KurierCond-BoldItalic}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/t5kurier-sample.tex:\showtext   {T5}{kurier}{bc}{n}     {t5-kuriercb}     {KurierCond-Bold}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/comicsansvn-sample.tex:\showletters{T5}{comic}{m}{n}  {comic8v}    {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/comicsansvn-sample.tex:\showletters{T5}{comic}{m}{sl} {comico8v}   {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/comicsansvn-sample.tex:\showletters{T5}{comic}{b}{n}  {comicbd8v}  {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/comicsansvn-sample.tex:\showletters{T5}{comic}{b}{sl} {comicbdo8v} {N/A}
+/usr/share/texmf-texlive/doc/generic/vntex/tests/comicsansvn-sample.tex:\showtext   {T5}{comic}{m}{n}  {comic8v}    {N/A}
+/usr/share/texmf-texlive/doc/generic/pst-vue3d/examples/CoorDemo.tex:	\showCoorThreeD[linecolor=red](15,18,15)
+/usr/share/texmf-texlive/doc/generic/pst-vue3d/examples/CoorDemo.tex:	\showCoorThreeD[linecolor=blue](20;60;40)
+/usr/share/texmf-texlive/doc/generic/ofs/changes.txt:                     \showfonts + \listfamilies reimplemented
+/usr/share/texmf-texlive/doc/latex/calendar/demoover.tex:\def\showlist{%
+/usr/share/texmf-texlive/doc/latex/calendar/demoover.tex:    \expandafter\showlist\@gobble}
+/usr/share/texmf-texlive/doc/latex/calendar/demoover.tex:    \showlist}}
+/usr/share/texmf-texlive/doc/latex/bardiag/src/10.tex:\renewcommand{\shownumbers}{0}
+/usr/share/texmf-texlive/doc/latex/bardiag/src/3.tex:    \renewcommand{\shownumbers}{0}
+/usr/share/texmf-texlive/doc/latex/bardiag/figs/exampcr.tex:\renewcommand{\shownumbers}{0}
+/usr/share/texmf-texlive/doc/latex/bardiag/bardiag2.tex:\renewcommand{\shownumbers}{0}
+/usr/share/texmf-texlive/doc/latex/bardiag/example/src/10.tex:\renewcommand{\shownumbers}{0}
+/usr/share/texmf-texlive/doc/latex/bardiag/example/src/3.tex:    \renewcommand{\shownumbers}{0}
+/usr/share/texmf-texlive/doc/latex/dialogl/fontmenu.tex:\show\fontbase
+/usr/share/texmf-texlive/doc/latex/mltex/testmlft.tex:\showhyphens{\"ubertragen \'el\`eve élève}
+/usr/share/texmf-texlive/doc/latex/mltex/testmlft.tex:\showhyphens{\"ubertragen \'el\`eve}
+/usr/share/texmf-texlive/doc/latex/mltex/testmlft.tex:\showhyphens{\"ubertragen \'el\`eve}
+/usr/share/texmf-texlive/doc/latex/mltex/testmlft.tex:\showhyphens{abondamment abstinence anh\'eler d\'el\'egu\'e}
+/usr/share/texmf-texlive/doc/latex/mltex/testmlft.tex:\renewcommand{\encodingdefault}{OT1}%% for \showhyphens!
+/usr/share/texmf-texlive/doc/latex/mltex/testmlft.tex:\showhyphens{\"ubertragen \'el\`eve}
+/usr/share/texmf-texlive/doc/latex/mltex/testmlft.tex:\showhyphens{abondamment abstinence anh\'eler d\'el\'egu\'e}
+/usr/share/texmf-texlive/doc/latex/newlfm/test1.tex:\showdim{In body of text}
+/usr/share/texmf-texlive/doc/latex/newlfm/test1.tex:%\show\topmargin\show\textheight
+/usr/share/texmf-texlive/doc/latex/newlfm/test1.tex:%\show\footskip
+/usr/share/texmf-texlive/doc/latex/newlfm/test11.tex:\showdim{In body of text}
+/usr/share/texmf-texlive/doc/latex/newlfm/test11.tex:%\show\topmargin\show\textheight
+/usr/share/texmf-texlive/doc/latex/newlfm/test11.tex:%\show\footskip
+/usr/share/texmf-texlive/doc/latex/backgammon/sampletext.tex:\shownumbers
+/usr/share/texmf-texlive/doc/latex/backgammon/sampletext.tex:\showcube
+/usr/share/texmf-texlive/doc/latex/ltabptch/ltabtest.tex:\showboxbreadth=20
+/usr/share/texmf-texlive/doc/latex/ltabptch/ltabtest.tex:\showboxdepth=3
+/usr/share/texmf-texlive/doc/latex/ltabptch/ltabtest.tex:\showlists 
+/usr/share/texmf-texlive/doc/latex/probsoln/sample2.tex:\showanswers
+/usr/share/texmf-texlive/doc/latex/probsoln/sample4.tex:\showanswers
+/usr/share/texmf-texlive/doc/latex/probsoln/sample.tex:\showanswers
+/usr/share/texmf-texlive/doc/latex/textpos/examples/t5.tex:% The \showbox puts detailed calculations in the log file
+/usr/share/texmf-texlive/doc/latex/textpos/examples/t5.tex:\showboxdepth=8
+/usr/share/texmf-texlive/doc/latex/textpos/examples/t5.tex:\showboxbreadth=8
+/usr/share/texmf-texlive/doc/latex/textpos/examples/t5.tex:%\showlists               % put detailed diagnostics into log file
+/usr/share/texmf-texlive/doc/latex/gmutils/gmutilsDoc.tex:%^^A\show\tableofcontents
+/usr/share/texmf-texlive/doc/latex/gmutils/gmutilsDoc.tex:%^^A\show\@starttoc
+/usr/share/texmf-texlive/doc/latex/ogonek/togonek1.ltx:\showhyphens
+/usr/share/texmf-texlive/doc/latex/ogonek/togonek2.ltx:\showhyphens
+/usr/share/texmf-texlive/doc/latex/randbild/README:and the command \showgrid, as well as all the
+/usr/share/texmf-texlive/doc/latex/randbild/README: \showgrid adds a grid (dotted) - should be called
+/usr/share/texmf-texlive/doc/latex/randbild/README:"randbildbasis", la komandon \showgrid kaj chiujn
+/usr/share/texmf-texlive/doc/latex/randbild/README: \showgrid montras kradon (el punktoj) - estu uzata
+/usr/share/texmf-texlive/doc/latex/ednotes/emathtst.tex:% \showboxdepth=1
+/usr/share/texmf-texlive/doc/latex/ednotes/emathtst.tex:% \showboxbreadth=30
+/usr/share/texmf-texlive/doc/latex/ednotes/emathtst.tex:% \showlists
+/usr/share/texmf-texlive/doc/latex/showlabels/showlabels.html:<dd>The <code>\showlabels</code> command will now work with commands
+/usr/share/texmf-texlive/doc/latex/showlabels/showlabels.html:<dd>Defined <code>\showlabelfont</code> using
+/usr/share/texmf-texlive/doc/latex/showlabels/showlabels.html:<dd>Added <code>\showlabelfont</code> and
+/usr/share/texmf-texlive/doc/latex/showlabels/showlabels.html:<code>\showlabelsetlabel</code> commands, allowing
+/usr/share/texmf-texlive/doc/latex/showlabels/showlabels.html:<code>\showlabels</code> command, to have the package display
+/usr/share/texmf-texlive/doc/latex/astro/astrosym.tex:\def\showsinglesymbol#1[#2]{\leavevmode\vphantom{{\astro\char1 }}
+/usr/share/texmf-texlive/doc/latex/astro/astrosym.tex:\def\showsymbol#1[#2]{\leavevmode\vphantom{{\astro\char1 }}
+/usr/share/texmf-texlive/doc/latex/astro/astrosym.tex:\def\list{\begingroup\obeylines\everypar{\showsymbol}}
+/usr/share/texmf-texlive/doc/latex/astro/astrosym.tex:\def\singlelist{\begingroup\obeylines\everypar{\showsinglesymbol}}
+/usr/share/texmf-texlive/doc/latex/astro/astrosym.tex:\def\show#1:#2 - #3 & #4 - #5 {%
+/usr/share/texmf-texlive/doc/latex/astro/astrosym.tex:\show `Calligraphic Version'         :   0 -  55 &  56 -  69
+/usr/share/texmf-texlive/doc/latex/astro/astrosym.tex:\show `Uniform Version (Bold)'       : 100 - 155 & 156 - 169
+/usr/share/texmf-texlive/doc/latex/astro/astrosym.tex:\show `Uniform Version (Thin)'       : 200 - 255 & 178 - 191
+/usr/share/texmf-texlive/doc/latex/astro/astrosym.tex:\show extra symbols (single version) :  90 -  92 &  93 -  95
+/usr/share/texmf-texlive/doc/latex/icsv/icsv-example.tex:\showaffiliations
+/usr/share/texmf-texlive/doc/latex/skak/test1.tex:\showboard
+/usr/share/texmf-texlive/doc/latex/skak/ingo-bug1.tex:\[\showboard\]
+/usr/share/texmf-texlive/doc/latex/skak/test2.tex:\[\showboard\]
+/usr/share/texmf-texlive/doc/latex/skak/test2.tex:\[\showboard\]
+/usr/share/texmf-texlive/doc/latex/skak/test2.tex:\[\showboard\]
+/usr/share/texmf-texlive/doc/latex/skak/tuggame.tex:    $$\showboard$$
+/usr/share/texmf-texlive/doc/latex/skak/tuggame.tex:$$\showboard$$
+/usr/share/texmf-texlive/doc/latex/skak/tuggame.tex:    $$\showboard$$
+/usr/share/texmf-texlive/doc/latex/skak/tuggame.tex:$$\showboard$$
+/usr/share/texmf-texlive/doc/latex/skak/andreas_wilm_1.tex:\[\showboard\]
+/usr/share/texmf-texlive/doc/latex/skak/andreas_wilm_1.tex:\[\showboard\]
+/usr/share/texmf-texlive/doc/latex/skak/WC-2004-S-00007.tex:\[\showboard\]
+/usr/share/texmf-texlive/doc/latex/skak/WC-2004-S-00007.tex:\[\showboard\]
+/usr/share/texmf-texlive/doc/latex/skak/WC-2004-S-00007.tex:\[\showboard\]
+/usr/share/texmf-texlive/doc/latex/skak/WC-2004-S-00007.tex:\[\showboard\]
+/usr/share/texmf-texlive/doc/latex/skak/WC-2004-S-00007.tex:\[\showboard\]
+/usr/share/texmf-texlive/doc/latex/skak/WC-2004-S-00007.tex:\[\showboard\]
+/usr/share/texmf-texlive/doc/latex/skak/WC-2004-S-00007.tex:\[\showboard\]
+/usr/share/texmf-texlive/doc/latex/skak/WC-2004-S-00007.tex:\[\showboard\]
+/usr/share/texmf-texlive/doc/latex/skak/WC-2004-S-00007.tex:\[\showboard\]
+/usr/share/texmf-texlive/doc/latex/skak/games.tex:\[\showboard\]
+/usr/share/texmf-texlive/doc/latex/skak/games.tex:\[\showboard\]
+/usr/share/texmf-texlive/doc/latex/skak/games.tex:\[\showboard\]
+/usr/share/texmf-texlive/doc/latex/skak/games.tex:\[\showboard\]
+/usr/share/texmf-texlive/doc/latex/skak/games.tex:\[\showboard\]
+/usr/share/texmf-texlive/doc/latex/skak/games.tex:\[\showboard\]
+/usr/share/texmf-texlive/doc/latex/skak/games.tex:\[\showboard\]
+/usr/share/texmf-texlive/doc/latex/skak/games.tex:\[\showboard\]
+/usr/share/texmf-texlive/doc/latex/datetime/manual.html:\shortdate\showdowfalse
+Fichier binaire /usr/share/texmf-texlive/doc/etex/base/etex_man.pdf concorde
+/usr/share/texmf-texlive/doc/etex/base/etex_ref.html:<LI><TT><A HREF="#showgroups">\showgroups</A></TT> </LI>
+/usr/share/texmf-texlive/doc/etex/base/etex_ref.html:<LI><TT><A HREF="#showtokens">\showtokens</A></TT> </LI>
+/usr/share/texmf-texlive/doc/etex/base/etex_ref.html:c.f. <TT>\showtokens</TT>. The effect is rather as if <TT><A HREF="#scantokens">\scantokens</A></TT>
+/usr/share/texmf-texlive/doc/etex/base/etex_ref.html:<LI><TT><A HREF="#showgroups">\showgroups</A></TT> </LI>
+/usr/share/texmf-texlive/doc/etex/base/etex_ref.html:<LI><TT><A HREF="#showtokens">\showtokens</A></TT> </LI>
+/usr/share/texmf-texlive/doc/etex/base/etex_ref.html:<DT><A NAME="showgroups"></A><TT>\showgroups</TT>: </DT>
+/usr/share/texmf-texlive/doc/etex/base/etex_ref.html:problem. <TT>\showgroups</TT> causes e-TeX to display the level and type
+/usr/share/texmf-texlive/doc/etex/base/etex_ref.html:<DT><A NAME="showtokens"></A><TT>\showtokens</TT>, </DT>
+/usr/share/texmf-texlive/doc/polish/tex-virtual-academy-pl/latex2e/macro/caption.html:obiektu</i>}</tt>, s³u¿±ce do przywrócenia domy¶lnych warto¶ci i <tt>\showcaptionsetup{<i>typ
+/usr/share/texmf-texlive/doc/polish/tex-virtual-academy-pl/latex2e/macro/flushend.html:<p>Polecenie <tt>\showcolsendrule</tt>, ¶³u¿±ce do celów testowych,
+/usr/share/texmf-texlive/doc/polish/tex-virtual-academy-pl/tex/tryby.html:x\showlists
+/usr/share/texmf-texlive/doc/polish/tex-virtual-academy-pl/tex/tryby.html:<tt>\showlists</tt>. Jest to kolejna bardzo u¿yteczna mo¿liwo¶æ ¶ledzenia
+/usr/share/texmf-texlive/doc/polish/tex-virtual-academy-pl/tex/tryby.html:<tt>\showlists</tt> powoduje bowiem wypisanie list, które buduje T<sub>E</sub>X
+/usr/share/texmf-texlive/doc/polish/tex-virtual-academy-pl/tex/tryby.html:Zauwa¿my, ¿e w&nbsp;momencie, gdy pojawi³o siê <tt>\showlists</tt> (linia&nbsp;6.), T<sub>E</sub>X
+/usr/share/texmf-texlive/doc/polish/tex-virtual-academy-pl/tex/tryby.html:w&nbsp;pliku <tt>.log</tt> po u¿yciu komendy <tt>\showlists</tt>?
+/usr/share/texmf-texlive/doc/polish/tex-virtual-academy-pl/tex/tex_key.html:<a id="show">\show</a> <i>cos</i> </td>
+/usr/share/texmf-texlive/doc/polish/tex-virtual-academy-pl/tex/tex_key.html:<a id="showbox">\showbox</a> <i>numer_pude³ka</i> </td>
+/usr/share/texmf-texlive/doc/polish/tex-virtual-academy-pl/tex/tex_key.html:<a id="showboxbreadth">\showboxbreadth</a>=<i>liczba_ca³kowita</i></td>
+/usr/share/texmf-texlive/doc/polish/tex-virtual-academy-pl/tex/tex_key.html:	    pokazywanych poleceniem <a href="#showbox"><tt>\showbox</tt></a>;
+/usr/share/texmf-texlive/doc/polish/tex-virtual-academy-pl/tex/tex_key.html:	    p. <a href="#showlists"><tt>\showlists</tt></a>
+/usr/share/texmf-texlive/doc/polish/tex-virtual-academy-pl/tex/tex_key.html:<a id="showboxdepth">\showboxdepth</a>=<i>liczba_ca³kowita</i></td>
+/usr/share/texmf-texlive/doc/polish/tex-virtual-academy-pl/tex/tex_key.html:	    pude³ek pokazywanych poleceniem <a href="#showbox"><tt>\showbox</tt></a>
+/usr/share/texmf-texlive/doc/polish/tex-virtual-academy-pl/tex/tex_key.html:<a id="showlists">\showlists</a></td>
+/usr/share/texmf-texlive/doc/polish/tex-virtual-academy-pl/tex/tex_key.html:<a id="showthe">\showthe</a> <i>cos</i> </td>
+/usr/share/texmf-texlive/doc/polish/tex-virtual-academy-pl/tex/tex_key.html:<a id="showgroups">\showgroups</a></td>
+/usr/share/texmf-texlive/doc/polish/tex-virtual-academy-pl/tex/tex_key.html:<a id="showifs">\showifs</a></td>
+/usr/share/texmf-texlive/doc/polish/tex-virtual-academy-pl/tex/tex_key.html:<a id="showtokens">\showtokens{<i>lista tokenów</i>}</a></td>
+/usr/share/texmf-texlive/doc/polish/tex-virtual-academy-pl/tex/tex_key.html:	<a href="#show"><tt>\show</tt></a> i
+/usr/share/texmf-texlive/doc/polish/tex-virtual-academy-pl/tex/tex_key.html:	<a href="#showthe"><tt>\showthe</tt></a>
+/usr/share/texmf-texlive/doc/german/FAQ-ge/html/makros4.html:<tt>\showthe</tt><tt>\laenge</tt> ausgegeben; zur Ausgabe wird der
+/usr/share/texmf-texlive/doc/german/FAQ-ge/html/makros1.html:\showhyphens{Verst\"arkerausgang}
+/usr/share/texmf-texlive/doc/german/latex-tipps-und-tricks/privat.cls:    {}{\showrefbox\par}
+/usr/share/texmf-texlive/doc/german/latex-tipps-und-tricks/privat.cls:\newcommand{\showrefbox}
+/usr/share/texmf-texlive/doc/german/latex-tipps-und-tricks/such.pl:  # \showpage{file}
+/usr/share/texmf-texlive/doc/german/latex-tipps-und-tricks/such.pl:  if (m/\\showpage\{([\w\.]+)\}/)
+/usr/share/texmf-texlive/doc/english/catalogue/entries/marginal.html:    &#8211; \showlostmarginals, to output lost marginal notes at
+/usr/share/texmf-texlive/doc/english/catalogue/entries/appelt-chess.html:    modern fonts; the macros <tt>\move</tt> and <tt>\showboard</tt>
+/usr/share/texmf-texlive/doc/english/catalogue/entries/ofs.html:    font families; the interactive macro \showfonts shows all font
+/usr/share/texmf-texlive/doc/english/latex-graphics-companion/4-6-6.inl:\begin{pspicture}(-.2,-.5)(3,1)\showgrid
+/usr/share/texmf-texlive/doc/english/latex-graphics-companion/4-6-20.inl:\begin{pspicture}(-.2,-.5)(3,2)\showgrid
+/usr/share/texmf-texlive/doc/english/latex-graphics-companion/4-6-17.inl:\begin{pspicture}(-.2,-.5)(3,2)\showgrid
+/usr/share/texmf-texlive/doc/english/latex-graphics-companion/4-6-7.inl:\begin{pspicture}(-.2,-.5)(3,1)\showgrid
+/usr/share/texmf-texlive/doc/english/latex-graphics-companion/4-2-2.inl:\begin{pspicture}(0,0)(1,1)\showgrid
+/usr/share/texmf-texlive/doc/english/latex-graphics-companion/8-4-1.ltx:\shownumbers \middlecube{1} \showcube
+/usr/share/texmf-texlive/doc/english/latex-graphics-companion/4-3-2.inl:\begin{pspicture}(0,0)(2.2,2)\showgrid
+/usr/share/texmf-texlive/doc/english/latex-graphics-companion/4-6-19.inl:\begin{pspicture}(-.2,-.5)(3,2)\showgrid
+/usr/share/texmf-texlive/doc/english/latex-graphics-companion/4-6-2.inl:\begin{pspicture}(-.2,-.5)(3,1)\showgrid
+/usr/share/texmf-texlive/doc/english/latex-graphics-companion/4-6-24.inl:\begin{pspicture}(-.2,-.5)(3.5,5)\showgrid
+/usr/share/texmf-texlive/doc/english/latex-graphics-companion/8-1-1.ltx:\[ \showboard \]
+/usr/share/texmf-texlive/doc/english/latex-graphics-companion/4-4-8.inl:\begin{pspicture}(0,0)(3,2)\showgrid
+/usr/share/texmf-texlive/doc/english/latex-graphics-companion/4-4-6.inl:\begin{pspicture}(0,0)(4,2)\showgrid
+/usr/share/texmf-texlive/doc/english/latex-graphics-companion/4-6-9.inl:\begin{pspicture}(-.2,-.5)(3,1)\showgrid
+/usr/share/texmf-texlive/doc/english/latex-graphics-companion/4-6-11.inl:\begin{pspicture}(-.2,-.5)(3,1)\showgrid
+/usr/share/texmf-texlive/doc/english/latex-graphics-companion/4-6-21.inl:\begin{pspicture}(-.2,-.5)(3,2)\showgrid
+/usr/share/texmf-texlive/doc/english/latex-graphics-companion/4-4-11.inl:\begin{pspicture}(0,0)(3,2)\showgrid
+/usr/share/texmf-texlive/doc/english/latex-graphics-companion/4-6-1.inl:\begin{pspicture}(0,0)(5,5)\showgrid
+/usr/share/texmf-texlive/doc/english/latex-graphics-companion/4-9-2.inl:\begin{pspicture}(0,0)(3,3)\showgrid
+/usr/share/texmf-texlive/doc/english/latex-graphics-companion/4-4-5.inl:\begin{pspicture}(0,0)(4.5,2)\showgrid
+/usr/share/texmf-texlive/doc/english/latex-graphics-companion/4-4-12.inl:\begin{pspicture}(0,0)(4,2)\showgrid
+/usr/share/texmf-texlive/doc/english/latex-graphics-companion/4-2-3.inl:\begin{pspicture}(0,0)(1,2)\showgrid
+/usr/share/texmf-texlive/doc/english/latex-graphics-companion/4-4-2.inl:\begin{pspicture}(0,0)(2,1)\showgrid
+/usr/share/texmf-texlive/doc/english/latex-graphics-companion/4-4-10.inl:\begin{pspicture}(0,0)(3,2)\showgrid
+/usr/share/texmf-texlive/doc/english/latex-graphics-companion/4-6-15.inl:\begin{pspicture}(-.2,-.5)(3,2)\showgrid
+/usr/share/texmf-texlive/doc/english/latex-graphics-companion/4-4-9.inl:\begin{pspicture}(0,0)(4,2)\showgrid
+/usr/share/texmf-texlive/doc/english/latex-graphics-companion/8-1-4.ltx:\[ \showboard \]
+/usr/share/texmf-texlive/doc/english/latex-graphics-companion/4-2-1.inl:\begin{pspicture}(0,0)(2,2)\showgrid
+/usr/share/texmf-texlive/doc/english/latex-graphics-companion/4-10-4.inl:\begin{pspicture}(0,0)(2,2)\showgrid
+/usr/share/texmf-texlive/doc/english/latex-graphics-companion/4-4-4.inl:\begin{pspicture}(0,0)(4,2)\showgrid
+/usr/share/texmf-texlive/doc/english/latex-graphics-companion/8-3-3.ltx:  \mbox{\showdiagram  n-t:1-8 }
+/usr/share/texmf-texlive/doc/english/latex-graphics-companion/4-6-25.inl:\begin{pspicture}(-.2,-.5)(3.5,5)\showgrid
+/usr/share/texmf-texlive/doc/english/latex-graphics-companion/4-6-10.inl:\begin{pspicture}(-.2,-.5)(3,1)\showgrid
+/usr/share/texmf-texlive/doc/english/latex-graphics-companion/4-6-12.inl:\begin{pspicture}(-.2,-.5)(3,1)\showgrid
+/usr/share/texmf-texlive/doc/english/latex-graphics-companion/4-10-3.inl:\begin{pspicture}(0,0)(2,2)\showgrid
+/usr/share/texmf-texlive/doc/english/latex-graphics-companion/4-6-18.inl:\begin{pspicture}(-.2,-.5)(3,2)\showgrid
+/usr/share/texmf-texlive/doc/english/latex-graphics-companion/4-6-5.inl:\begin{pspicture}(-.2,-.5)(3,1)\showgrid
+/usr/share/texmf-texlive/doc/english/latex-graphics-companion/4-6-13.inl:\begin{pspicture}(-.2,-.5)(3,1)\showgrid
+/usr/share/texmf-texlive/doc/english/latex-graphics-companion/4-6-16.inl:\begin{pspicture}(-.2,-.5)(3,1)\showgrid
+/usr/share/texmf-texlive/doc/english/latex-graphics-companion/4-6-3.inl:\begin{pspicture}(-.2,-.5)(3,1)\showgrid
+/usr/share/texmf-texlive/doc/english/latex-graphics-companion/4-4-1.inl:\begin{pspicture}(0,0)(2,1)\showgrid
+/usr/share/texmf-texlive/doc/english/latex-graphics-companion/4-4-3.inl:\begin{pspicture}(0,0)(2,1)\showgrid
+/usr/share/texmf-texlive/doc/english/latex-graphics-companion/4-6-14.inl:\begin{pspicture}(-.2,-.5)(3,2)\showgrid
+/usr/share/texmf-texlive/doc/english/latex-graphics-companion/4-6-4.inl:\begin{pspicture}(-.2,-.5)(3,1)\showgrid
+/usr/share/texmf-texlive/doc/english/latex-graphics-companion/8-3-2.ltx: \mbox{\showfulldiagram } \\ Best moves for Black are near
+/usr/share/texmf-texlive/doc/english/latex-graphics-companion/4-10-2.inl:\begin{pspicture}(0,0)(2,2)\showgrid
+/usr/share/texmf-texlive/doc/english/latex-graphics-companion/4-4-7.inl:\begin{pspicture}(0,0)(3,2)\showgrid
+/usr/share/texmf-texlive/doc/english/latex-graphics-companion/4-10-6.inl:\begin{pspicture}(0,0)(2,1)\showgrid
+/usr/share/texmf-texlive/doc/english/latex-graphics-companion/4-6-23.inl:\begin{pspicture}(-.2,-.5)(3,2)\showgrid
+/usr/share/texmf-texlive/doc/english/latex-graphics-companion/4-6-8.inl:\begin{pspicture}(-.2,-.5)(3,1)\showgrid
+/usr/share/texmf-texlive/doc/english/latex-graphics-companion/4-6-22.inl:\begin{pspicture}(-.2,-.5)(3,2)\showgrid
+/usr/share/texmf-texlive/doc/english/latex-graphics-companion/4-9-1.inl:\begin{pspicture}(0,0)(2,2)\showgrid
+/usr/share/texmf-texlive/doc/english/tlc2/4-2-5.ltx:\newcommand\showpage{%
+/usr/share/texmf-texlive/doc/english/tlc2/4-2-5.ltx:% \showpage as previously defined
+/usr/share/texmf-texlive/doc/english/tlc2/4-2-5.ltx:\showpage
+/usr/share/texmf-texlive/doc/english/tlc2/4-2-8.ltx2:\newcommand\showpage{%
+/usr/share/texmf-texlive/doc/english/tlc2/4-2-8.ltx2:% \showpage as previously defined
+/usr/share/texmf-texlive/doc/english/tlc2/4-2-8.ltx2:\showpage \newpage \showpage
+/usr/share/texmf-texlive/doc/english/tlc2/4-2-10.ltx:\newcommand\showpage{%
+/usr/share/texmf-texlive/doc/english/tlc2/4-2-10.ltx:% \showpage as previously defined
+/usr/share/texmf-texlive/doc/english/tlc2/4-2-10.ltx:\showpage
+/usr/share/texmf-texlive/doc/english/tlc2/4-2-7.ltx:\newcommand\showpage{%
+/usr/share/texmf-texlive/doc/english/tlc2/4-2-7.ltx:% \showpage as previously defined
+/usr/share/texmf-texlive/doc/english/tlc2/4-2-7.ltx:\showpage
+/usr/share/texmf-texlive/doc/english/tlc2/4-2-4.ltx:\newcommand\showpage{%
+/usr/share/texmf-texlive/doc/english/tlc2/4-2-4.ltx:\showpage
+/usr/share/texmf-texlive/doc/english/tlc2/4-2-3.ltx:\newcommand\showpage{%
+/usr/share/texmf-texlive/doc/english/tlc2/4-2-3.ltx:\showpage
+/usr/share/texmf-texlive/doc/english/tlc2/7-8-7.ltx:Normal: \showclock{3}{20} rounded: \textbf{\showclock{6}{17}}
+/usr/share/texmf-texlive/doc/english/tlc2/7-8-7.ltx:\\ Problem: \showclock{16}{35}\\ Fixed symbols: \Taschenuhr{}
+/usr/share/texmf-texlive/doc/english/tlc2/4-2-6.ltx:\newcommand\showpage{%
+/usr/share/texmf-texlive/doc/english/tlc2/4-2-6.ltx:% \showpage as previously defined
+/usr/share/texmf-texlive/doc/english/tlc2/4-2-6.ltx:\showpage
+/usr/share/texmf-texlive/doc/english/tlc2/4-2-9.ltx2:\newcommand\showpage{%
+/usr/share/texmf-texlive/doc/english/tlc2/4-2-9.ltx2:% \showpage as previously defined
+/usr/share/texmf-texlive/doc/english/tlc2/4-2-9.ltx2:\showpage \newpage \showpage
+/usr/share/texmf-texlive/doc/english/FAQ-en/html/FAQ-ltxcmds.html:*\show\protected@edef
+/usr/share/texmf-texlive/doc/english/FAQ-en/html/FAQ-ltxcmds.html:*\show\@unexpandable@protect
+/usr/share/texmf-texlive/doc/english/FAQ-en/html/FAQ-ltxcmds.html:*\show\texttt
+/usr/share/texmf-texlive/doc/english/FAQ-en/html/FAQ-ltxcmds.html:*\def\pshow#1{{\let\protect\show #1}}
+/usr/share/texmf-texlive/doc/english/make-tex-work/html/ch05.html:\def\showxheight#1{
+/usr/share/texmf-texlive/doc/english/make-tex-work/html/ch05.html:\showxheight{phvr}
+/usr/share/texmf-texlive/doc/english/make-tex-work/html/ch05.html:\showxheight{cmr10}
+/usr/share/texmf-texlive/doc/fontinst/base/test/v1923test.tex:% %      \expandafter\show \csname r-T-upright\endcsname
+/usr/share/texmf-texlive/doc/fontinst/base/test/v1915test.tex:% \def\showcatcodes{\message{\do{\ }\do{\^^M}\do{\@}\do{\_}\do{\~}}}
+/usr/share/texmf-texlive/doc/fontinst/base/test/v1915test.tex:% \showcatcodes
+/usr/share/texmf-texlive/doc/fontinst/base/test/v1915test.tex:% \show\fontinstcc
+/usr/share/texmf-texlive/doc/fontinst/base/test/v1915test.tex:% \showcatcodes
+/usr/share/texmf-texlive/doc/fontinst/base/test/v1915test.tex:% \show\normalcc
+/usr/share/texmf-texlive/doc/fontinst/base/test/v1915test.tex:% \showcatcodes
+/usr/share/texmf-texlive/doc/fontinst/base/test/v1914test.tex:%       \expandafter\show \csname g-A\endcsname
+/usr/share/texmf-texlive/web2c/cp227.tcx:%% \showhyphens{$\Psi$}
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-alpha.bst:%%%                        values are wrapped inside macros \showCODEN{}
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-alpha.bst:%%%                            \ifshowURL {\showURL \path|...|} \fi
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-alpha.bst:%%%                        where \showURL takes no argument, and
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-alpha.bst:%%%                        any font changes made by \showURL remain
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-alpha.bst:%%%                            \newcommand{\showURL}{URL
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-alpha.bst:%%%      Add wrapper macros \showXYZ{} (XYZ = CODEN, ISBN, ISSN, LCCN,
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-alpha.bst:    { new.block "\showCODEN{" coden * "}" *}
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-alpha.bst:    { new.block "\showISBN{" isbn * "}" *}
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-alpha.bst:    { new.block "\showISSN{" issn * "}" *}
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-alpha.bst:    { new.block "\showLCCN{" lccn * "}" *}
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-alpha.bst:    { new.block "\showPRICE{" price * "}" *}
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-alpha.bst:    { new.block "\ifshowURL {\showURL \path|" url * "|}\fi" *}
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-alpha.bst:  "\ifx \showCODEN  \undefined \def \showCODEN #1{CODEN #1}  \fi" write$ newline$
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-alpha.bst:  "\ifx \showISBN   \undefined \def \showISBN  #1{ISBN #1}   \fi" write$ newline$
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-alpha.bst:  "\ifx \showISSN   \undefined \def \showISSN  #1{ISSN #1}   \fi" write$ newline$
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-alpha.bst:  "\ifx \showLCCN   \undefined \def \showLCCN  #1{LCCN #1}   \fi" write$ newline$
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-alpha.bst:  "\ifx \showPRICE  \undefined \def \showPRICE #1{#1}        \fi" write$ newline$
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-alpha.bst:  "\ifx \showURL    \undefined \def \showURL {URL }          \fi" write$ newline$
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-alpha.bst:  "     \showURLtrue"          write$ newline$
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-plain.bst:%%%                        values are wrapped inside macros \showCODEN{}
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-plain.bst:%%%                            \ifshowURL {\showURL \path|...|} \fi
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-plain.bst:%%%                        where \showURL takes no argument, and
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-plain.bst:%%%                        any font changes made by \showURL remain
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-plain.bst:%%%                            \newcommand{\showURL}{URL
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-plain.bst:%%%      Add wrapper macros \showXYZ{} (XYZ = CODEN, ISBN, ISSN, LCCN,
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-plain.bst:    { new.block "\showCODEN{" coden * "}" *}
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-plain.bst:    { new.block "\showISBN{" isbn * "}" *}
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-plain.bst:    { new.block "\showISSN{" issn * "}" *}
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-plain.bst:    { new.block "\showLCCN{" lccn * "}" *}
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-plain.bst:    { new.block "\showPRICE{" price * "}" *}
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-plain.bst:    { new.block "\ifshowURL {\showURL \path|" url * "|}\fi" *}
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-plain.bst:  "\ifx \showCODEN  \undefined \def \showCODEN #1{CODEN #1}  \fi" write$ newline$
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-plain.bst:  "\ifx \showISBN   \undefined \def \showISBN  #1{ISBN #1}   \fi" write$ newline$
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-plain.bst:  "\ifx \showISSN   \undefined \def \showISSN  #1{ISSN #1}   \fi" write$ newline$
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-plain.bst:  "\ifx \showLCCN   \undefined \def \showLCCN  #1{LCCN #1}   \fi" write$ newline$
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-plain.bst:  "\ifx \showPRICE  \undefined \def \showPRICE #1{#1}        \fi" write$ newline$
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-plain.bst:  "\ifx \showURL    \undefined \def \showURL {URL }          \fi" write$ newline$
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-plain.bst:  "     \showURLtrue"          write$ newline$
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-abbrv.bst:%%%                        values are wrapped inside macros \showCODEN{}
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-abbrv.bst:%%%                            \ifshowURL {\showURL \path|...|} \fi
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-abbrv.bst:%%%                        where \showURL takes no argument, and
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-abbrv.bst:%%%                        any font changes made by \showURL remain
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-abbrv.bst:%%%                            \newcommand{\showURL}{URL
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-abbrv.bst:%%%      Add wrapper macros \showXYZ{} (XYZ = CODEN, ISBN, ISSN, LCCN,
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-abbrv.bst:    { new.block "\showCODEN{" coden * "}" *}
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-abbrv.bst:    { new.block "\showISBN{" isbn * "}" *}
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-abbrv.bst:    { new.block "\showISSN{" issn * "}" *}
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-abbrv.bst:    { new.block "\showLCCN{" lccn * "}" *}
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-abbrv.bst:    { new.block "\showPRICE{" price * "}" *}
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-abbrv.bst:    { new.block "\ifshowURL {\showURL \path|" url * "|}\fi" *}
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-abbrv.bst:  "\ifx \showCODEN  \undefined \def \showCODEN #1{CODEN #1}  \fi" write$ newline$
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-abbrv.bst:  "\ifx \showISBN   \undefined \def \showISBN  #1{ISBN #1}   \fi" write$ newline$
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-abbrv.bst:  "\ifx \showISSN   \undefined \def \showISSN  #1{ISSN #1}   \fi" write$ newline$
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-abbrv.bst:  "\ifx \showLCCN   \undefined \def \showLCCN  #1{LCCN #1}   \fi" write$ newline$
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-abbrv.bst:  "\ifx \showPRICE  \undefined \def \showPRICE #1{#1}        \fi" write$ newline$
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-abbrv.bst:  "\ifx \showURL    \undefined \def \showURL {URL }          \fi" write$ newline$
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-abbrv.bst:  "     \showURLtrue"          write$ newline$
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-unsrt.bst:%%%                        values are wrapped inside macros \showCODEN{}
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-unsrt.bst:%%%                            \ifshowURL {\showURL \path|...|} \fi
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-unsrt.bst:%%%                        where \showURL takes no argument, and
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-unsrt.bst:%%%                        any font changes made by \showURL remain
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-unsrt.bst:%%%                            \newcommand{\showURL}{URL
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-unsrt.bst:%%%      Add wrapper macros \showXYZ{} (XYZ = CODEN, ISBN, ISSN, LCCN,
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-unsrt.bst:    { new.block "\showCODEN{" coden * "}" *}
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-unsrt.bst:    { new.block "\showISBN{" isbn * "}" *}
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-unsrt.bst:    { new.block "\showISSN{" issn * "}" *}
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-unsrt.bst:    { new.block "\showLCCN{" lccn * "}" *}
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-unsrt.bst:    { new.block "\showPRICE{" price * "}" *}
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-unsrt.bst:    { new.block "\ifshowURL {\showURL \path|" url * "|}\fi" *}
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-unsrt.bst:  "\ifx \showCODEN  \undefined \def \showCODEN #1{CODEN #1}  \fi" write$ newline$
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-unsrt.bst:  "\ifx \showISBN   \undefined \def \showISBN  #1{ISBN #1}   \fi" write$ newline$
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-unsrt.bst:  "\ifx \showISSN   \undefined \def \showISSN  #1{ISSN #1}   \fi" write$ newline$
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-unsrt.bst:  "\ifx \showLCCN   \undefined \def \showLCCN  #1{LCCN #1}   \fi" write$ newline$
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-unsrt.bst:  "\ifx \showPRICE  \undefined \def \showPRICE #1{#1}        \fi" write$ newline$
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-unsrt.bst:  "\ifx \showURL    \undefined \def \showURL {URL }          \fi" write$ newline$
+/usr/share/texmf-texlive/bibtex/bst/beebe/is-unsrt.bst:  "     \showURLtrue"          write$ newline$
+/usr/share/texmf-texlive/tex/latex3/galley/galley2.sty:\def\showGALcmd#1{\GAL@typeout{In~#1: \the\GAL@level@num~ \on@line}}
+/usr/share/texmf-texlive/tex/latex3/galley/galley2.sty:  \showGALcmd{@afterheading}
+/usr/share/texmf-texlive/tex/latex3/galley/galley2.sty:  \showGALcmd{}
+/usr/share/texmf-texlive/tex/latex3/galley/galley2.sty:  \showGALcmd{protected@write}
+/usr/share/texmf-texlive/tex/latex3/galley/galley2.sty:  \showGALcmd{}
+/usr/share/texmf-texlive/tex/latex3/galley/galley2.sty:  \showGALcmd{}
+/usr/share/texmf-texlive/tex/latex3/galley/galley2.sty:  \showGALcmd{newpage}
+/usr/share/texmf-texlive/tex/latex3/galley/galley2.sty:  \showGALcmd{@arrayparboxrestore}
+/usr/share/texmf-texlive/tex/latex3/galley/galley2.sty:  \showGALcmd{@startsection}
+/usr/share/texmf-texlive/tex/latex3/galley/galley2.sty:  \showGALcmd{@xsect}
+/usr/share/texmf-texlive/tex/latex3/galley/galley2.sty:  \showGALcmd{@specialoutput}
+/usr/share/texmf-texlive/tex/latex3/galley/galley2.sty:  \showGALcmd{@addtocurcol}
+/usr/share/texmf-texlive/tex/latex3/galley/galley2.sty:  \showGALcmd{@item}
+/usr/share/texmf-texlive/tex/latex3/galley/galley2.sty:\gdef\showhyphens#1{%
+/usr/share/texmf-texlive/tex/latex3/galley/galley2.sty:    \pretolerance\m@ne\tolerance\m@ne\hbadness\z@\showboxdepth\z@\ #1%
+/usr/share/texmf-texlive/tex/latex3/xor/xo-or.sty:\showfloatlists
+/usr/share/texmf-texlive/tex/latex3/xor/xo-trace.sty:\def\showmarks{
+/usr/share/texmf-texlive/tex/latex3/xor/xo-trace.sty:\def\showfloatlists{{
+/usr/share/texmf-texlive/tex/latex3/xor/xo-trace.sty:  \showfloatarea{t13}
+/usr/share/texmf-texlive/tex/latex3/xor/xo-trace.sty:  \showfloatarea{t12}
+/usr/share/texmf-texlive/tex/latex3/xor/xo-trace.sty:  \showfloatarea{t22}
+/usr/share/texmf-texlive/tex/latex3/xor/xo-trace.sty:  \showfloatarea{t11}
+/usr/share/texmf-texlive/tex/latex3/xor/xo-trace.sty:  \showfloatarea{t21}
+/usr/share/texmf-texlive/tex/latex3/xor/xo-trace.sty:  \showfloatarea{t31}
+/usr/share/texmf-texlive/tex/latex3/xor/xo-trace.sty:  \showfloatarea{b11}
+/usr/share/texmf-texlive/tex/latex3/xor/xo-trace.sty:  \showfloatarea{b21}
+/usr/share/texmf-texlive/tex/latex3/xor/xo-trace.sty:  \showfloatarea{b31}
+/usr/share/texmf-texlive/tex/latex3/xor/xo-trace.sty:  \show\@tempa}}
+/usr/share/texmf-texlive/tex/latex3/xor/xo-trace.sty:\def\showfloatarea#1{
+/usr/share/texmf-texlive/tex/latex3/xor/xo-float.sty:        \show\fpc@list
+/usr/share/texmf-texlive/tex/latex3/template/template.sty:   \expandafter\show\csname TP>/#1/#2\endcsname}
+/usr/share/texmf-texlive/tex/latex3/template/template.sty:   \expandafter\show\csname <#1>#2/#3\endcsname}
+/usr/share/texmf-texlive/tex/ytex/base/yuser.mac:\showcopyrightfalse
+/usr/share/texmf-texlive/tex/ytex/base/yusage.tex:putting "\showthe" in front of the parameter name.  For example,
+/usr/share/texmf-texlive/tex/ytex/base/yusage.tex:if you said "\showthe\parindent" in your input file, \ytex\ would print
+/usr/share/texmf-texlive/tex/ytex/base/yusage.tex:...  \showthe\parindent
+/usr/share/texmf-texlive/tex/ytex/base/yusage.tex:\*\:"\showcopyrighttrue"\: and "\showcopyrightfalse"\\allow and
+/usr/share/texmf-texlive/tex/ytex/base/yusage.tex:    "\showcopyright"&      T&  false\crs
+/usr/share/texmf-texlive/tex/eplain/eplain.tex:   \showboxbreadth\maxdimen\showboxdepth\maxdimen
+/usr/share/texmf-texlive/tex/eplain/eplain.tex:\def\tracingboxes{\showboxbreadth = \maxdimen \showboxdepth = \maxdimen}%
+/usr/share/texmf-texlive/tex/eplain/eplain.tex:  \showboxbreadth5 \showboxdepth3
+/usr/share/texmf-texlive/tex/generic/pst-eucl/pst-eucl.tex:      \showpointsfalse
+/usr/share/texmf-texlive/tex/generic/pst-eucl/pst-eucl.tex:        \showpointsfalse
+/usr/share/texmf-texlive/tex/generic/pst-eucl/pst-eucl.tex:    \showpointsfalse
+/usr/share/texmf-texlive/tex/generic/pstricks/pst-node.tex:\showpointsfalse
+/usr/share/texmf-texlive/tex/generic/pstricks/pst-node.tex:\showpointsfalse
+/usr/share/texmf-texlive/tex/generic/pstricks/pst-plot.tex:      \ifdim\pst@dimb=\z@\else\showoriginfalse\fi
+/usr/share/texmf-texlive/tex/generic/pstricks/pst-plot.tex:      \ifdim\pst@dima=\z@\else\showoriginfalse\fi
+/usr/share/texmf-texlive/tex/generic/pstricks/pst-plot.tex:      \showoriginfalse
+/usr/share/texmf-texlive/tex/generic/pstricks/pst-plot.tex:      \showoriginfalse
+/usr/share/texmf-texlive/tex/generic/pstricks/pstricks.tex:    \showpointsfalse
+/usr/share/texmf-texlive/tex/generic/pstricks/pstricks.tex:    \let\showpointstrue\relax
+/usr/share/texmf-texlive/tex/generic/pstricks/pstricks.tex:    \showpointsfalse
+/usr/share/texmf-texlive/tex/generic/pstricks/pstricks.tex:    \showpointsfalse
+/usr/share/texmf-texlive/tex/generic/pstricks/pstricks.tex:\def\pst@linetype{4}\showpointsfalse
+/usr/share/texmf-texlive/tex/generic/pstricks/pstricks.tex:    \showpointsfalse
+/usr/share/texmf-texlive/tex/generic/pstricks/pstricks.tex:    \showpointsfalse
+/usr/share/texmf-texlive/tex/generic/pstricks/pstricks.tex:  \showpointsfalse
+/usr/share/texmf-texlive/tex/generic/pstricks/pstricks.tex:\showpointsfalse
+/usr/share/texmf-texlive/tex/generic/pstricks/pstricks.tex:  \showpointsfalse
+/usr/share/texmf-texlive/tex/generic/genmisc/ragged.sty:    \endgraf\global\R@Glinect=\prevgraf %\showthe\prevgraf
+/usr/share/texmf-texlive/tex/generic/genmisc/ragged.sty:    \hangindent=\R@Gindentdim %\showthe\R@Gindentdim
+/usr/share/texmf-texlive/tex/generic/genmisc/longdiv.tex:   \def\showdig{$\underline{\the\LDscratch\strut}$\cr\the\rtot\strut\cr
+/usr/share/texmf-texlive/tex/generic/genmisc/longdiv.tex:   \count0=\rtot\divide\count0by#2\edef\quotient{\the\count0}%\show\quotient
+/usr/share/texmf-texlive/tex/generic/genmisc/longdiv.tex:      \ifnum\LDscratch>0 \showdig \fi % must hide \cr in a macro to skip it
+/usr/share/texmf-texlive/tex/generic/genmisc/outerhbox.sty:\setbox 0 \hbox{$2+2=2$} \showbox 0
+/usr/share/texmf-texlive/tex/generic/genmisc/outerhbox.sty:\setbox 0 \outerhbox{$2+2=2$} \showbox 0
+/usr/share/texmf-texlive/tex/generic/genmisc/outerhbox.sty:  \setbox 0 \outerhbox{$2+2=2$} \showbox 0
+/usr/share/texmf-texlive/tex/generic/genmisc/outerhbox.sty:\setbox 0 \outerhbox{a\par b} \showbox 0
+/usr/share/texmf-texlive/tex/generic/genmisc/outerhbox.sty:\setbox 0 \outerhbox{} \showbox 0
+/usr/share/texmf-texlive/tex/generic/genmisc/outerhbox.sty:\setbox 0 \outerhbox{\ } \showbox 0
+/usr/share/texmf-texlive/tex/generic/genmisc/ruler.tex:\showboxbreadth=20 \showboxdepth=7
+/usr/share/texmf-texlive/tex/generic/genmisc/ruler.tex:  \leftrulertrue \picaruler{19}{\storea}%\showbox\storea
+/usr/share/texmf-texlive/tex/generic/musictex/musictrp.tex:                        \noexpand\Fl #1 }\showthe\n@ii
+/usr/share/texmf-texlive/tex/generic/musictex/musictrp.tex:                          \noexpand\Fl #1 }\showthe\n@ii
+/usr/share/texmf-texlive/tex/generic/musictex/musictrp.tex:                          \noexpand\Na #1 }\showthe\n@ii
+/usr/share/texmf-texlive/tex/generic/musictex/musictrp.tex:                          \noexpand\Sh #1 }\showthe\n@ii
+/usr/share/texmf-texlive/tex/generic/musictex/musictrp.tex:                          \noexpand\dSh #1 }\showthe\n@ii
+/usr/share/texmf-texlive/tex/generic/musictex/musictrp.tex:                          \noexpand\dSh #1 }\showthe\n@ii
+/usr/share/texmf-texlive/tex/generic/musictex/musictrp.tex:                        \noexpand\Fl #1 }\showthe\n@ii
+/usr/share/texmf-texlive/tex/generic/musictex/musictrp.tex:                          \noexpand\Fl #1 }\showthe\n@ii
+/usr/share/texmf-texlive/tex/generic/musictex/musictrp.tex:                          \noexpand\Na #1 }\showthe\n@ii
+/usr/share/texmf-texlive/tex/generic/musictex/musictrp.tex:                          \noexpand\Sh #1 }\showthe\n@ii
+/usr/share/texmf-texlive/tex/generic/musictex/musictrp.tex:                          \noexpand\dSh #1 }\showthe\n@ii
+/usr/share/texmf-texlive/tex/generic/musictex/musictrp.tex:                          \noexpand\dSh #1 }\showthe\n@ii
+/usr/share/texmf-texlive/tex/generic/musictex/musictrp.tex:                          \noexpand\Sh #1 }\showthe\n@ii
+/usr/share/texmf-texlive/tex/generic/musictex/musictrp.tex:                          \noexpand\Sh #1 }\showthe\n@ii
+/usr/share/texmf-texlive/tex/generic/musictex/musictrp.tex:                          \noexpand\Sh #1 }\showthe\n@ii
+/usr/share/texmf-texlive/tex/generic/musictex/musictex.tex:\ifdim\n@skip<\noteskip \showthe\noteskip\showthe\n@skip
+/usr/share/texmf-texlive/tex/generic/musictex/musictex.tex:  \ifnum\h@lnlv<-20\relax\showthe\h@lnlv\fi
+/usr/share/texmf-texlive/tex/generic/musictex/musictex.tex:  \ifnum\h@lnlv>30\relax\showthe\h@lnlv\fi
+/usr/share/texmf-texlive/tex/generic/musictex/musictex.tex:\def\t@bbbbbu{\ifnum\b@n<-5\relax\showthe\b@n\global\b@n=-5\relax\fi
+/usr/share/texmf-texlive/tex/generic/musictex/musictex.tex:\ifnum\b@n>5\relax\showthe\b@n\global\b@n=5\relax\fi
+/usr/share/texmf-texlive/tex/generic/musictex/musictex.tex:\ifnum\b@n<-5\relax\showthe\b@n\global\b@n=-5\relax\fi
+/usr/share/texmf-texlive/tex/generic/musictex/musictex.tex:\ifnum\b@n>5\relax\showthe\b@n\global\b@n=5\relax\fi
+/usr/share/texmf-texlive/tex/generic/shapepar/shapepar.sty:\def\SH@ignorepaR{%\show\SH@next 
+/usr/share/texmf-texlive/tex/generic/xypic/xyps-ps.tex:\xydef@\showPSmessages{\let\PSmessage=\PSmessage@}
+/usr/share/texmf-texlive/tex/generic/xypic/xyps-ps.tex:\xylet@\PStracing=\showPSmessages
+/usr/share/texmf-texlive/tex/generic/xypic/xyarc.tex:\xydef@\parallelDirection@{\show\parallelDirection@}%
+/usr/share/texmf-texlive/tex/generic/dratex/AlProTex.sty:\let\showttl:WriteTrc=\:WriteTrc
+/usr/share/texmf-texlive/tex/generic/dratex/AlProTex.sty:  \showttl:WriteTrc{#1}}
+/usr/share/texmf-texlive/tex/generic/dratex/TeXProject.sty:         \showdate:\csname#1 :date\endcsname/0/0/0//}
+/usr/share/texmf-texlive/tex/generic/dratex/TeXProject.sty:        \showdate:\csname#1 :date#2\endcsname/0/0/0//}
+/usr/share/texmf-texlive/tex/generic/dratex/TeXProject.sty:\def\datestyle{\def\showdate:##1/##2/##3/##4//}
+/usr/share/texmf-texlive/tex/generic/dratex/TeXProject.sty:\edef\dates:{\showdate:\dyS:/\moS:/\yrS:/0// \nodates:
+/usr/share/texmf-texlive/tex/generic/dratex/TeXProject.sty:             \showdate:\dyF:/\moF:/\yrF:/0//}
+/usr/share/texmf-texlive/tex/generic/dratex/TeXProject.sty:  \MoveToLoc(NE)  {\Text(--\phantom{\showdate:00/00/00/0//}--)
+/usr/share/texmf-texlive/tex/generic/dratex/TeXProject.sty:\MoveToLoc(ne:) {\Text(--\phantom{\showdate:00/00/00/0//}--)
+/usr/share/texmf-texlive/tex/generic/pst-poly/pst-poly.tex:       \showpointsfalse%
+/usr/share/texmf-texlive/tex/generic/pst-text/pst-text.tex:      \showpointsfalse
+/usr/share/texmf-texlive/tex/generic/pst-vue3d/pst-vue3d.tex:\def\showCoorThreeD{\pst@object{showCoorThreeD}}
+/usr/share/texmf-texlive/tex/generic/pst-vue3d/pst-vue3d.tex:\def\showCoorThreeD@i(#1){{%
+/usr/share/texmf-texlive/tex/generic/pst-vue3d/pst-vue3d.tex:      \showCoorThreeD@ii#1,@comma*\relax
+/usr/share/texmf-texlive/tex/generic/pst-vue3d/pst-vue3d.tex:\def\showCoorThreeD@ii#1,#2*{%
+/usr/share/texmf-texlive/tex/generic/pst-vue3d/pst-vue3d.tex:    \showCoorThreeD@iii#1;#2\else\showCoorThreeD@iv#1,#2\relax%
+/usr/share/texmf-texlive/tex/generic/pst-vue3d/pst-vue3d.tex:\def\showCoorThreeD@iii#1;#2;#3;#4\relax{%
+/usr/share/texmf-texlive/tex/generic/pst-vue3d/pst-vue3d.tex:\def\showCoorThreeD@iv#1,#2,#3,#4\relax{%
+/usr/share/texmf-texlive/tex/generic/pst-vue3d/pst-vue3d.tex:  \showpointsfalse%
+/usr/share/texmf-texlive/tex/generic/pst-vue3d/pst-vue3d.tex:    \showpointsfalse%
+/usr/share/texmf-texlive/tex/generic/pst-vue3d/pst-vue3d.tex:    \showpointsfalse%
+/usr/share/texmf-texlive/tex/generic/pst-vue3d/pst-vue3d.tex:    \showpointsfalse%
+/usr/share/texmf-texlive/tex/generic/pst-vue3d/pst-vue3d.tex:    \showpointsfalse%
+/usr/share/texmf-texlive/tex/generic/pst-vue3d/pst-vue3d.tex:    \showpointsfalse
+/usr/share/texmf-texlive/tex/generic/pst-vue3d/pst-vue3d.tex:    \showpointsfalse
+/usr/share/texmf-texlive/tex/generic/pst-vue3d/pst-vue3d.tex:    \showpointsfalse
+/usr/share/texmf-texlive/tex/generic/pst-vue3d/pst-vue3d.tex:    \showpointsfalse%
+/usr/share/texmf-texlive/tex/generic/pst-vue3d/pst-vue3d.tex:  \showpointsfalse%
+/usr/share/texmf-texlive/tex/generic/pst-vue3d/pst-vue3d.tex:    \showpointsfalse%
+/usr/share/texmf-texlive/tex/generic/mfpic/mfpic.tex:  \newdef\showcontrols{\mfp@optrendii{showcontrols}{\the\pointsize}}%
+/usr/share/texmf-texlive/tex/generic/pst-coil/pst-coil.tex:    \showpointsfalse
+/usr/share/texmf-texlive/tex/generic/pst-coil/pst-coil.tex:  \showpointsfalse
+/usr/share/texmf-texlive/tex/generic/pst-3dplot/pst-3dplot.tex:  \showpointsfalse%
+/usr/share/texmf-texlive/tex/generic/pst-3dplot/pst-3dplot.tex:  \showpointsfalse%
+/usr/share/texmf-texlive/tex/generic/pstricks-add/pstricks-add.tex:    \ifdim\pst@dima=\z@\else\showoriginfalse\fi%
+/usr/share/texmf-texlive/tex/generic/pstricks-add/pstricks-add.tex:    \ifPst@xAxis\else\showorigintrue\fi%
+/usr/share/texmf-texlive/tex/generic/pstricks-add/pstricks-add.tex:    \ifPst@xAxis\showoriginfalse\fi%
+/usr/share/texmf-texlive/tex/generic/pstricks-add/pstricks-add.tex:    \ifdim\pst@dimb=\z@\else\showoriginfalse\fi%
+/usr/share/texmf-texlive/tex/generic/pstricks-add/pstricks-add.tex:    \ifPst@yAxis\else\showorigintrue\fi%
+/usr/share/texmf-texlive/tex/generic/pstricks-add/pstricks-add.tex:    \ifPst@yAxis\showoriginfalse\fi%
+/usr/share/texmf-texlive/tex/generic/pstricks-add/pstricks-add.tex:%        \ifPst@yAxis\else\showorigintrue\fi%
+/usr/share/texmf-texlive/tex/generic/pstricks-add/pstricks-add.tex:        \showoriginfalse%
+/usr/share/texmf-texlive/tex/generic/pstricks-add/pstricks-add.tex:%      \ifPst@xAxis\else\showorigintrue\fi%
+/usr/share/texmf-texlive/tex/generic/pstricks-add/pstricks-add.tex:      \showoriginfalse%
+/usr/share/texmf-texlive/tex/generic/ofs/a35.tex:% \showfonts    ... to show the loaded fontfamilies on terminal
+/usr/share/texmf-texlive/tex/generic/ofs/pantyk.tex:% \showfonts    ... to show the loaded fontfamilies on terminal
+/usr/share/texmf-texlive/tex/generic/ofs/ofs.sty:\showfonts  ... shows all loaded font families (by previous \usepackage)^^J
+/usr/share/texmf-texlive/tex/generic/ofs/ofs.sty:%%%% \showfonts %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+/usr/share/texmf-texlive/tex/generic/ofs/ofs.sty:\def\showfonts{\typeout{\ofs@messageheader
+/usr/share/texmf-texlive/tex/generic/ofs/ofs.tex:                            % \showfonts lists only registered families
+/usr/share/texmf-texlive/tex/generic/ofs/ofs.tex:\showfonts  ... shows all loaded font families (by previous \input)^^J
+/usr/share/texmf-texlive/tex/generic/ofs/ofs.tex:%%%% \showfonts %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+/usr/share/texmf-texlive/tex/generic/ofs/ofs.tex:\def\showfonts{\bgroup \def\displaymessage{\immediate\write16 }%
+/usr/share/texmf-texlive/tex/generic/ofs/a117.tex:% \showfonts    ... to show the loaded fontfamilies on terminal
+/usr/share/texmf-texlive/tex/generic/ofs/ofs-slt.tex:\showboxdepth=10 \showboxbreadth=50
+/usr/share/texmf-texlive/tex/generic/ofs/ofs-slt.tex:\showfonts  ... shows all loaded font families (by previous \input)
+/usr/share/texmf-texlive/tex/generic/ofs/ofs-slt.tex:Vidíme, ¾e pøíkaz "\showfonts" nám uká¾e kolekce fontù. Pokud jsme
+/usr/share/texmf-texlive/tex/generic/ofs/ofs-slt.tex:*\showfonts
+/usr/share/texmf-texlive/tex/generic/ofs/ofs-slt.tex:Kdy¾ tedy napí¹u "$ tex allfonts \\showfonts \\end | less"~, dostanu
+/usr/share/texmf-texlive/tex/generic/ofs/ofs-slt.tex:písmena), pøíkaz "\setfonts" spustí "\showfonts", tj. na obrazovce 
+/usr/share/texmf-texlive/tex/latex/revtex/revtex4.cls: \showboxbreadth5\showboxdepth3\relax %\errorstopmode
+/usr/share/texmf-texlive/tex/latex/revtex/revtex4.cls: \appdef\@resetactivechars{\showoutput}%
+/usr/share/texmf-texlive/tex/latex/revtex/revtex4.cls:   \showbox\@cclv
+/usr/share/texmf-texlive/tex/latex/revtex/revtex4.cls:   \showbox\@cclv@saved
+/usr/share/texmf-texlive/tex/latex/revtex/revtex4.cls:   \showbox\pagesofar
+/usr/share/texmf-texlive/tex/latex/revtex/revtex4.cls:   \showbox\footbox
+/usr/share/texmf-texlive/tex/latex/revtex/revtex4.cls:   \showbox\footins@saved
+/usr/share/texmf-texlive/tex/latex/revtex/revtex4.cls:   \showbox\footins
+/usr/share/texmf-texlive/tex/latex/revtex/revtex4.cls:   \showlists
+/usr/share/texmf-texlive/tex/latex/revtex/revtex4.cls:\outputdebug@sw{{\tracingall\scrollmode\showbox\z@}}{}%
+/usr/share/texmf-texlive/tex/latex/revtex/revtex4.cls:  \outputdebug@sw{{\tracingall\scrollmode\showbox\tw@\showbox\z@}}{}%
+/usr/share/texmf-texlive/tex/latex/revtex/revtex4.cls:\outputdebug@sw{{\tracingall\scrollmode\showbox\@cclv}}{}%
+/usr/share/texmf-texlive/tex/latex/revtex/revtex4.cls:  \outputdebug@sw{{\tracingall\scrollmode\showbox\z@}}{}%
+/usr/share/texmf-texlive/tex/latex/revtex/revtex4.cls:\outputdebug@sw{{\tracingall\scrollmode\showbox\footins}}{}%
+/usr/share/texmf-texlive/tex/latex/revtex/revtex4.cls:\outputdebug@sw{{\tracingall\scrollmode\showbox#1\showbox#2}}{}%
+/usr/share/texmf-texlive/tex/latex/revtex/revtex4.cls:\outputdebug@sw{{\tracingall\scrollmode\showbox#1\showbox#2}}{}%
+/usr/share/texmf-texlive/tex/latex/revtex/revtex4.cls: \outputdebug@sw{{\tracingall\scrollmode\showbox\footbox}}{}%
+/usr/share/texmf-texlive/tex/latex/revtex/revtex4.cls: \@ifxundefined\showPACS@sw{\@booleanfalse\showPACS@sw}{}%
+/usr/share/texmf-texlive/tex/latex/revtex/revtex4.cls: \@ifxundefined\showKEYS@sw{\@booleanfalse\showKEYS@sw}{}%
+/usr/share/texmf-texlive/tex/latex/revtex/revtex4.cls:  \@booleantrue\showPACS@sw
+/usr/share/texmf-texlive/tex/latex/revtex/revtex4.cls:  \@booleantrue\showKEYS@sw
+/usr/share/texmf-texlive/tex/latex/revtex/revtex4.cls:  \@booleantrue\showPACS@sw
+/usr/share/texmf-texlive/tex/latex/revtex/revtex4.cls:  \@booleanfalse\showPACS@sw
+/usr/share/texmf-texlive/tex/latex/revtex/revtex4.cls:  \@booleantrue\showKEYS@sw
+/usr/share/texmf-texlive/tex/latex/revtex/revtex4.cls:  \@booleanfalse\showKEYS@sw
+/usr/share/texmf-texlive/tex/latex/revtex/revtex4.cls: \showPACS@sw{%
+/usr/share/texmf-texlive/tex/latex/revtex/revtex4.cls: \showKEYS@sw{%
+/usr/share/texmf-texlive/tex/latex/refcheck/refcheck.sty:\def\showrefnames{\global\@show@reftrue}
+/usr/share/texmf-texlive/tex/latex/refcheck/refcheck.sty:\def\showcitenames{\global\@show@citetrue}
+/usr/share/texmf-texlive/tex/latex/nath/nath.sty:\def\showverticaldimensionsofthebox#1{%
+/usr/share/texmf-texlive/tex/latex/formlett/formlett.sty:%     \showparas \preview \previewtrue \previewfalse \existfile
+/usr/share/texmf-texlive/tex/latex/formlett/formlett.sty:%         \preview \showparas
+/usr/share/texmf-texlive/tex/latex/formlett/formlett.sty:\newif\ifshowp@r@ \showp@r@true % default mode
+/usr/share/texmf-texlive/tex/latex/formlett/formlett.sty:\def\show@paras{\showp@r@true\lettercontents}%
+/usr/share/texmf-texlive/tex/latex/formlett/formlett.sty:\def\showparas{\show@paras}%
+/usr/share/texmf-texlive/tex/latex/formlett/formlett.sty:\long\def\moreletter##1#3{\showp@r@false
+/usr/share/texmf-texlive/tex/latex/formlett/formlett.sty:  \clr@allrows\refillst@ck##1#3\lettercontents\clr@allrows\showp@r@true}%
+/usr/share/texmf-texlive/tex/latex/formlett/formlett.sty:\long\def\out@letter##1#3{\showp@r@false\clr@allrows
+/usr/share/texmf-texlive/tex/latex/formlett/formlett.sty:   \refillst@ck##1#3\lettercontents\clr@allrows\showp@r@true
+/usr/share/texmf-texlive/tex/latex/formlett/formlett.sty:\def\beginpilemode{\showp@r@false
+/usr/share/texmf-texlive/tex/latex/formlett/formlett.sty:  \def\preview{}\def\showparas{}\pile@letters}%
+/usr/share/texmf-texlive/tex/latex/formlett/formlett.sty:  \def\preview{\preview@}\def\showparas{\show@paras}\showp@r@true}%
+/usr/share/texmf-texlive/tex/latex/formlett/formlett.sty:       \temp@@toks={\showp@r@false\lettercontents\clr@allrows\showp@r@true}%
+/usr/share/texmf-texlive/tex/latex/formlett/formlett.sty:       \temp@@toks={\showp@r@false\lettercontents\clr@allrows\showp@r@true}%
+/usr/share/texmf-texlive/tex/latex/formlett/formlett.sty:  \name@endtoks={\endlinemode}\showp@r@false\catcode`\^^M=13\relax  %
+/usr/share/texmf-texlive/tex/latex/formlett/formlett.sty:  \def\preview{}\def\showparas{}\clr@allrows\line@curbfront }%
+/usr/share/texmf-texlive/tex/latex/formlett/formlett.sty:  \def\preview{\preview@}\def\showparas{\show@paras}\showp@r@true }%
+/usr/share/texmf-texlive/tex/latex/formlett/formlett.sty:\def\endrawlinemode{\get@catcodes[RAW]\showp@r@true}%
+/usr/share/texmf-texlive/tex/latex/formlett/formlett.sty:  \showp@r@false\clr@allrows\line@curbfront }%
+/usr/share/texmf-texlive/tex/latex/formlett/formlett.sty:        \temp@toks={\clr@allrows\showp@r@true}%
+/usr/share/texmf-texlive/tex/latex/formlett/formlett.sty:        \temp@toks={\showp@r@false\lettercontents\clr@allrows\showp@r@true}%
+/usr/share/texmf-texlive/tex/latex/formlett/formlett.sty:        \def\buffer@{\showp@r@false\lettercontents\clr@allrows%
+/usr/share/texmf-texlive/tex/latex/formlett/formlett.sty:             \showp@r@true\block@curbfront}%
+/usr/share/texmf-texlive/tex/latex/formlett/formlett.sty:  \name@endtoks={\endblockmode}\showp@r@false\catcode`\^^M=13\relax  %
+/usr/share/texmf-texlive/tex/latex/formlett/formlett.sty:  \def\preview{}\def\showparas{}\clr@allrows\block@curbfront }%
+/usr/share/texmf-texlive/tex/latex/formlett/formlett.sty:  \def\preview{\preview@}\def\showparas{\show@paras}\showp@r@true }%
+/usr/share/texmf-texlive/tex/latex/formlett/formlett.sty:\def\endrawblockmode{\get@catcodes[RAW]\showp@r@true}%
+/usr/share/texmf-texlive/tex/latex/formlett/formlett.sty:  \showp@r@false \clr@allrows\block@curbfront }%
+/usr/share/texmf-texlive/tex/latex/formlett/formlett.sty:       \temp@@toks={\showp@r@false\lettercontents\clr@allrows\showp@r@true}%
+/usr/share/texmf-texlive/tex/latex/formlett/formlett.sty:       \temp@@toks={\showp@r@false\lettercontents\clr@allrows\showp@r@true}%
+/usr/share/texmf-texlive/tex/latex/formlett/formlett.sty:  \showp@r@false\clr@allrows\data@count=0 %
+/usr/share/texmf-texlive/tex/latex/frenchle/frenchle.sty:\let\s@owhyphens\showhyphens%
+/usr/share/texmf-texlive/tex/latex/frenchle/frenchle.sty:                       \def\showhyphens####1{\bgroup%
+/usr/share/texmf-texlive/tex/latex/frenchle/frenchle.sty:          \let\showhyphens\s@owhyphens%
+/usr/share/texmf-texlive/tex/latex/exam/exam.cls:    \nointerlineskip \null %{\showoutput \showlists}
+/usr/share/texmf-texlive/tex/latex/wordcount/wordcount.tex:\def\showpagebox{%
+/usr/share/texmf-texlive/tex/latex/wordcount/wordcount.tex:  \showboxbreadth\maxdimen\showboxdepth99
+/usr/share/texmf-texlive/tex/latex/wordcount/wordcount.tex:  % without actually using \showbox (which typically results in a
+/usr/share/texmf-texlive/tex/latex/wordcount/wordcount.tex:\AtBeginDocument{\def\@outputpage{\showpagebox}}
+/usr/share/texmf-texlive/tex/latex/sudokubundle/solvesudoku.sty:%% For curiosity as to how a solution is developing call the \showprogess
+/usr/share/texmf-texlive/tex/latex/sudokubundle/solvesudoku.sty:\newcommand*{\showprogress}{%
+/usr/share/texmf-texlive/tex/latex/eurofont/eurofont.sty:\newcommand{\showfontfamily}{
+/usr/share/texmf-texlive/tex/latex/eurofont/eurofont.sty:\typeout{* \protect\showfontfamily:
+/usr/share/texmf-texlive/tex/latex/clock/clock.tex:\def\show@clock#1#2{%
+/usr/share/texmf-texlive/tex/latex/clock/clock.tex:	\show@clock{\my@hour}{\my@minute}}
+/usr/share/texmf-texlive/tex/latex/go/go.sty:\def\showdiagram#1-#2:#3-#4 {\vbox{\offinterlineskip\noindent
+/usr/share/texmf-texlive/tex/latex/go/go.sty:\def\showfulldiagram{\showdiagram a-t:1-19 }
+/usr/share/texmf-texlive/tex/latex/gmdoc/gmdoc.sty:    % ^^A~\def^^C{\showthe\hyphenpenalty\showthe\rightskip}
+/usr/share/texmf-texlive/tex/latex/gmdoc/gmdoc.sty:    \DoNotIndex{\arabic \do \makeindex \null \number \show \write \@ehc}%
+/usr/share/texmf-texlive/tex/latex/gmdoc/gmdoc.sty:  % ^^A  \show\filedivname% for debug
+/usr/share/texmf-texlive/tex/latex/bardiag/bardiag.sty:\newcommand\shownumbers{1}                   % *
+/usr/share/texmf-texlive/tex/latex/bardiag/bardiag.sty:    %\showgrid %#For debug purposes
+/usr/share/texmf-texlive/tex/latex/bardiag/bardiag.sty:      \ifthenelse{\shownumbers = 1}
+/usr/share/texmf-texlive/tex/latex/bardiag/bardiag.sty:           \ifthenelse{\shownumbers = 1}
+/usr/share/texmf-texlive/tex/latex/bardiag/bardiag.sty:           \ifthenelse{\shownumbers = 1 \AND \lengthtest{\ycoordnum > -\numberoffset}}
+/usr/share/texmf-texlive/tex/latex/bardiag/bardiag.sty:      \ifthenelse{\shownumbers = 1}
+/usr/share/texmf-texlive/tex/latex/bardiag/bardiag.sty:           \ifthenelse{\shownumbers = 1}
+/usr/share/texmf-texlive/tex/latex/bardiag/bardiag.sty:           \ifthenelse{\shownumbers = 1 \AND \lengthtest{\ycoordnum > -\numberoffset}}
+/usr/share/texmf-texlive/tex/latex/textopo/textopo.def:\showmembrane                       %  Show the membrane
+/usr/share/texmf-texlive/tex/latex/textopo/textopo.def:\showbonds                          %  Show bonds on helical wheels
+/usr/share/texmf-texlive/tex/latex/textopo/textopo.def:\showwheelnumbering                 %  Show residue numbers on helical wheels
+/usr/share/texmf-texlive/tex/latex/textopo/textopo.def:\showNterm                          %  Show amino terminus as NH2
+/usr/share/texmf-texlive/tex/latex/textopo/textopo.def:\showCterm                          %  Show carboxy terminus as COOH
+/usr/share/texmf-texlive/tex/latex/textopo/textopo.def:\showlegend                         %  Show the legend
+/usr/share/texmf-texlive/tex/latex/textopo/textopo.sty:         \ifx\show@bonds\y@
+/usr/share/texmf-texlive/tex/latex/textopo/textopo.sty:\def\showNterm{\xdef\hide@NH{no}}
+/usr/share/texmf-texlive/tex/latex/textopo/textopo.sty:\def\showCterm{\xdef\hide@COOH{no}}
+/usr/share/texmf-texlive/tex/latex/textopo/textopo.sty:\def\showmembrane{\membr@netrue}
+/usr/share/texmf-texlive/tex/latex/textopo/textopo.sty:\def\showmoment{\mu@Htrue}
+/usr/share/texmf-texlive/tex/latex/textopo/textopo.sty:\def\showbonds{\xdef\show@bonds{y}}
+/usr/share/texmf-texlive/tex/latex/textopo/textopo.sty:\def\hidebonds{\xdef\show@bonds{n}}
+/usr/share/texmf-texlive/tex/latex/textopo/textopo.sty:\def\showwheelnumbering{\wheel@numberstrue}
+/usr/share/texmf-texlive/tex/latex/textopo/textopo.sty:\newcommand{\showgrid}[1][5]{\xdef\grid@mesh{#1}}
+/usr/share/texmf-texlive/tex/latex/textopo/textopo.sty:\def\showlegend{\legend@true}
+/usr/share/texmf-texlive/tex/latex/textopo/textopo.sty:\showmembrane                       %  Show the membrane
+/usr/share/texmf-texlive/tex/latex/textopo/textopo.sty:\showbonds                          %  Show bonds on helical wheels
+/usr/share/texmf-texlive/tex/latex/textopo/textopo.sty:\showwheelnumbering                 %  Show residue numbers on helical wheels
+/usr/share/texmf-texlive/tex/latex/textopo/textopo.sty:\showNterm                          %  Show amino terminus as NH2
+/usr/share/texmf-texlive/tex/latex/textopo/textopo.sty:\showCterm                          %  Show carboxy terminus as COOH
+/usr/share/texmf-texlive/tex/latex/textopo/textopo.sty:\showlegend                         %  Show the legend
+/usr/share/texmf-texlive/tex/latex/examplep/verbfwr.sty:    %%\def\VerbFwrLines{##1}\show\VerbFwrLines
+/usr/share/texmf-texlive/tex/latex/examplep/verbfwr.sty:  %%\showthe\catcode92 \toks0{#1} \showthe\toks0
+/usr/share/texmf-texlive/tex/latex/examplep/verbfwr.sty:  %%\show\reserved@b%
+/usr/share/texmf-texlive/tex/latex/examplep/examplep.sty:  %%\show\pexa@default@srcstyle
+/usr/share/texmf-texlive/tex/latex/examplep/examplep.sty:  %\showthe\hsize
+/usr/share/texmf-texlive/tex/latex/examplep/examplep.sty:  %\showthe\leftskip
+/usr/share/texmf-texlive/tex/latex/examplep/examplep.sty:  %\showthe\rightskip
+/usr/share/texmf-texlive/tex/latex/examplep/examplep.sty:  %%\show\reserved@a
+/usr/share/texmf-texlive/tex/latex/examplep/examplep.sty:  %\zzzzz\show\pexa@@tolinewidth\showthe\PexaWidth
+/usr/share/texmf-texlive/tex/latex/examplep/examplep.sty:  %\showthe\linewidth
+/usr/share/texmf-texlive/tex/latex/examplep/examplep.sty:  %\showthe\leftskip
+/usr/share/texmf-texlive/tex/latex/examplep/examplep.sty:  %\showthe\catcode9
+/usr/share/texmf-texlive/tex/latex/examplep/examplep.sty:  %\show\pexa@default@verbatimfont
+/usr/share/texmf-texlive/tex/latex/examplep/examplep.sty:  %\show\pexa@@calcwidths
+/usr/share/texmf-texlive/tex/latex/examplep/examplep.sty:  %\show\leftskip \showthe\leftskip
+/usr/share/texmf-texlive/tex/latex/examplep/examplep.sty:  %\show\leftskip \showthe\leftskip
+/usr/share/texmf-texlive/tex/latex/examplep/examplep.sty:  %\showthe\tabskip
+/usr/share/texmf-texlive/tex/latex/examplep/examplep.sty:    %\showthe\@listdepth
+/usr/share/texmf-texlive/tex/latex/examplep/examplep.sty:  %\showthe\linewidth
+/usr/share/texmf-texlive/tex/latex/examplep/examplep.sty:  %\showthe\rightmargin
+/usr/share/texmf-texlive/tex/latex/examplep/examplep.sty:  %\show\pexa@@restore@xmargins
+/usr/share/texmf-texlive/tex/latex/examplep/examplep.sty:  %\show\par
+/usr/share/texmf-texlive/tex/latex/examplep/examplep.sty:  %\showthe\@topsepadd
+/usr/share/texmf-texlive/tex/latex/examplep/examplep.sty:  %\show\pexa@default@addvspace@top
+/usr/share/texmf-texlive/tex/latex/examplep/examplep.sty:  %%\show\pexa@default@allowshrink
+/usr/share/texmf-texlive/tex/latex/examplep/examplep.sty:  %\show\PexaWidth
+/usr/share/texmf-texlive/tex/latex/examplep/examplep.sty:    %\show\reserved@a%
+/usr/share/texmf-texlive/tex/latex/examplep/examplep.sty:  %%\show\reserved@a
+/usr/share/texmf-texlive/tex/latex/examplep/examplep.sty:  %\expandafter\show\csname pexa@doyindent@#2\endcsname
+/usr/share/texmf-texlive/tex/latex/examplep/examplep.sty:    %\showthe\tabskip
+/usr/share/texmf-texlive/tex/latex/examplep/examplep.sty:  %\show\reserved@a% \catcode `^7\relax \setbox 1\pexa@setsample@p {184.9429pt}.
+/usr/share/texmf-texlive/tex/latex/examplep/examplep.sty:  %\show\reserved@b% \pexa@setupverb@read \pexa@setup@savetabskip \pexa@sa@u {184.9429pt}\pexa@sh@leftnumhang
+/usr/share/texmf-texlive/tex/latex/examplep/examplep.sty:  %%\show\pexa@@tolinewidth \showthe\PexaWidth
+/usr/share/texmf-texlive/tex/latex/examplep/examplep.sty:    %\showthe\PexaWidth
+/usr/share/texmf-texlive/tex/latex/examplep/examplep.sty:  %%\show\pexa@@tolinewidth \showthe\PexaWidth
+/usr/share/texmf-texlive/tex/latex/examplep/examplep.sty:  %\show\pexa@default@vextravskip
+/usr/share/texmf-texlive/tex/latex/examplep/examplep.sty:      %  \showthe\ht0 \showthe\dp0
+/usr/share/texmf-texlive/tex/latex/examplep/examplep.sty:  %\show\pexa@@restore
+/usr/share/texmf-texlive/tex/latex/examplep/examplep.sty:  %\show\pexa@@restore
+/usr/share/texmf-texlive/tex/latex/examplep/examplep.sty:  %\showthe\count63
+/usr/share/texmf-texlive/tex/latex/examplep/examplep.sty:%** Dat: test: \showhyphens{\PVerb{kismocsok}}
+/usr/share/texmf-texlive/tex/latex/examplep/examplep.sty:%\show\reserved@a
+/usr/share/texmf-texlive/tex/latex/examplep/examplep.sty:%\show\reserved@a
+/usr/share/texmf-texlive/tex/latex/examplep/examplep.sty:%\show\reserved@a
+/usr/share/texmf-texlive/tex/latex/examplep/examplep.sty:  %\showthe\hyphenchar\font
+/usr/share/texmf-texlive/tex/latex/examplep/examplep.sty:  %%\show\reserved@a
+/usr/share/texmf-texlive/tex/latex/examplep/examplep.sty:  %\showthe\hyphenchar\font
+/usr/share/texmf-texlive/tex/latex/examplep/examplep.sty:  %\show\pexa@cverb@@verbatimfont
+/usr/share/texmf-texlive/tex/latex/examplep/examplep.sty:  %\showhyphens{irgumburgum id}%
+/usr/share/texmf-texlive/tex/latex/examplep/examplep.sty:  %\showhyphens{irgumburgum ie}%
+/usr/share/texmf-texlive/tex/latex/examplep/examplep.sty:  %\showhyphens{irgumburgum if}%
+/usr/share/texmf-texlive/tex/latex/examplep/examplep.sty:  %\showthe\hyphenchar\font
+/usr/share/texmf-texlive/tex/latex/examplep/examplep.sty:  %\showhyphens{irgumburgum ig}%
+/usr/share/texmf-texlive/tex/latex/examplep/examplep.sty:  %\showhyphens{\reserved@a}%
+/usr/share/texmf-texlive/tex/latex/examplep/examplep.sty:  %\showhyphens{\tt\reserved@a}%
+/usr/share/texmf-texlive/tex/latex/examplep/examplep.sty:%  \edef\reserved@b{\meaning#1}\show\reserved@b
+/usr/share/texmf-texlive/tex/latex/examplep/examplep.sty:%  \edef\reserved@b{\meaning#2}\show\reserved@b
+/usr/share/texmf-texlive/tex/latex/examplep/examplep.sty:%  \edef\reserved@b{\meaning#3}\show\reserved@b
+/usr/share/texmf-texlive/tex/latex/examplep/examplep.sty:  % vvv Dat: setting \lccode`a=0 will prevent \showhyphens from working
+/usr/share/texmf-texlive/tex/latex/examplep/examplep.sty:  %%\lccode`\ =32 \showhyphens{csukafogta b}%
+/usr/share/texmf-texlive/tex/latex/examplep/examplep.sty:  %%\show\reserved@a
+/usr/share/texmf-texlive/tex/latex/examplep/examplep.sty:  %\show\reserved@a
+/usr/share/texmf-texlive/tex/latex/examplep/examplep.sty:  %\expandafter\expandafter\expandafter\show\expandafter\@gobble\reserved@a
+/usr/share/texmf-texlive/tex/latex/examplep/examplep.sty:    %\showthe\catcode`-% 3 (math-shift)
+/usr/share/texmf-texlive/tex/latex/examplep/codep.sty:  %%\showthe\@tempcnta \showthe\@tempcntb
+/usr/share/texmf-texlive/tex/latex/dialogl/dialogl.sty:%%\def\sh{\protect\showhyphens}
+/usr/share/texmf-texlive/tex/latex/breqn/breqn.sty:  \batchmode{\showboxbreadth\maxdimen\showboxdepth99\showbox#1}%
+/usr/share/texmf-texlive/tex/latex/breqn/breqn.sty:\batchmode\showboxbreadth\maxdimen\showboxdepth99\showlists\errorstopmode
+/usr/share/texmf-texlive/tex/latex/breqn/breqn.sty:\batchmode\showboxbreadth\maxdimen\showboxdepth99\showlists\errorstopmode
+/usr/share/texmf-texlive/tex/latex/breqn/breqn.sty:\batchmode\showbox\EQ@copy \showthe\eq@wdL\errorstopmode
+/usr/share/texmf-texlive/tex/latex/breqn/breqn.sty:%%{\showboxbreadth\maxdimen\showboxdepth99\showlists}%
+/usr/share/texmf-texlive/tex/latex/breqn/breqn.sty:%% \showboxbreadth\maxdimen\showboxdepth99\showlists
+/usr/share/texmf-texlive/tex/latex/breqn/breqn.sty:%\batchmode{\showboxbreadth\maxdimen\showboxdepth99\showbox\tw@}\errorstopmode
+/usr/share/texmf-texlive/tex/latex/newlfm/newlfm.cls:\def\showdim#1{%
+/usr/share/texmf-texlive/tex/latex/newlfm/newlfm.cls:\showdim{Before LoadClass}%
+/usr/share/texmf-texlive/tex/latex/newlfm/newlfm.cls:\showdim{Before addrset}%
+/usr/share/texmf-texlive/tex/latex/newlfm/newlfm.cls:\showdim{After LoadClass}
+/usr/share/texmf-texlive/tex/latex/newlfm/newlfm.cls:  \showdim{Letterhead}%
+/usr/share/texmf-texlive/tex/latex/newlfm/newlfm.cls:  \showdim{Letterhead}%
+/usr/share/texmf-texlive/tex/latex/newlfm/newlfm.cls:\def\ifta{0}\showdim{Before setpage inside faxpage}%
+/usr/share/texmf-texlive/tex/latex/newlfm/newlfm.cls:\showdim{After setpage}%
+/usr/share/texmf-texlive/tex/latex/newlfm/newlfm.cls:{\def\ifta{0}\showdim{Before fax page setup A}%
+/usr/share/texmf-texlive/tex/latex/newlfm/newlfm.cls:\showdim{Before fax page setup B}%
+/usr/share/texmf-texlive/tex/latex/newlfm/newlfm.cls:\showdim{Inside fax page specification}%
+/usr/share/texmf-texlive/tex/latex/newlfm/newlfm.cls:\def\ifta{0}\showdim{End of fax page setup }%
+/usr/share/texmf-texlive/tex/latex/newlfm/newlfm.cls:  \showdim{Start of makeenvfn}%
+/usr/share/texmf-texlive/tex/latex/newlfm/newlfm.cls:       \showdim{Checking values before newpage}%
+/usr/share/texmf-texlive/tex/latex/newlfm/newlfm.cls:       \showdim{Checking values after newpage}%
+/usr/share/texmf-texlive/tex/latex/newlfm/newlfm.cls:      \showdim{At the end of the table}}%
+/usr/share/texmf-texlive/tex/latex/newlfm/newlfm.cls:    \showdim{Before resetting dimensions for fax}%
+/usr/share/texmf-texlive/tex/latex/newlfm/newlfm.cls:    \showdim{After resetting dimensions for fax}%
+/usr/share/texmf-texlive/tex/latex/newlfm/newlfm.cls:    \showdim{After restoring dimensions for fax}%
+/usr/share/texmf-texlive/tex/latex/newlfm/newlfm.cls:    \showdim{After fax page setup}%
+/usr/share/texmf-texlive/tex/latex/newlfm/newlfm.cls:  \def\ifta{0}\showdim{After fax page section closes}\gdef\npind{G}%
+/usr/share/texmf-texlive/tex/latex/newlfm/newlfm.cls:  \showdim{Dimensions at end of newlfm startup section}\def\ifta{0}%
+/usr/share/texmf-texlive/tex/latex/newlfm/newlfm.cls:    \showdim{Current Dimensions}%
+/usr/share/texmf-texlive/tex/latex/newlfm/newlfm.cls:\showdim{At raggedbottom}%
+/usr/share/texmf-texlive/tex/latex/newlfm/newlfm.cls:\showdim{Before setpage}%
+/usr/share/texmf-texlive/tex/latex/newlfm/newlfm.cls:\showdim{After setpage}%
+/usr/share/texmf-texlive/tex/latex/newlfm/newlfm.cls:  \showdim{New page - before shipout}%
+/usr/share/texmf-texlive/tex/latex/newlfm/newlfm.cls:  \showdim{New page - immediately before shipout}
+/usr/share/texmf-texlive/tex/latex/newlfm/newlfm.cls:\showdim{New page - before reset}
+/usr/share/texmf-texlive/tex/latex/newlfm/newlfm.cls:\showdim{New page - after reset}
+/usr/share/texmf-texlive/tex/latex/newlfm/newlfm.cls:\showdim{Before changeing dimensions}%
+/usr/share/texmf-texlive/tex/latex/newlfm/setdim.sty:  \showdim{Setpage A}%
+/usr/share/texmf-texlive/tex/latex/newlfm/setdim.sty:  \showdim{Setpage A}%
+/usr/share/texmf-texlive/tex/latex/newlfm/setdim.sty:  \showdim{Setpage A}%
+/usr/share/texmf-texlive/tex/latex/newlfm/setdim.sty:  \showdim{Setpage B}%
+/usr/share/texmf-texlive/tex/latex/newlfm/setdim.sty:  \showdim{Setpage A}%
+/usr/share/texmf-texlive/tex/latex/newlfm/setdim.sty:  \showdim{Setpage B}%
+/usr/share/texmf-texlive/tex/latex/sidecap/sidecap.sty:           %\show\SC@justify@caption
+/usr/share/texmf-texlive/tex/latex/backgammon/bg.sty:\newcommand{\shownumbers}{\global\numberstrue}
+/usr/share/texmf-texlive/tex/latex/backgammon/bg.sty:\newcommand{\showcube}{\global\cubetrue}
+/usr/share/texmf-texlive/tex/latex/backgammon/bg.sty:\newcommand{\showmoves}{\global\movestrue}
+/usr/share/texmf-texlive/tex/latex/flowfram/flowfram.sty:\showtypeblocktrue
+/usr/share/texmf-texlive/tex/latex/flowfram/flowfram.sty:\showmarginstrue
+/usr/share/texmf-texlive/tex/latex/flowfram/flowfram.sty:\showframebboxtrue
+/usr/share/texmf-texlive/tex/latex/flowfram/flowfram.sty:\showtypeblockfalse
+/usr/share/texmf-texlive/tex/latex/flowfram/flowfram.sty:\showmarginsfalse
+/usr/share/texmf-texlive/tex/latex/flowfram/flowfram.sty:\showframebboxfalse
+/usr/share/texmf-texlive/tex/latex/chess/chessboa.sty:\def\showboard{
+/usr/share/texmf-texlive/tex/latex/chess/chessboa.sty:%\showboard
+/usr/share/texmf-texlive/tex/latex/chess/chessboa.sty:%\showboard
+/usr/share/texmf-texlive/tex/latex/chess/chessmg.sty:\def\showboard{
+/usr/share/texmf-texlive/tex/latex/chess/chessmg.sty:\def\showmove#1#2{\par
+/usr/share/texmf-texlive/tex/latex/chess/chessmg.sty:   \showmove{\@ply#1 }{\@ply#2 }}
+/usr/share/texmf-texlive/tex/latex/chess/chessmg.sty:     \showmove{\@ply#1 }{}
+/usr/share/texmf-texlive/tex/latex/chess/chessmg.sty:     \showmove{$\ldots$}{\@ply#1 }
+/usr/share/texmf-texlive/tex/latex/chess/bdfchess.sty:%------- \showinversboard -------------------------------------
+/usr/share/texmf-texlive/tex/latex/chess/bdfchess.sty:\def\showinversboard{
+/usr/share/texmf-texlive/tex/latex/chess/bdfchess.sty:%---- \showboardwithnotation and \showinversboardwithnotation --
+/usr/share/texmf-texlive/tex/latex/chess/bdfchess.sty:\def\showboardwithnotation{\selectnotationsize
+/usr/share/texmf-texlive/tex/latex/chess/bdfchess.sty:\def\showinversboardwithnotation{\selectnotationsize
+/usr/share/texmf-texlive/tex/latex/chess/bdfchess.sty:\hbox to 69mm{\hskip 10mm\showboardwithnotation\hss}\vskip 2mm
+/usr/share/texmf-texlive/tex/latex/chess/bdfchess.sty:\hbox to 69mm{\hskip 10mm\showboardwithnotation\hss}\vskip 2mm
+/usr/share/texmf-texlive/tex/latex/chess/chess.sty:\def\showboard{%
+/usr/share/texmf-texlive/tex/latex/chess/chess.sty:\def\showmove#1#2{\par
+/usr/share/texmf-texlive/tex/latex/chess/chess.sty:   \showmove{\@ply#1 }{\@ply#2 }}
+/usr/share/texmf-texlive/tex/latex/chess/chess.sty:     \showmove{\@ply#1 }{}
+/usr/share/texmf-texlive/tex/latex/chess/chess.sty:     \showmove{$\ldots$}{\@ply#1 }
+/usr/share/texmf-texlive/tex/latex/probsoln/probsoln.sty:\newcommand{\showanswers}{\showanswerstrue}
+/usr/share/texmf-texlive/tex/latex/probsoln/probsoln.sty:\newcommand{\hideanswers}{\showanswersfalse}
+/usr/share/texmf-texlive/tex/latex/probsoln/probsoln.sty:\DeclareOption{answers}{\showanswerstrue}
+/usr/share/texmf-texlive/tex/latex/probsoln/probsoln.sty:\DeclareOption{noanswers}{\showanswersfalse}
+/usr/share/texmf-texlive/tex/latex/petri-nets/pndraw.tex:  \let\showbb=\net:showbb%
+/usr/share/texmf-texlive/tex/latex/petri-nets/pndraw.sty:   \let\showbb=\net:drop%
+/usr/share/texmf-texlive/tex/latex/texmate/texmate.sty:        \sbox\csname chessdiag\@roman\the\@diagramsbuilt\endcsname{\showboard}%
+/usr/share/texmf-texlive/tex/latex/texmate/texmate.sty:            \@roman\@diagramsbuilt\endcsname{\showboard}%
+/usr/share/texmf-texlive/tex/latex/texmate/texmate.sty:    \showboard}
+/usr/share/texmf-texlive/tex/latex/texmate/texmate.sty:    \let\showboard\relax
+/usr/share/texmf-texlive/tex/latex/textpos/textpos.sty:\def\showtextsize{\normalsize}
+/usr/share/texmf-texlive/tex/latex/textpos/textpos.sty:            \fbox{\showtextsize \TP@textblocklabel}%
+/usr/share/texmf-texlive/tex/latex/ppr-prv/ppr-prv.cls:\showVersionfalse
+/usr/share/texmf-texlive/tex/latex/ppr-prv/ppr-prv.cls:\newcommand{\displayVersion}{\global\showVersiontrue}
+/usr/share/texmf-texlive/tex/latex/em/em.sty:  \showthe\wd0 % debugging output
+/usr/share/texmf-texlive/tex/latex/computational-complexity/ccalgo.sty:  %%\show\@tempa\show\@tempc
+/usr/share/texmf-texlive/tex/latex/computational-complexity/ccalgo.sty:    %%{\tracingall\nonstopmode\showbox\@tempboxa}%
+/usr/share/texmf-texlive/tex/latex/computational-complexity/ccalgo.sty:    %%\show\@tempa
+/usr/share/texmf-texlive/tex/latex/computational-complexity/ccalgo.sty:    %%\show\@tempc
+/usr/share/texmf-texlive/tex/latex/velthuis/devanagari.sty:    \show\UnDevCatcodes}
+/usr/share/texmf-texlive/tex/latex/othello/othello.sty:\def\showdiagram#1-#2:#3-#4 {\vbox{\offinterlineskip\noindent
+/usr/share/texmf-texlive/tex/latex/othello/othello.sty:\def\showfulldiagram{\showdiagram a-i:1-9 }
+/usr/share/texmf-texlive/tex/latex/ltxmisc/url.sty:% \if\urldebug \showlists \fi 
+/usr/share/texmf-texlive/tex/latex/ltxmisc/selectp.sty:\def\SP@shipout{\relax %\showthe\c@page%
+/usr/share/texmf-texlive/tex/latex/ltxmisc/varwidth.sty:%   {\showoutput\showbox\@tempboxa}%
+/usr/share/texmf-texlive/tex/latex/ltxmisc/varwidth.sty:%\message{First pass; hsize=\the\hsize...  }%{\tracingall\showlists}%%
+/usr/share/texmf-texlive/tex/latex/ltxmisc/varwidth.sty:%\message{Second pass; hsize=\the\hsize...  }%{\tracingall\showlists}%
+/usr/share/texmf-texlive/tex/latex/ltxmisc/varwidth.sty:%{\showoutput\showbox\z@}%
+/usr/share/texmf-texlive/tex/latex/ltxmisc/varwidth.sty:%\if@vwid@eqmode {\showoutput\showbox\z@}\fi
+/usr/share/texmf-texlive/tex/latex/ltxmisc/varwidth.sty:  }%{\tracingall\showbox\@vwid@box}%
+/usr/share/texmf-texlive/tex/latex/ltxmisc/fwlw.sty:%    \message{Just got next line:}{\tracingall\showboxdepth2 \showbox\@cclv}%
+/usr/share/texmf-texlive/tex/latex/ltxmisc/framed.sty:    \nointerlineskip \null %{\showoutput \showlists}
+/usr/share/texmf-texlive/tex/latex/ieeepes/ieeepes.sty:%\showthe\abovecaptionskip
+/usr/share/texmf-texlive/tex/latex/IEEEtran/IEEEtran.cls:                % can use the TeX command \showthe\width-variable to 
+/usr/share/texmf-texlive/tex/latex/IEEEtran/IEEEtrantools.sty:                % can use the TeX command \showthe\width-variable to 
+/usr/share/texmf-texlive/tex/latex/fancyvrb/fvrb-ex.sty:  \newcommand{\showgrid}{\FvrbEx@Gridtrue}
+/usr/share/texmf-texlive/tex/latex/arabtex/abidir.sty:\bgroup \def \next@command {\test@special}\transfalse \showfalse 
+/usr/share/texmf-texlive/tex/latex/arabtex/apatch.sty:\showfalse \spreadtrue \a@hsize \a@Lwidth
+/usr/share/texmf-texlive/tex/latex/arabtex/apatch.sty:%\showbox 255
+/usr/share/texmf-texlive/tex/latex/arabtex/apatch.sty:%\showbox 255
+/usr/share/texmf-texlive/tex/latex/arabtex/apatch.sty:%\ifnum \tracingmacros = 0 \else \showbox 255 \fi
+/usr/share/texmf-texlive/tex/latex/arabtex/apatch.sty:\showfalse \spreadtrue \a@hsize \a@displaywidth
+/usr/share/texmf-texlive/tex/latex/arabtex/apatch.sty:%\ifnum \tracingmacros = 0 \else \showbox 255 \fi
+/usr/share/texmf-texlive/tex/latex/arabtex/apatch.sty:%\showbox255
+/usr/share/texmf-texlive/tex/latex/arabtex/arabtex.sty:\bgroup \transfalse \showfalse \let \end \relax 
+/usr/share/texmf-texlive/tex/latex/arabtex/acmd.sty:\all@wif \arab          \all@wif \trans         \all@wif \show
+/usr/share/texmf-texlive/tex/latex/arabtex/sindhi.tex:\showtrue
+/usr/share/texmf-texlive/tex/latex/arabtex/sotoku.sty:\gdef \tr@P {{\scriptsize\transfalse\arabtrue\showfalse\<`>}\@vocalfalse}
+/usr/share/texmf-texlive/tex/latex/arabtex/sotoku.sty:\gdef \tr@Q {{\transfalse\arabtrue\showfalse\<-'>}\@vocalfalse}       
+/usr/share/texmf-texlive/tex/latex/arabtex/abjad.sty:\putwordb@x {\transfalse \showfalse \abjad {#1}}%
+/usr/share/texmf-texlive/tex/latex/arabtex/aoutput.sty:\showboxbreadth = \maxdimen     \showboxdepth = 6
+/usr/share/texmf-texlive/tex/latex/arabtex/arabext.sty:\begingroup \transfalse \showfalse 
+/usr/share/texmf-texlive/tex/latex/polytable/polytable.sty:    %\show #2%
+/usr/share/texmf-texlive/tex/latex/polytable/polytable.sty:    %\show #2%
+/usr/share/texmf-texlive/tex/latex/polytable/polytable.sty:     %\show\@preamble
+/usr/share/texmf-texlive/tex/latex/polytable/polytable.sty:  {%\expandafter\show\csname PT@restore@\romannumeral #1\endcsname
+/usr/share/texmf-texlive/tex/latex/polytable/polytable.sty:   %\show\column
+/usr/share/texmf-texlive/tex/latex/polytable/polytable.sty:   %\expandafter\show\csname PT@load@\romannumeral #1\endcsname
+/usr/share/texmf-texlive/tex/latex/polytable/polytable.sty:     %\show#1%
+/usr/share/texmf-texlive/tex/latex/gmutils/gmutils.sty:% a~last resort I~used |\showlists|. But this command alone was
+/usr/share/texmf-texlive/tex/latex/gmutils/gmutils.sty:% usually too little: usually it needed setting |\showboxdepth| and
+/usr/share/texmf-texlive/tex/latex/gmutils/gmutils.sty:% |\showboxbreadth| to some positive values. So,
+/usr/share/texmf-texlive/tex/latex/gmutils/gmutils.sty:\def\gmshowlists{\showboxdepth=1000 \showboxbreadth=1000 \showlists}
+/usr/share/texmf-texlive/tex/latex/gmutils/gmutils.sty:\newcommand*\nameshow[1]{\expandafter\show\csname#1\endcsname}
+/usr/share/texmf-texlive/tex/latex/etex/etex.sty:  \showoutput}
+/usr/share/texmf-texlive/tex/latex/etex/etex.sty:  \showboxdepth\m@ne
+/usr/share/texmf-texlive/tex/latex/etex/etex.sty:  \showboxbreadth\m@ne
+/usr/share/texmf-texlive/tex/latex/caption/caption3.sty:\newcommand*\showcaptionsetup[2][\@firstofone]{%
+/usr/share/texmf-texlive/tex/latex/microtype/microtype.sty:    \CheckCommand*\showhyphens[1]{\setbox0\vbox{%
+/usr/share/texmf-texlive/tex/latex/microtype/microtype.sty:      \hbadness\z@\showboxdepth\z@\ #1\color@endgroup}}
+/usr/share/texmf-texlive/tex/latex/microtype/microtype.sty:    \gdef\showhyphens#1{\setbox0\vbox{%
+/usr/share/texmf-texlive/tex/latex/microtype/microtype.sty:      \hbadness\z@\showboxdepth\z@\ #1\color@endgroup}}
+/usr/share/texmf-texlive/tex/latex/seminar/npsfont.sty:%   \showxheight{<filename>}
+/usr/share/texmf-texlive/tex/latex/seminar/npsfont.sty:% E.g., \showxheight{phvr} and \showxheight{cmr10} displays
+/usr/share/texmf-texlive/tex/latex/seminar/npsfont.sty:\def\showxheight#1{%
+/usr/share/texmf-texlive/tex/latex/sseq/sseq.sty:\ifthenelse{\boolean{debug}}{\show\lst}{}
+/usr/share/texmf-texlive/tex/latex/ledmac/ledmac.sty:  \newcommand*{\showlemma}[1]{#1}
+/usr/share/texmf-texlive/tex/latex/ledmac/ledmac.sty:  \newcommand*{\showlemma}[1]{\textit{#1}}
+/usr/share/texmf-texlive/tex/latex/ledmac/ledmac.sty:  \showlemma{#1}%
+/usr/share/texmf-texlive/tex/latex/ledmac/ledmac.sty:  \showlemma{#1}%
+/usr/share/texmf-texlive/tex/latex/ledmac/ledpar.sty:  \showlemma{#1}%
+/usr/share/texmf-texlive/tex/latex/ledmac/ledpar.sty:  \showlemma{#1}%
+/usr/share/texmf-texlive/tex/latex/ledmac/ledarab.sty:  \showlemma{#1}\a@edend@lemma \@@% GOOD ONE
+/usr/share/texmf-texlive/tex/latex/ledmac/ledarab.sty:\renewcommand{\showlemma}[1]{%
+/usr/share/texmf-texlive/tex/latex/savefnmark/savefnmark.sty:    %\show#1%
+/usr/share/texmf-texlive/tex/latex/ifmslide/ifmslide.sty:  \def\showbackground{\setboolean{@seebackground}{true}}
+/usr/share/texmf-texlive/tex/latex/ifmslide/ifmslide.cfg:% background. Switch it on or off with \showbackground and
+/usr/share/texmf-texlive/tex/latex/boites/boites_exemples.sty:    %\show\bk@arguments@graphicx
+/usr/share/texmf-texlive/tex/latex/memoir/memoir.cls:  \showtrimsfalse
+/usr/share/texmf-texlive/tex/latex/memoir/memoir.cls:\DeclareOption{showtrims}{\showtrimstrue}
+/usr/share/texmf-texlive/tex/latex/memoir/memoir.cls:\def\showcols{{\def\NC@do##1{\let\NC@do\NC@show}\the\NC@list}}
+/usr/share/texmf-texlive/tex/latex/memoir/memoir.cls:  \showindexmarkfalse
+/usr/share/texmf-texlive/tex/latex/memoir/memoir.cls:    \nointerlineskip \null %{\showoutput \showlists}
+/usr/share/texmf-texlive/tex/latex/memoir/memoir.cls:  \begingroup %% \showbox\@currbox
+/usr/share/texmf-texlive/tex/latex/memoir/memoir.cls:  \endgroup %% \showbox\@currbox
+/usr/share/texmf-texlive/tex/latex/memoir/mempatch.sty:%%%% Use \showtrimsoff and \showtrimson to switch trim marks off and on.
+/usr/share/texmf-texlive/tex/latex/memoir/mempatch.sty:\newcommand*{\showtrimsoff}{\showtrimsfalse}
+/usr/share/texmf-texlive/tex/latex/memoir/mempatch.sty:\newcommand*{\showtrimson}{\showtrimstrue}
+/usr/share/texmf-texlive/tex/latex/xq/xq.sty:\if\pieceinput\redking \def\showpiece{F}\fi%
+/usr/share/texmf-texlive/tex/latex/xq/xq.sty:\if\pieceinput\blackking \def\showpiece{f}\fi%
+/usr/share/texmf-texlive/tex/latex/xq/xq.sty:\if\pieceinput\redguard \def\showpiece{M}\fi%
+/usr/share/texmf-texlive/tex/latex/xq/xq.sty:\if\pieceinput\blackguard \def\showpiece{m}\fi%
+/usr/share/texmf-texlive/tex/latex/xq/xq.sty:\if\pieceinput\redelephant \def\showpiece{E}\fi%
+/usr/share/texmf-texlive/tex/latex/xq/xq.sty:\if\pieceinput\blackelephant \def\showpiece{e}\fi%
+/usr/share/texmf-texlive/tex/latex/xq/xq.sty:\if\pieceinput\redhorse \def\showpiece{P}\fi%
+/usr/share/texmf-texlive/tex/latex/xq/xq.sty:\if\pieceinput\blackhorse \def\showpiece{p}\fi%
+/usr/share/texmf-texlive/tex/latex/xq/xq.sty:\if\pieceinput\redchariot \def\showpiece{W}\fi%
+/usr/share/texmf-texlive/tex/latex/xq/xq.sty:\if\pieceinput\blackchariot \def\showpiece{w}\fi%
+/usr/share/texmf-texlive/tex/latex/xq/xq.sty:\if\pieceinput\redcannon \def\showpiece{K}\fi%
+/usr/share/texmf-texlive/tex/latex/xq/xq.sty:\if\pieceinput\blackcannon \def\showpiece{k}\fi%
+/usr/share/texmf-texlive/tex/latex/xq/xq.sty:\if\pieceinput\redpawn \def\showpiece{S}\fi%
+/usr/share/texmf-texlive/tex/latex/xq/xq.sty:\if\pieceinput\blackpawn \def\showpiece{s}\fi%
+/usr/share/texmf-texlive/tex/latex/xq/xq.sty:\def\poutput{\xqintext\showpiece\,}%
+/usr/share/texmf-texlive/tex/latex/xq/xq.sty:\if\pieceinput\redking \def\showpiece{F}\fi%
+/usr/share/texmf-texlive/tex/latex/xq/xq.sty:\if\pieceinput\blackking \def\showpiece{f}\fi%
+/usr/share/texmf-texlive/tex/latex/xq/xq.sty:\if\pieceinput\redguard \def\showpiece{M}\fi%
+/usr/share/texmf-texlive/tex/latex/xq/xq.sty:\if\pieceinput\blackguard \def\showpiece{m}\fi%
+/usr/share/texmf-texlive/tex/latex/xq/xq.sty:\if\pieceinput\redelephant \def\showpiece{E}\fi%
+/usr/share/texmf-texlive/tex/latex/xq/xq.sty:\if\pieceinput\blackelephant \def\showpiece{e}\fi%
+/usr/share/texmf-texlive/tex/latex/xq/xq.sty:\if\pieceinput\redhorse \def\showpiece{P}\fi%
+/usr/share/texmf-texlive/tex/latex/xq/xq.sty:\if\pieceinput\blackhorse \def\showpiece{p}\fi%
+/usr/share/texmf-texlive/tex/latex/xq/xq.sty:\if\pieceinput\redchariot \def\showpiece{W}\fi%
+/usr/share/texmf-texlive/tex/latex/xq/xq.sty:\if\pieceinput\blackchariot \def\showpiece{w}\fi%
+/usr/share/texmf-texlive/tex/latex/xq/xq.sty:\if\pieceinput\redcannon \def\showpiece{K}\fi%
+/usr/share/texmf-texlive/tex/latex/xq/xq.sty:\if\pieceinput\blackcannon \def\showpiece{k}\fi%
+/usr/share/texmf-texlive/tex/latex/xq/xq.sty:\if\pieceinput\redpawn \def\showpiece{S}\fi%
+/usr/share/texmf-texlive/tex/latex/xq/xq.sty:\if\pieceinput\blackpawn \def\showpiece{s}\fi%
+/usr/share/texmf-texlive/tex/latex/xq/xq.sty:\def\poutput{\westxqintext\showpiece\,}%
+/usr/share/texmf-texlive/tex/latex/xq/xq.sty:\def\showmove{
+/usr/share/texmf-texlive/tex/latex/xq/xq.sty:\showmove
+/usr/share/texmf-texlive/tex/latex/xq/xq.sty:\def\showboard{
+/usr/share/texmf-texlive/tex/latex/xq/xq.sty:\def\showlargeboard{
+/usr/share/texmf-texlive/tex/latex/xq/xq.sty:\def\showwesternboard{
+/usr/share/texmf-texlive/tex/latex/xq/xq.sty:\def\showlargewesternboard{
+/usr/share/texmf-texlive/tex/latex/ednotes/ednotes.sty:% \showlemmaexpands displays all these extra definitions 
+/usr/share/texmf-texlive/tex/latex/ednotes/ednotes.sty:\newcommand{\showlemmaexpands}{% 
+/usr/share/texmf-texlive/tex/latex/patchcmd/patchcmd.sty:%%  \show#2%
+/usr/share/texmf-texlive/tex/latex/patch/patch.tex:          \aftergroup\show \expandafter\aftergroup\^^e0%
+/usr/share/texmf-texlive/tex/latex/msc/msc.sty:\newcommand{\showgrid}{\def\msc@grid{yes}}
+/usr/share/texmf-texlive/tex/latex/pst-uml/pst-uml.sty:% but \showgrid could be already define by another package
+/usr/share/texmf-texlive/tex/latex/pst-uml/pst-uml.sty:% PLANTE SI \showgrid EST REDEFINIE DANS fvrbext.sty
+/usr/share/texmf-texlive/tex/latex/pst-uml/pst-uml.sty:% \providecommand{\showgrid}{%
+/usr/share/texmf-texlive/tex/latex/cbcoptic/prnthyph.sty:% Dichiarazione per sostituire \showhyphens al fine di eseguire le
+/usr/share/texmf-texlive/tex/latex/base/latex.ltx:\showboxbreadth=-1
+/usr/share/texmf-texlive/tex/latex/base/latex.ltx:\showboxdepth=-1
+/usr/share/texmf-texlive/tex/latex/base/latex.ltx:\def\showoverfull{\tracingonline\@ne}
+/usr/share/texmf-texlive/tex/latex/base/latex.ltx:    \showboxbreadth\maxdimen\showboxdepth\maxdimen\errorstopmode}
+/usr/share/texmf-texlive/tex/latex/base/latex.ltx:\gdef\showoutput{\loggingoutput\showoverfull}
+/usr/share/texmf-texlive/tex/latex/base/latex.ltx:\gdef\tracingall{\loggingall\showoverfull}
+/usr/share/texmf-texlive/tex/latex/base/latex.ltx:\gdef\showhyphens#1{%
+/usr/share/texmf-texlive/tex/latex/base/latex.ltx:    \pretolerance\m@ne\tolerance\m@ne\hbadness\z@\showboxdepth\z@\ #1%
+/usr/share/texmf-texlive/tex/latex/base/doc.sty:         \show\default~table
+/usr/share/texmf-texlive/tex/latex/base/doc.sty:         \show\used~table
+/usr/share/texmf-texlive/tex/latex/base/doc.sty:            I now \string\show\space you both tables for comparison.}
+/usr/share/texmf-texlive/tex/latex/base/utf8test.tex:\showoutput
+/usr/share/texmf-texlive/tex/latex/base/docstrip.tex:Z    \showboxbreadth 10000 \showboxdepth 10000 \errorstopmode
+/usr/share/texmf-texlive/tex/latex/base/docstrip.tex:\def\showprogress{\let\maybeMsg\message}
+/usr/share/texmf-texlive/tex/latex/base/docstrip.tex:\showprogress
+/usr/share/texmf-texlive/tex/latex/base/docstrip.tex:    \let\do\showfiles@do
+/usr/share/texmf-texlive/tex/latex/base/docstrip.tex:\def\showfiles@do#1#2{%
+/usr/share/texmf-texlive/tex/latex/base/docstrip.tex:\def\showdirectory#1{\WriteToDir}
+/usr/share/texmf-texlive/tex/latex/base/docstrip.tex:  \let\showdirectory\showalt@directory
+/usr/share/texmf-texlive/tex/latex/base/docstrip.tex:\def\showalt@directory#1{%
+/usr/share/texmf-texlive/tex/latex/base/docstrip.tex:    \showundef@directory{#1}%
+/usr/share/texmf-texlive/tex/latex/base/docstrip.tex:\def\showundef@directory#1{UNDEFINED (label is #1)}
+/usr/share/texmf-texlive/tex/latex/base/docstrip.tex:\def\showundef@TDSdirectory#1{\basedir\convsep#1/\qStop}
+/usr/share/texmf-texlive/tex/latex/base/docstrip.tex:  \let\showundef@directory\showundef@TDSdirectory
+/usr/share/texmf-texlive/tex/latex/base/utf8-test.tex:\showoutput
+/usr/share/texmf-texlive/tex/latex/montex/mlstrans.tex:   %\showtriple%
+/usr/share/texmf-texlive/tex/latex/montex/mlstrans.tex:% \showtriple is used for debugging purposes. It shows every
+/usr/share/texmf-texlive/tex/latex/montex/mlstrans.tex:\def\showtriple{%
+/usr/share/texmf-texlive/tex/latex/relenc/relenc.sty:   \show\RE@first@search@item
+/usr/share/texmf-texlive/tex/latex/ucs/ucsencs.def:\def\show#1?{\toks255{#1}\typeout{\the\toks255}}
+/usr/share/texmf-texlive/tex/latex/hyperref/xr-hyper.sty:\def\f{#1}%\show\f
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:        \ifx\show@Hsec\yes
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:        \ifx\show@Esec\yes
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:        \ifx\show@TMtop\yes
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:        \ifx\show@itop\yes
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:        \ifx\show@etop\yes
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:                        \ifx\show@Hdssp\yes
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:                        \ifx\show@Gdssp\yes
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:                        \ifx\show@Idssp\yes
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:                        \ifx\show@Edssp\yes
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:                        \ifx\show@Bdssp\yes
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:                        \ifx\show@Tdssp\yes
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:                        \ifx\show@Sdssp\yes
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:          \ifx\show@i@HMMTOP\yes
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:          \ifx\show@e@HMMTOP\yes
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:       \ifx\show@TM@HMMTOP\yes
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:                        \ifx\show@Hstride\yes
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:                        \ifx\show@Gstride\yes
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:                        \ifx\show@Istride\yes
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:                        \ifx\show@Estride\yes
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:                        \ifx\show@Bstride\yes
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:                        \ifx\show@Tstride\yes
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:\def\show@DSSP{%
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:      \ifx\fourth@\temp@ \xdef\show@Hdssp{\second@}\fi
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:      \ifx\fourth@\temp@ \xdef\show@Gdssp{\second@}\fi
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:      \ifx\fourth@\temp@ \xdef\show@Idssp{\second@}\fi
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:      \ifx\fourth@\temp@ \xdef\show@Edssp{\second@}\fi
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:      \ifx\fourth@\temp@ \xdef\show@Bdssp{\second@}\fi
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:      \ifx\fourth@\temp@ \xdef\show@Tdssp{\second@}\fi
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:      \ifx\fourth@\temp@ \xdef\show@Sdssp{\second@}\fi
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:      \show@DSSP
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:\def\show@HMMTOP{%
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:      \ifx\fourth@\temp@ \xdef\show@i@HMMTOP{\second@}\fi
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:      \ifx\fourth@\temp@ \xdef\show@e@HMMTOP{\second@}\fi
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:      \ifx\fourth@\temp@ \xdef\show@TM@HMMTOP{\second@}\fi
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:      \show@HMMTOP
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:\def\show@STRIDE{%
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:      \ifx\fourth@\temp@ \xdef\show@Hstride{\second@}\fi
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:      \ifx\fourth@\temp@ \xdef\show@Gstride{\second@}\fi
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:      \ifx\fourth@\temp@ \xdef\show@Istride{\second@}\fi
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:      \ifx\fourth@\temp@ \xdef\show@Estride{\second@}\fi
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:      \ifx\fourth@\temp@ \xdef\show@Bstride{\second@}\fi
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:      \ifx\fourth@\temp@ \xdef\show@Tstride{\second@}\fi
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:      \show@STRIDE
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:\def\show@PHDtopo{%
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:      \ifx\fourth@\temp@ \xdef\show@itop{\second@}\fi
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:      \ifx\fourth@\temp@ \xdef\show@etop{\second@}\fi
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:      \ifx\fourth@\temp@ \xdef\show@TMtop{\second@}\fi
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:      \show@PHDtopo
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:\def\show@PHDsec{%
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:      \ifx\fourth@\temp@ \xdef\show@Hsec{\second@}\fi
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:      \ifx\fourth@\temp@ \xdef\show@Esec{\second@}\fi
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:      \show@PHDsec
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:\def\showlegend{\legend@true}
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:\newcommand{\showcaption}[2][bottom]{\def\cap@pos{#1}\def\c@p{#2}}
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:   \shownames{left}
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:\newcommand\shownumbering[2][n]{%
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:\newcommand\shownames[2][n]{%
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:\def\showresidues{\hidecharfalse}
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:\def\showseqs{\xdef\hide@seqs{n}}
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:\def\hidesequencelogo{\show@logofalse}
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:\def\hidesubfamilylogo{\show@sublogofalse}
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:\newcommand\showlogoscale[2][Black]{\xdef\logo@scalecol{#1}\xdef\show@logoscale{#2}}
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:\def\hidelogoscale{\xdef\show@logoscale{n}}
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:\newcommand\shownegatives[1][medium]{%
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:\newcommand\showsubfamilylogo[2][undefined]{%
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:   \show@sublogotrue
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:\newcommand\showrelevance[2][Black]{\def\sig@color{#1}\def\sig@char{#2}\xdef\hide@sig{n}}
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:\newcommand\showsequencelogo[2][undefined]{%
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:   \show@logotrue
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:\newcommand\showconsensus[2][n]{%
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:   \show@construe}
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:\def\hideconsensus{\show@consfalse}
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:\def\showleadinggaps{\sh@wg@pstrue}
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:\newcommand\showruler[3][n]{%
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:\def\showonDSSP#1{%
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:   \xdef\first@{#1,&,@} \xdef\second@{yes} \show@DSSP}
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:   \xdef\first@{#1,&,@} \xdef\second@{no} \show@DSSP}
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:\def\showonSTRIDE#1{%
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:   \xdef\first@{#1,&,@} \xdef\second@{yes} \show@STRIDE}
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:   \xdef\first@{#1,&,@} \xdef\second@{no} \show@STRIDE}
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:\def\showonPHDtopo#1{%
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:   \xdef\first@{#1,&,@} \xdef\second@{yes} \show@PHDtopo}
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:   \xdef\first@{#1,&,@} \xdef\second@{no} \show@PHDtopo}
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:\def\showonPHDsec#1{%
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:   \xdef\first@{#1,&,@} \xdef\second@{yes} \show@PHDsec}
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:   \xdef\first@{#1,&,@} \xdef\second@{no} \show@PHDsec}
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:\def\showonHMMTOP#1{%
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:   \xdef\first@{#1,&,@} \xdef\second@{yes} \show@HMMTOP}
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:   \xdef\first@{#1,&,@} \xdef\second@{no} \show@HMMTOP}
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:       \show@sublogofalse
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:       \show@sublogofalse
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:   \ifx\show@logoscale\n@%
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:   \ifx\show@logoscale\first@%
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:   \ifx\show@logoscale\n@%
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:   \ifx\show@logoscale\first@%
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:         \ifx\show@logoscale\first@
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:         \ifx\show@logoscale\first@
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:      \ifx\show@logoscale\first@
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:      \ifx\show@logoscale\first@
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:      \ifx\show@logoscale\first@
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:         \iffuncmode \show@consfalse \fi
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:             \show@consfalse
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:\xdef\show@Hdssp{no} \xdef\show@Gdssp{no} \xdef\show@Idssp{no}
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:\xdef\show@Edssp{no} \xdef\show@Bdssp{no} \xdef\show@Tdssp{no}
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:\xdef\show@Sdssp{no}
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:\xdef\show@Hstride{no} \xdef\show@Gstride{no} \xdef\show@Istride{no}
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:\xdef\show@Estride{no} \xdef\show@Bstride{no} \xdef\show@Tstride{no}
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:\xdef\show@itop{no} \xdef\show@etop{no} \xdef\show@TMtop{no}
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:\xdef\show@i@HMMTOP{no} \xdef\show@e@HMMTOP{no} \xdef\show@TM@HMMTOP{no}
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:\xdef\show@Hsec{no} \xdef\show@Esec{no}
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:\show@sublogofalse    \xdef\stack@sublogo{}
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:\shownumbering{right}               %  Show sequence numbering on the left
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:\shownames{left}                    %  Show sequence names on the right
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:\showconsensus{bottom}              %  Show consensus line at bottom with
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:\showlogoscale{leftright}           %  Show vertical scale bar if logo is on
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:\shownegatives                      %  Show negative values in subfamily logo
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:\showrelevance[Black]{*}            %  Label relevant subfamily deviations
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:\showleadinggaps                    %  Show gap symbols before sequence start
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:\showonPHDsec{alpha,beta}           %  Show helices and strands (PHD input)
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:\showonPHDtopo{internal,external,TM}%  Show int., ext. and TM's (PHD input)
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:\showonHMMTOP{TM}                   %  Show TM's (not int/ext on HMMTOP input)
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:\showonSTRIDE{alpha,3-10,pi,beta}   %  Show helices and strands (STRIDE input)
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.sty:\showonDSSP{alpha,3-10,pi,beta}     %  Show helices and strands (DSSP input)
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.def:\shownumbering{right}               %  Show sequence numbering on the left
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.def:\shownames{left}                    %  Show sequence names on the right
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.def:\showconsensus{bottom}              %  Show consensus line at bottom with
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.def:\showlogoscale{leftright}           %  Show vertical scale bar if logo is on
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.def:\shownegatives                      %  Show negative values in subfamily logo
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.def:\showrelevance[Black]{*}            %  Label relevant subfamily deviations
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.def:\showleadinggaps                    %  Show gap symbols before sequence start
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.def:\showonPHDsec{alpha,beta}           %  Show helices and strands (PHD input)
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.def:\showonPHDtopo{internal,external,TM}%  Show int., ext. and TM's (PHD input)
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.def:\showonHMMTOP{TM}                   %  Show TM's (not int/ext on HMMTOP input)
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.def:\showonSTRIDE{alpha,3-10,pi,beta}   %  Show helices and strands (STRIDE input)
+/usr/share/texmf-texlive/tex/latex/texshade/texshade.def:\showonDSSP{alpha,3-10,pi,beta}     %  Show helices and strands (DSSP input)
+/usr/share/texmf-texlive/tex/latex/sttools/flushend.sty:% \showcolsendrule
+/usr/share/texmf-texlive/tex/latex/sttools/flushend.sty:\def\showcolsendrule{\global\@nd@page@rule=.4pt}
+/usr/share/texmf-texlive/tex/latex/sttools/marginal.sty:% \showlostmarginals
+/usr/share/texmf-texlive/tex/latex/sttools/marginal.sty:%   \showlostmarginals - outputs lost marginal notes at the left of the page
+/usr/share/texmf-texlive/tex/latex/sttools/marginal.sty:\def\showlostmarginals{%
+/usr/share/texmf-texlive/tex/latex/emulateapj/emulateapj.cls: \showKEYS@sw{%
+/usr/share/texmf-texlive/tex/latex/objectz/oz.sty:\let\shows\thrm
+/usr/share/texmf-texlive/tex/latex/algorithm2e/algorithm2e.sty:%                               * \showln and \showlnlabel{lab} macros make the number visible on
+/usr/share/texmf-texlive/tex/latex/algorithm2e/algorithm2e.sty:%                                 the line. \showlnlabel{lab} allows to set a label for this line.
+/usr/share/texmf-texlive/tex/latex/algorithm2e/algorithm2e.sty:\newcommand{\showln}{\nlset{\theAlgoLine}\ignorespaces} % display the line number on this line (without labelling)
+/usr/share/texmf-texlive/tex/latex/algorithm2e/algorithm2e.sty:\newcommand{\showlnlabel}[1]{\lnlset{#1}{\theAlgoLine}\ignorespaces} % display the line number and label this line
+/usr/share/texmf-texlive/tex/latex/showlabels/showlabels.sty:  {\providecommand{\showlabelfont}{\small\tt}}
+/usr/share/texmf-texlive/tex/latex/showlabels/showlabels.sty:  {\providecommand{\showlabelfont}{\small\ttfamily}}
+/usr/share/texmf-texlive/tex/latex/showlabels/showlabels.sty:\providecommand{\showlabelsetlabel}[1]{\normalfont\showlabelfont #1}
+/usr/share/texmf-texlive/tex/latex/showlabels/showlabels.sty:\def\showlabels#1{%
+/usr/share/texmf-texlive/tex/latex/showlabels/showlabels.sty:  \setbox\@tempboxa=\hbox{\showlabelsetlabel{#1}}\dp\@tempboxa\z@
+/usr/share/texmf-texlive/tex/latex/showlabels/showlabels.sty:\def\SL@margintext#1{{\showlabelsetlabel{\{\SL@prlabelname{#1}\}}}}
+/usr/share/texmf-texlive/tex/latex/showlabels/showlabels.sty:\DeclareOption{final}{\let\showlabels\@gobble}
+/usr/share/texmf-texlive/tex/latex/showlabels/showlabels.sty:  \showlabels{label}
+/usr/share/texmf-texlive/tex/latex/expl3/l3names.sty:\name_primitive:NN \show                  \tex_show:D
+/usr/share/texmf-texlive/tex/latex/expl3/l3names.sty:\name_primitive:NN \showthe               \tex_showthe:D
+/usr/share/texmf-texlive/tex/latex/expl3/l3names.sty:\name_primitive:NN \showbox               \tex_showbox:D
+/usr/share/texmf-texlive/tex/latex/expl3/l3names.sty:\name_primitive:NN \showlists             \tex_showlists:D
+/usr/share/texmf-texlive/tex/latex/expl3/l3names.sty:\name_primitive:NN \showboxbreadth        \tex_showboxbreadth:D
+/usr/share/texmf-texlive/tex/latex/expl3/l3names.sty:\name_primitive:NN \showboxdepth          \tex_showboxdepth:D
+/usr/share/texmf-texlive/tex/latex/circ/circ.sty:\showpointsfalse
+/usr/share/texmf-texlive/tex/latex/csquotes/csquotes.sty:         \aftergroup\showgroups
+/usr/share/texmf-texlive/tex/latex/csquotes/csquotes.sty:       \aftergroup\showgroups
+/usr/share/texmf-texlive/tex/latex/tools/trace.sty:    \showboxbreadth\maxdimen
+/usr/share/texmf-texlive/tex/latex/tools/trace.sty:    \showboxdepth\maxdimen
+/usr/share/texmf-texlive/tex/latex/tools/trace.sty:    \showboxbreadth\m@ne
+/usr/share/texmf-texlive/tex/latex/tools/trace.sty:    \showboxdepth\m@ne
+/usr/share/texmf-texlive/tex/latex/tools/trace.sty:    \showboxbreadth\maxdimen
+/usr/share/texmf-texlive/tex/latex/tools/trace.sty:    \showboxdepth\maxdimen
+/usr/share/texmf-texlive/tex/latex/tools/trace.sty:    \showboxbreadth\m@ne
+/usr/share/texmf-texlive/tex/latex/tools/trace.sty:    \showboxdepth\m@ne
+/usr/share/texmf-texlive/tex/latex/tools/showkeys.sty:\providecommand*\showkeyslabelformat[1]{%
+/usr/share/texmf-texlive/tex/latex/tools/showkeys.sty:  \gdef\SK@lab{\smash{\SK@labelcolor\showkeyslabelformat{#2}}}%
+/usr/share/texmf-texlive/tex/latex/tools/array.sty:\def\showcols{{\def\NC@do##1{\let\NC@do\NC@show}\the\NC@list}}
+/usr/share/texmf-texlive/tex/latex/qtree/qtree.sty:\def\showparentbox{\ifdim\wd\parentbox>0pt
+/usr/share/texmf-texlive/tex/latex/qtree/qtree.sty:\showparentbox
+/usr/share/texmf-texlive/tex/latex/qtree/qtree.sty:\showparentbox %\frame
+/usr/share/texmf-texlive/tex/latex/qtree/qtree.sty:\showparentbox
+/usr/share/texmf-texlive/tex/latex/qtree/qtree.sty:\showparentbox
+/usr/share/texmf-texlive/tex/latex/qtree/qtree.sty:\showparentbox
+/usr/share/texmf-texlive/tex/latex/qtree/qtree.sty:% \showthe\nbranches
+/usr/share/texmf-texlive/tex/latex/cjw/cjwplain.sty:\showboxbreadth=5
+/usr/share/texmf-texlive/tex/latex/cjw/cjwplain.sty:\showboxdepth=3
+/usr/share/texmf-texlive/tex/latex/icsv/icsv.cls:\newcommand\showaffiliations{\@showafftrue}
+/usr/share/texmf-texlive/tex/latex/cheq/board.sty:\def\showboard{
+/usr/share/texmf-texlive/tex/latex/cheq/board.sty:%\showboard
+/usr/share/texmf-texlive/tex/latex/cheq/board.sty:%\showboard
+/usr/share/texmf-texlive/tex/latex/ifsym/ifsym.sty:  % example usage: it's 12:45 (\showclock{0}{45}).
+/usr/share/texmf-texlive/tex/latex/ifsym/ifsym.sty:  %                it's 17:30 (\showclock{5}{30}).
+/usr/share/texmf-texlive/tex/latex/ifsym/ifsym.sty:  %                it's  8:10 (\showclock{8}{10}).
+/usr/share/texmf-texlive/tex/latex/ifsym/ifsym.sty:  \newcommand{\showclock}[2]
+/usr/share/texmf-texlive/tex/latex/zed-csp/zed-csp.sty:\let \shows     \vdash
+/usr/share/texmf-texlive/tex/latex/bytefield/bytefield.sty:    \amp\show@wordlabelr\cr%
+/usr/share/texmf-texlive/tex/latex/bytefield/bytefield.sty:  \amp\show@wordlabelr\cr\egroup\egroup%
+/usr/share/texmf-texlive/tex/latex/bytefield/bytefield.sty:\def\show@wordlabelr{}
+/usr/share/texmf-texlive/tex/latex/bytefield/bytefield.sty:  \gdef\show@wordlabelr{%
+/usr/share/texmf-texlive/tex/latex/bytefield/bytefield.sty:    \gdef\show@wordlabelr{}}%
+/usr/share/texmf-texlive/tex/latex/aastex/aastex.cls: \showboxbreadth5\showboxdepth3\relax %\errorstopmode
+/usr/share/texmf-texlive/tex/latex/aastex/aastex.cls: \appdef\@resetactivechars{\showoutput}%
+/usr/share/texmf-texlive/tex/latex/aastex/aastex.sty: \showboxbreadth5\showboxdepth3\relax %\errorstopmode
+/usr/share/texmf-texlive/tex/latex/aastex/aastex.sty: \appdef\@resetactivechars{\showoutput}%
+/usr/share/texmf-texlive/tex/latex/skak/pap.sty:\DeclareOption{mover}{\AtEndOfClass{\showmoverOn}}
+/usr/share/texmf-texlive/tex/latex/skak/pap.sty:\DeclareOption{moveroff}{\AtEndOfClass{\showmoverOff}}
+/usr/share/texmf-texlive/tex/latex/skak/pap.sty:\def\showonly#1{\expandafter\def\csname ShowOnlyList\endcsname{\Listize[#1]}}
+/usr/share/texmf-texlive/tex/latex/skak/pap.sty:\def\showall{\showonly{K,Q,R,B,N,P,k,q,r,b,n,p}}
+/usr/share/texmf-texlive/tex/latex/skak/pap.sty:\showall
+/usr/share/texmf-texlive/tex/latex/skak/pap.sty:\def\showonlywhite{\showonly{K,Q,R,B,N,P}}
+/usr/share/texmf-texlive/tex/latex/skak/pap.sty:\def\showonlyblack{\showonly{k,q,r,b,n,p}}
+/usr/share/texmf-texlive/tex/latex/skak/pap.sty:\def\showonlypawns{\showonly{p,P}}
+/usr/share/texmf-texlive/tex/latex/skak/pap.sty:\def\showskaklanguage{%
+/usr/share/texmf-texlive/tex/latex/skak/pap.sty:\newlength{\showlength}
+/usr/share/texmf-texlive/tex/latex/skak/pap.sty:\def\show@board{%
+/usr/share/texmf-texlive/tex/latex/skak/pap.sty:\def\show@board@inverse{%
+/usr/share/texmf-texlive/tex/latex/skak/pap.sty:\def\show@board@notation{%
+/usr/share/texmf-texlive/tex/latex/skak/pap.sty:\def\show@board@notation@inverse{%
+/usr/share/texmf-texlive/tex/latex/skak/pap.sty:\def\notationOn{\let\showboard=\show@board@notation%
+/usr/share/texmf-texlive/tex/latex/skak/pap.sty:  \let\showinverseboard=\show@board@notation@inverse}
+/usr/share/texmf-texlive/tex/latex/skak/pap.sty:\def\notationOff{\let\showboard=\show@board%
+/usr/share/texmf-texlive/tex/latex/skak/pap.sty:  \let\showinverseboard=\show@board@inverse}
+/usr/share/texmf-texlive/tex/latex/skak/pap.sty:\def\showmoverOn{\def\ShowMover{\True}}
+/usr/share/texmf-texlive/tex/latex/skak/pap.sty:\def\showmoverOff{\def\ShowMover{\False}}
+/usr/share/texmf-texlive/tex/latex/skak/skak.sty:\DeclareOption{mover}{\AtEndOfClass{\showmoverOn}}
+/usr/share/texmf-texlive/tex/latex/skak/skak.sty:\DeclareOption{moveroff}{\AtEndOfClass{\showmoverOff}}
+/usr/share/texmf-texlive/tex/latex/skak/skak.sty:\def\showonly#1{\expandafter\def\csname ShowOnlyList\endcsname{\Listize[#1]}}
+/usr/share/texmf-texlive/tex/latex/skak/skak.sty:\def\showall{\showonly{K,Q,R,B,N,P,k,q,r,b,n,p}}
+/usr/share/texmf-texlive/tex/latex/skak/skak.sty:\showall
+/usr/share/texmf-texlive/tex/latex/skak/skak.sty:\def\showonlywhite{\showonly{K,Q,R,B,N,P}}
+/usr/share/texmf-texlive/tex/latex/skak/skak.sty:\def\showonlyblack{\showonly{k,q,r,b,n,p}}
+/usr/share/texmf-texlive/tex/latex/skak/skak.sty:\def\showonlypawns{\showonly{p,P}}
+/usr/share/texmf-texlive/tex/latex/skak/skak.sty:\def\showskaklanguage{%
+/usr/share/texmf-texlive/tex/latex/skak/skak.sty:\newlength{\showlength}
+/usr/share/texmf-texlive/tex/latex/skak/skak.sty:\def\show@board{%
+/usr/share/texmf-texlive/tex/latex/skak/skak.sty:\def\show@board@inverse{%
+/usr/share/texmf-texlive/tex/latex/skak/skak.sty:\def\show@board@notation{%
+/usr/share/texmf-texlive/tex/latex/skak/skak.sty:\def\show@board@notation@inverse{%
+/usr/share/texmf-texlive/tex/latex/skak/skak.sty:\def\notationOn{\let\showboard=\show@board@notation%
+/usr/share/texmf-texlive/tex/latex/skak/skak.sty:  \let\showinverseboard=\show@board@notation@inverse}
+/usr/share/texmf-texlive/tex/latex/skak/skak.sty:\def\notationOff{\let\showboard=\show@board%
+/usr/share/texmf-texlive/tex/latex/skak/skak.sty:  \let\showinverseboard=\show@board@inverse}
+/usr/share/texmf-texlive/tex/latex/skak/skak.sty:\def\showmoverOn{\def\ShowMover{\True}}
+/usr/share/texmf-texlive/tex/latex/skak/skak.sty:\def\showmoverOff{\def\ShowMover{\False}}
+/usr/share/texmf-texlive/tex/latex/mdwtools/mdwtab.sty:\def\showpream#1{%
+/usr/share/texmf-texlive/tex/latex/mdwtools/mdwtab.sty:  \showthe\tab@preamble%
+/usr/share/texmf-texlive/tex/latex/mdwtools/mdwtab.sty:  \showthe\tab@shortline%
+/usr/share/texmf-texlive/tex/latex/mdwtools/mdwtab.sty:\def\showcol#1{%
+/usr/share/texmf-texlive/tex/latex/mdwtools/mdwtab.sty:  \expandafter\show\csname\tab@colset!col.\string#1\endcsname%
+/usr/share/texmf-texlive/tex/latex/mdwtools/at.sty:\at@buildcmd\atshow\show
+/usr/share/texmf-texlive/tex/latex/fontinst/fontdoc.sty:\newcommand\showbranches{%
+/usr/share/texmf-texlive/tex/latex/active-conf/active-conf-2006.cls:\newcommand\showaffiliations{\@showafftrue}
+/usr/share/texmf-texlive/tex/latex/active-conf/active-conf.cls:\newcommand\showaffiliations{\@showafftrue}
+/usr/share/texmf-texlive/tex/latex/datetime/datetime.sty:\showdowtrue
+/usr/share/texmf-texlive/tex/latex/datetime/datetime.sty:\DeclareOption{dayofweek}{\showdowtrue}
+/usr/share/texmf-texlive/tex/latex/datetime/datetime.sty:\DeclareOption{nodayofweek}{\showdowfalse}
+/usr/share/texmf-texlive/tex/latex/carlisle/blkarray.sty:     \egroup\showbox\BA@first@box
+/usr/share/texmf-texlive/tex/latex/carlisle/blkarray.sty:  \ifdim\dimen@>\z@\showthe\dimen@\fi
+/usr/share/texmf-texlive/tex/plain/typespec/TypeSp02.tex:\def\showhabcwd{%
+/usr/share/texmf-texlive/tex/plain/typespec/TypeSp02.tex:Width of 2.5 lowercase 10pt alphabets&\showhabcwd\ or \cvptin{\the\habcwd}\unskip\cr
+/usr/share/texmf-texlive/tex/plain/typespec/TypeSp03.tex:\def\showhabcwd{%
+/usr/share/texmf-texlive/tex/plain/typespec/TypeSp03.tex:Width of 2.5 lowercase 10pt alphabets&\showhabcwd\ or \cvptin{\the\habcwd}\unskip\cr
+/usr/share/texmf-texlive/tex/plain/typespec/TypeSp01.tex:\def\showhabcwd{%
+/usr/share/texmf-texlive/tex/plain/typespec/TypeSp01.tex:Width of 2.5 lowercase 10pt alphabets&\showhabcwd\ or \cvptin{\the\habcwd}\unskip\cr
+/usr/share/texmf-texlive/tex/plain/treetex/treetex.tex:% \showboxbreadth=100                     % Only for testing                     
+/usr/share/texmf-texlive/tex/plain/treetex/treetex.tex:% \showboxdepth=100                       %                                      
+/usr/share/texmf-texlive/tex/plain/treetex/treetex.tex:\def\showlasttree{%
+/usr/share/texmf-texlive/tex/plain/kdgreek/greektex.tex:\def\showstring#1{\immediate\write\@screen{#1}}
+/usr/share/texmf-texlive/tex/plain/kdgreek/greektex.tex:\def\c@p{\showstring{}\showstring{\sp@s\sp@s\sp@s GreekTeX -- Version 3.1}%
+/usr/share/texmf-texlive/tex/plain/kdgreek/greektex.tex:\showstring{\sp@s\sp@s\sp@s  ---------------------------}
+/usr/share/texmf-texlive/tex/plain/kdgreek/greektex.tex:\showstring{\sp@s GreekTeX is a macro package for typesetting greek texts.}
+/usr/share/texmf-texlive/tex/plain/kdgreek/greektex.tex:\showstring{\sp@s It is maily compatible with the haralambous package,}
+/usr/share/texmf-texlive/tex/plain/kdgreek/greektex.tex:\showstring{\sp@s from which it inherits the top level macros.}
+/usr/share/texmf-texlive/tex/plain/kdgreek/greektex.tex:\showstring{\sp@s GreekTeX includes easy access to font families, a choise}
+/usr/share/texmf-texlive/tex/plain/kdgreek/greektex.tex:\showstring{\sp@s of delimiters, and makes typesetting scientific papers}
+/usr/share/texmf-texlive/tex/plain/kdgreek/greektex.tex:\showstring{\sp@s in greek as easy as in TeX itself.}
+/usr/share/texmf-texlive/tex/plain/kdgreek/greektex.tex:\showstring{\sp@s}
+/usr/share/texmf-texlive/tex/plain/kdgreek/greektex.tex:\showstring{\sp@s\sp@s\sp@s Copyright K J Dryllerakis 1991-1992}
+/usr/share/texmf-texlive/tex/plain/kdgreek/greektex.tex:\showstring{\sp@s\sp@s\sp@s ------------------------------}%
+/usr/share/texmf-texlive/tex/plain/kdgreek/greektex.tex:%	\showstring	Log a string on the terminal
+/usr/share/texmf-texlive/tex/plain/kdgreek/greektex.tex:\showstring{GreekTeX Warning: A group of greek text was automatically closed}%
+/usr/share/texmf-texlive/tex/plain/kdgreek/greek.tex:\def\showstring#1{\immediate\write\@screen{#1}}
+/usr/share/texmf-texlive/tex/plain/kdgreek/greek.tex:\def\c@p{\showstring{}\showstring{\sp@s\sp@s\sp@s GreekTeX -- Version 3.1}%
+/usr/share/texmf-texlive/tex/plain/kdgreek/greek.tex:\showstring{\sp@s\sp@s\sp@s  ---------------------------}
+/usr/share/texmf-texlive/tex/plain/kdgreek/greek.tex:\showstring{\sp@s GreekTeX is a macro package for typesetting greek texts.}
+/usr/share/texmf-texlive/tex/plain/kdgreek/greek.tex:\showstring{\sp@s It is maily compatible with the haralambous package,}
+/usr/share/texmf-texlive/tex/plain/kdgreek/greek.tex:\showstring{\sp@s from which it inherits the top level macros.}
+/usr/share/texmf-texlive/tex/plain/kdgreek/greek.tex:\showstring{\sp@s GreekTeX includes easy access to font families, a choise}
+/usr/share/texmf-texlive/tex/plain/kdgreek/greek.tex:\showstring{\sp@s of delimiters, and makes typesetting scientific papers}
+/usr/share/texmf-texlive/tex/plain/kdgreek/greek.tex:\showstring{\sp@s in greek as easy as in TeX itself.}
+/usr/share/texmf-texlive/tex/plain/kdgreek/greek.tex:\showstring{\sp@s}
+/usr/share/texmf-texlive/tex/plain/kdgreek/greek.tex:\showstring{\sp@s\sp@s\sp@s Copyright K J Dryllerakis 1991-1992}
+/usr/share/texmf-texlive/tex/plain/kdgreek/greek.tex:\showstring{\sp@s\sp@s\sp@s ------------------------------}%
+/usr/share/texmf-texlive/tex/plain/kdgreek/greek.tex:%	\showstring	Log a string on the terminal
+/usr/share/texmf-texlive/tex/plain/kdgreek/greek.tex:\def\showgreekhyphens#1{{\setbox0\vbox{\parfillskip\z@skip\hsize\maxdimen%
+/usr/share/texmf-texlive/tex/plain/kdgreek/greek.tex:\language\greek\tengr\pretolerance\m@ne\hbadness0\showboxdepth0\ #1}}}
+/usr/share/texmf-texlive/tex/plain/kdgreek/greek.tex:\showstring{GreekTeX Warning: A group of greek text was automatically closed}%
+/usr/share/texmf-texlive/tex/plain/etex/etex.src:     \showboxbreadth=\maxdimen
+/usr/share/texmf-texlive/tex/plain/etex/etex.src:     \showboxdepth=\maxdimen
+/usr/share/texmf-texlive/tex/plain/etex/etex.src:     \showboxdepth=\thr@@
+/usr/share/texmf-texlive/tex/plain/etex/etex.src:     \showboxbreadth=5
+/usr/share/texmf-texlive/tex/plain/cyrplain/plainenc.tex:%  \show#1
+/usr/share/texmf-texlive/tex/plain/patch/patch.tex:          \aftergroup\show \expandafter\aftergroup\^^e0%
+/usr/share/texmf-texlive/tex/plain/base/plain.tex:\showboxbreadth=5
+/usr/share/texmf-texlive/tex/plain/base/plain.tex:\showboxdepth=3
+/usr/share/texmf-texlive/tex/plain/base/plain.tex:  \showboxbreadth\maxdimen\showboxdepth\maxdimen\errorstopmode}
+/usr/share/texmf-texlive/tex/plain/base/plain.tex:\def\showhyphens#1{\setbox0\vbox{\parfillskip\z@skip\hsize\maxdimen\tenrm
+/usr/share/texmf-texlive/tex/plain/base/plain.tex:  \pretolerance\m@ne\tolerance\m@ne\hbadness0\showboxdepth0\ #1}}
+/usr/share/texmf-texlive/tex/plain/base/fontchart.tex:% \d=\dp0 \advance\d-5000pt \advance\d\d %\showthe\d
+/usr/share/texmf-texlive/tex/plain/base/gkpmac.tex:% \showmissestrue if you want to see missing references
+/usr/share/texmf-texlive/tex/plain/base/gkpmac.tex:  \ifshowmisses\showmiss#1\fi\global\advance\miscount1 ??\else #1\fi}
+/usr/share/texmf-texlive/tex/plain/base/gkpmac.tex:\def\showmiss#1{{\escapechar=-1%
+/usr/share/texmf-texlive/tex/plain/base/gkpmac.tex:\showmissestrue		% THE REFERENCES SHOULD ALL BE READY NOW
+/usr/share/texmf-texlive/tex/plain/antt/pantyk.tex:% \showfonts    ... to show the loaded fontfamilies on terminal
+/usr/share/texmf-texlive/tex/xelatex/xetexurl/url.sty:% \if\urldebug \showlists \fi 
+/usr/share/texmf-texlive/tex/texsis/base/PhysRev.txs:   \showchaptIDfalse                    % no chapter number in equation numbers
+/usr/share/texmf-texlive/tex/texsis/base/PhysRev.txs:   \showsectIDfalse                     % no section number in equation numbers
+/usr/share/texmf-texlive/tex/texsis/base/PhysRev.txs:   \showchaptIDfalse                    % no chapter number in equations
+/usr/share/texmf-texlive/tex/texsis/base/PhysRev.txs:   \showsectIDfalse                     % no section number in equations
+/usr/share/texmf-texlive/tex/texsis/base/TXSsects.tex:%       \showchaptIDtrue (the default) causes the chapter number to be
+/usr/share/texmf-texlive/tex/texsis/base/TXSsects.tex:% chapnum.sectnum.eqnum. \showchaptIDfalse turns off the display
+/usr/share/texmf-texlive/tex/texsis/base/TXSsects.tex:%       \showsectIDtrue (the default) causes the section number to be
+/usr/share/texmf-texlive/tex/texsis/base/TXSsects.tex:% printed and to be appended to any equation numbers. \showsectIDfalse
+/usr/share/texmf-texlive/tex/texsis/base/TXSsects.tex:% bold face.  Subsection numbers are displayed if \showsectIDtrue, but
+/usr/share/texmf-texlive/tex/texsis/base/TXSsects.tex:% and in equation numbers if \showchaptIDtrue.
+/usr/share/texmf-texlive/tex/texsis/base/TXSsects.tex:% first level, and it may be desirable to use \showsectIDfalse.
+/usr/share/texmf-texlive/tex/texsis/base/TXSsects.tex:\newif\ifshowsectID             \showsectIDtrue         % show sections?
+/usr/share/texmf-texlive/tex/texsis/base/TXSsects.tex:\newif\ifshowchaptID            \showchaptIDtrue        % show chapters?
+/usr/share/texmf-texlive/tex/texsis/base/WorldSci.txs:   \showchaptIDfalse\showsectIDfalse    % consecutively number equations
+/usr/share/texmf-texlive/tex/texsis/base/TXSeqns.tex:%  including chapter and section numbers if \showchapIDtrue and
+/usr/share/texmf-texlive/tex/texsis/base/TXSeqns.tex:%  \showsectIDtrue are used. To obtain automatic equation numbers in
+/usr/share/texmf-texlive/tex/texsis/base/Elsevier.txs:   \showsectIDtrue%                     % show section numbers
+/usr/share/texmf-texlive/tex/texsis/base/TXSfigs.tex:% \showsectIDfalse before \ListFigures the caption name (``Figure'' or
+/usr/share/texmf-texlive/tex/texsis/base/TXSfigs.tex:      \showsectIDtrue                   % FORCE THIS NOW
+/usr/share/texmf-texlive/tex/texsis/base/IEEE.txs:\showsectIDfalse
+/usr/share/texmf-texlive/tex/texsis/base/TXSconts.tex:% whether you have set \showchaptIDtrue or \showchaptIDfalse at the
+/usr/share/texmf-texlive/tex/texsis/base/TXSconts.tex:% section-id if \showsectIDtrue.  For example, if you say 
+/usr/share/texmf-texlive/tex/texsis/base/TXSfmts.tex:   \showsectIDfalse             % no section number in equation numbers
+/usr/share/texmf-texlive/tex/texsis/base/TXSfmts.tex:   \showchaptIDfalse            % no chapter number in equation numbers
+/usr/share/texmf-texlive/tex/psizzl/base/macros.Psizzl:   %\showboxbreadth\maxdimen\showboxdepth\maxdimen
+/usr/share/texmf-texlive/tex/fontinst/mathmtx/mathex.mtx:\showbranches
+/usr/share/texmf-texlive/tex/fontinst/latinetx/txtfdmns.etx:\showbranches
+/usr/share/texmf-texlive/tex/fontinst/latinetx/ot1ij.etx:\showbranches
+/usr/share/texmf-texlive/tex/fontinst/latinetx/8r.etx:\showbranches
+/usr/share/texmf-texlive/tex/fontinst/latinetx/8r.etx:2002/11/12: Added \verb|\showbranches| markup. Modernised setting of 
+/usr/share/texmf-texlive/tex/fontinst/latinetx/ot1tt.etx:\showbranches
+/usr/share/texmf-texlive/tex/fontinst/latinetx/ot1j.etx:\showbranches
+/usr/share/texmf-texlive/tex/fontinst/latinetx/ot1itt.etx:\showbranches
+/usr/share/texmf-texlive/tex/fontinst/latinetx/ot1cj.etx:\showbranches
+/usr/share/texmf-texlive/tex/fontinst/latinetx/ot1cj.etx:\verb|\showbranches|, and code for things that was moved from encoding
+/usr/share/texmf-texlive/tex/fontinst/latinetx/ot1ctt.etx:\showbranches
+/usr/share/texmf-texlive/tex/fontinst/latinetx/t1.etx:\showbranches
+/usr/share/texmf-texlive/tex/fontinst/latinetx/t1.etx:parameter. Using \verb|\showbranches|. Using \verb|\setfontdimen|. 
+/usr/share/texmf-texlive/tex/fontinst/latinetx/ot1i.etx:\showbranches
+/usr/share/texmf-texlive/tex/fontinst/latinetx/ot1.etx:\showbranches
+/usr/share/texmf-texlive/tex/fontinst/latinetx/ot1.etx:for \verb|\showbranches|. (LH)
+/usr/share/texmf-texlive/tex/fontinst/latinetx/8y.etx:\showbranches
+/usr/share/texmf-texlive/tex/fontinst/latinetx/8y.etx:  Added \verb|\showbranches| markup. Removed \texttt{-OT1} 
+/usr/share/texmf-texlive/tex/fontinst/latinetx/ot1c.etx:\showbranches
+/usr/share/texmf-texlive/tex/fontinst/latinetx/ot1c.etx:\verb|\showbranches|, and code for things that was moved from encoding
+/usr/share/texmf-texlive/tex/fontinst/smblmtx/textcomp.mtx:\showbranches
+/usr/share/texmf-texlive/tex/fontinst/smblmtx/textcomp.mtx:Making use of \verb|\showbranches|, \verb|\begincomment|, and 
+/usr/share/texmf-texlive/tex/fontinst/mathetx/msbm.etx:\showbranches
+/usr/share/texmf-texlive/tex/fontinst/mathetx/euscr.etx:\showbranches
+/usr/share/texmf-texlive/tex/fontinst/mathetx/oms.etx:\showbranches
+/usr/share/texmf-texlive/tex/fontinst/mathetx/eurm.etx:\showbranches
+/usr/share/texmf-texlive/tex/fontinst/mathetx/oml.etx:\showbranches
+/usr/share/texmf-texlive/tex/fontinst/mathetx/eufrak.etx:\showbranches
+/usr/share/texmf-texlive/tex/fontinst/mathetx/omx.etx:\showbranches
+/usr/share/texmf-texlive/tex/fontinst/mathetx/msam.etx:\showbranches
+/usr/share/texmf-texlive/tex/fontinst/mathetx/euex.etx:\showbranches
+/usr/share/texmf-texlive/tex/fontinst/latinmtx/lubuild.mtx:\showbranches
+/usr/share/texmf-texlive/tex/fontinst/latinmtx/newlatin.mtx:\showbranches
+/usr/share/texmf-texlive/tex/fontinst/latinmtx/lsbuild.mtx:\showbranches
+/usr/share/texmf-texlive/tex/fontinst/latinmtx/8r.mtx:\showbranches
+/usr/share/texmf-texlive/tex/fontinst/latinmtx/8r.mtx:adjustments made for \verb|\showbranches|, and
+/usr/share/texmf-texlive/tex/fontinst/latinmtx/lsmisc.mtx:\showbranches
+/usr/share/texmf-texlive/tex/fontinst/latinmtx/ltcmds.mtx:\showbranches
+/usr/share/texmf-texlive/tex/fontinst/latinmtx/llbuild.mtx:\showbranches
+/usr/share/texmf-texlive/tex/fontinst/latinmtx/lsfake.mtx:\showbranches
+/usr/share/texmf-texlive/tex/fontinst/latinmtx/ltpunct.mtx:\showbranches
+/usr/share/texmf-texlive/tex/amstex/base/amstex.tex:\def\showallocations{{\def\\{\immediate\write\m@ne}\alloclist@}\alloc@true}

@@ -1,0 +1,265 @@
+%
+% \iffalse  /!\  this file contains non-ascii --  encoding is utf-8 /!\
+%
+%     show2e package by Manuel P\'egouri\'e-Gonnard <mpg@elzevir.fr>
+%     --------------------------------------------------------------
+%
+% This work may be distributed and/or modified under the conditions of
+% the LaTeX Project Public License, either version 1.3c of this license
+% or (at your option) any later version.  The latest version of this
+% license is in:
+%
+%   http://www.latex-project.org/lppl.txt
+%
+% and version 1.3c or later is part of all distributions of LaTeX
+% version 2006/05/20 or later.
+%
+% This work has the LPPL maintenance status `maintained'.
+%
+% The current maintainer of this work is Manuel P\'egouri\'e-Gonnard.
+%
+% This work consists of the file show2e.dtx and the derived files
+% show2e.sty, show2e.pdf and show2e-fr.pdf.
+%
+%
+%<*gobble>
+\ProvidesFile{show2e.dtx}
+%</gobble>
+%<package>\NeedsTeXFormat{LaTeX2e}
+%<package>\ProvidesPackage{show2e}
+%<*package>
+% \fi
+% \ProvidesFile{show2e.dtx}
+  [2008/03/13 v1.0 \space showing latex2e commands \space (mpg)]
+% \iffalse
+%</package>
+% \fi
+% \CheckSum{0}
+% \CharacterTable
+%  {Upper-case    \A\B\C\D\E\F\G\H\I\J\K\L\M\N\O\P\Q\R\S\T\U\V\W\X\Y\Z
+%   Lower-case    \a\b\c\d\e\f\g\h\i\j\k\l\m\n\o\p\q\r\s\t\u\v\w\x\y\z
+%   Digits        \0\1\2\3\4\5\6\7\8\9
+%   Exclamation   \!     Double quote  \"     Hash (number) \#
+%   Dollar        \$     Percent       \%     Ampersand     \&
+%   Acute accent  \'     Left paren    \(     Right paren   \)
+%   Asterisk      \*     Plus          \+     Comma         \,
+%   Minus         \-     Point         \.     Solidus       \/
+%   Colon         \:     Semicolon     \;     Less than     \<
+%   Equals        \=     Greater than  \>     Question mark \?
+%   Commercial at \@     Left bracket  \[     Backslash     \\
+%   Right bracket \]     Circumflex    \^     Underscore    \_
+%   Grave accent  \`     Left brace    \{     Vertical bar  \|
+%   Right brace   \}     Tilde         \~}
+% \iffalse
+%<*gobble>
+\begingroup
+%</gobble>
+%<*batchfile>
+\input docstrip
+\keepsilent
+\preamble
+
+show2e package by Manuel P\string\'egouri\string\'e-Gonnard %
+<mpg@elzevir.fr>
+This is a generated file. See show2e.dtx for license information.
+
+\endpreamble
+\askforoverwritefalse
+%\generate{\file{show2e.ins}{\from{show2e.dtx}{batchfile}}}
+%\generate{\file{show2e.drv}{\from{show2e.dtx}{driver}}}
+\generate{\file{show2e.sty}{\from{show2e.dtx}{package}}}
+\generate{\file{show2e-fr.drv}{\from{show2e.dtx}{pilote}}}
+%</batchfile>
+%<*gobble>
+\endgroup
+%</gobble>
+%<*driver|pilote>
+\documentclass[oneside, a4paper]{ltxdoc}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage[babel=true, expansion=false]{microtype}
+\usepackage{fixltx2e}
+\expandafter\newif\csname iffrenchdoc\endcsname % cachez ce if...
+%<pilote>\frenchdoctrue
+%</driver|pilote>
+%<*gobble>
+\iffrenchdoc
+%</gobble>
+%<*pilote>
+\usepackage[lmargin=4.5cm, rmargin=3cm]{geometry}
+\OnlyDescription
+\usepackage[english, french]{babel}
+\FrenchFootnotes \AddThinSpaceBeforeFootnotes
+\newcommand*\eng[1]{\emph{\foreignlanguage{english}{#1}}}
+\usepackage[bookmarks=false]{hyperref}
+\hypersetup{%
+  pdftitle=L'extension show2e
+  pdfsubject=Une DESCRIPTION}
+%</pilote>
+%<*gobble>
+\else
+%</gobble>
+%<*driver>
+\AlsoImplementation
+\usepackage[english]{babel}
+\usepackage[bookmarks=true, bookmarksnumbered=true, bookmarksopen=true,
+  bookmarksopenlevel=2]{hyperref}
+\hypersetup{%
+  pdftitle=The show2e package,
+  pdfsubject=A DESCRIPTION}
+\settowidth\MacroIndent{\rmfamily\scriptsize 000\ }
+\setlength\MacroTopsep{0pt}
+\setcounter{tocdepth}{1}
+%</driver>
+%<*gobble>
+\fi
+%</gobble>
+%<*driver|pilote>
+\hypersetup{%
+  colorlinks=true, linkcolor=black, urlcolor=black,
+  pdfauthor=Manuel Pégourié-Gonnard}
+\newcommand\pf{\textsf}
+\newcommand\optstar{\meta{$*$}}
+\newcommand\topcs[1]{\texorpdfstring{\cs{#1}}{#1}}
+\begin{document}
+  \DocInput{show2e.dtx}
+\end{document}
+%</driver|pilote>
+%<*package>
+% \fi
+%
+% \GetFileInfo{show2e.dtx}
+%
+% \title{\iffrenchdoc L'extension \pf{show2e}\else The \pf{show2e} package\fi}
+% \author{Manuel Pégourié-Gonnard\\ 
+%   \href{mailto:mpg@elzevir.fr}{mpg@elzevir.fr}}
+% \date{\fileversion\ (\filedate)}
+% 
+% \maketitle
+% \iffrenchdoc\else \tableofcontents \fi
+%
+% \section{Introduction}
+%
+% \iffrenchdoc
+%
+% C'est utile.
+%
+% \else
+%
+% It's useful.
+%
+% \fi
+%
+% \section{Usage}
+%
+% \iffrenchdoc
+%
+% \DescribeMacro{\truc}
+% C'est facile.
+%
+% \begin{center}\large
+% C'est tout pour cette fois ! \\
+% Amusez-vous bien avec \LaTeX{} !
+% \end{center}
+%
+% \else
+% 
+% \DescribeMacro{\foobar}
+% It's easy.
+%
+% \fi
+%
+% \StopEventually{}
+%
+% \section{Implementation}
+%
+% And it's well implented.
+%
+% \begin{macro}{\foobar}
+%    \begin{macrocode}
+\newcommand* \showcmd [1] {%
+  \begingroup \escapechar92
+  \show#1%
+  \showe@if@meaning@prefix@NnT #1 {\x@protect} 
+    {\showe@show@space@macro@N #1}%
+  \showe@if@meaning@prefix@NnT #1 {\protect}
+    {\showe@show@space@macro@N #1}%
+  \showe@if@meaning@prefix@NoT #1 {\string\@protected@testopt}
+    {\showe@show@backslashm@macro@N #1}%
+  \endgroup}
+%    \end{macrocode}
+%    \begin{macrocode}
+\newcommand* \showcmdc [1] {%
+  \expandafter \showcmd \csname#1\endcsname}
+%    \end{macrocode}
+%    \begin{macrocode}
+\newcommand* \showenv [1] {%
+  \showcmdc{#1}%
+  \expandafter \show\csname end#1\endcsname}
+%    \end{macrocode}
+%    \begin{macrocode}
+\newcommand* \showe@show@backslash@macro@N [1] {%
+  \expandafter \show \csname\string#1\endcsname}
+%    \end{macrocode}
+%    \begin{macrocode}
+\newcommand* \showe@show@space@macro@N [1] {%
+  \begingroup \escapechar\m@ne \expandafter\endgroup
+  \expandafter \showcmd \csname\string#1 \endcsname}
+%    \end{macrocode}
+%    \begin{macrocode}
+\newcommand* \showe@if@meaning@prefix@NnT [2] {%
+  \edef \@tempa {#2}%
+  \showe@if@prefix@ooT {\meaning #1} {\meaning \@tempa}}
+%    \end{macrocode}
+%    \begin{macrocode}
+\newcommand* \showe@if@meaning@ooT [2] {%
+  \edef \@tempa {{#1}{#2}}%
+  \expandafter \showe@if@prefix@nnT\@tempa}
+%    \end{macrocode}
+%    \begin{macrocode}
+\newcommand* \showe@if@prefix@nnT [2] {%
+  \def \@tempa ##1#2##2\@nil {%
+    \ifx\empty##2\empty
+      \expandafter\@secondoftwo
+    \else
+      \expandafter\@firstoftwo
+    \fi}%
+  \@tempa#1#2\@nil}
+%    \end{macrocode}
+% \end{macro}
+%
+%
+% \bigskip
+% \begin{center}\Large
+% That's all folks!\\
+% Happy \TeX ing!
+% \end{center}
+%
+% \Finale
+%
+% \iffalse
+%</package>
+%<*batchfile>
+% \fi
+% \begingroup\obeyspaces
+% \typeout{*****************************************************}
+% \typeout{*                                                   *}
+% \typeout{* To finish the installation you have to move the   *}
+% \typeout{* following file into a directory searched by TeX:  *}
+% \typeout{*                                                   *}
+% \typeout{*      show2e.sty                                   *}
+% \typeout{*                                                   *}
+% \typeout{* Documentation is in show2e.dvi or show2e.pdf      *}
+% \typeout{*                                                   *}
+% \typeout{* To produce the french documentation, run          *}
+% \typeout{*      (pdf)latex show2e-fr.drv                     *}
+% \typeout{*                                                   *}
+% \typeout{* Happy TeXing!                                     *}
+% \typeout{*                                                   *}
+% \typeout{*****************************************************}
+% \endgroup
+% \iffalse
+%</batchfile>
+% \fi
+\endinput
