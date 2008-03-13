@@ -30,11 +30,11 @@
 %<*package>
 % \fi
 % \ProvidesFile{show2e.dtx}
-  [2008/03/13 v1.0 \space showing latex2e commands \space (mpg)]
+  [2008/03/13 v1.0 \space \show variants for latex2e \space (mpg)]
 % \iffalse
 %</package>
 % \fi
-% \CheckSum{0}
+% \CheckSum{85}
 % \CharacterTable
 %  {Upper-case    \A\B\C\D\E\F\G\H\I\J\K\L\M\N\O\P\Q\R\S\T\U\V\W\X\Y\Z
 %   Lower-case    \a\b\c\d\e\f\g\h\i\j\k\l\m\n\o\p\q\r\s\t\u\v\w\x\y\z
@@ -103,8 +103,7 @@ This is a generated file. See show2e.dtx for license information.
 %<*driver>
 \AlsoImplementation
 \usepackage[english]{babel}
-\usepackage[bookmarks=true, bookmarksnumbered=true, bookmarksopen=true,
-  bookmarksopenlevel=2]{hyperref}
+\usepackage[bookmarks=false]{hyperref}
 \hypersetup{%
   pdftitle=The show2e package,
   pdfsubject=A DESCRIPTION}
@@ -119,6 +118,7 @@ This is a generated file. See show2e.dtx for license information.
 \hypersetup{%
   colorlinks=true, linkcolor=black, urlcolor=black,
   pdfauthor=Manuel Pégourié-Gonnard}
+\newcommand\file{\nolinkurl}
 \newcommand\pf{\textsf}
 \newcommand\optstar{\meta{$*$}}
 \newcommand\topcs[1]{\texorpdfstring{\cs{#1}}{#1}}
@@ -137,26 +137,63 @@ This is a generated file. See show2e.dtx for license information.
 % \date{\fileversion\ (\filedate)}
 % 
 % \maketitle
-% \iffrenchdoc\else \tableofcontents \fi
+%
+% \iffrenchdoc\else
+% \bigbreak\noindent
+% \emph{Important note for French readers}: the file
+% \file{show2e-fr.pdf} contains the same documenation in French.
+% \fi
 %
 % \section{Introduction}
 %
 % \iffrenchdoc
 %
-% C'est utile.
+% Cette toute petite extension a pour but de simplifier légèrement le
+% déboguage, notamment interactif, en fournissant quelques variantes de
+% |\show| adaptées aux objets introduits par \LaTeXe{} : commandes à
+% arguments optionnels, commandes robustes, environnements.
 %
 % \else
 %
-% It's useful.
+% This small package aims at making debugging (esp.\@ in an interactive
+% way) easier, by providing |\show| variants suited to \LaTeXe's
+% commands (with optional arguments or robust) and environments.
 %
 % \fi
 %
 % \section{Usage}
-%
+% 
 % \iffrenchdoc
 %
-% \DescribeMacro{\truc}
-% C'est facile.
+% \DescribeMacro{\showcmd}
+% La commande |\showcmd| sert à afficher une commande comme le ferait la
+% primitive |\show| de \TeX, mais en effectuant en plus quelques tests
+% pour savoir si la commande est une macro qui prend un argument
+% optionnel (comme on peut en définir avec |\newcommand|), ou qui a été
+% définie comme robuste avec |\DeclareRobustCommand|, ou ultérieurement
+% rendue robuste par |\MakeRobust| (fourni par \pf{fixltx2e}). Dans ce
+% cas, la commande utilise aussi une ou plusieurs macros interne, que
+% |\showcmd| affichera automatiquement pour vous.
+%
+% \DescribeMacro{\showcs}
+% \DescribeMacro{\showenv}
+% La variante |\showcs| fonctionne de la même manière, mais prend comme
+% argument le \emph{nom} de la commande entre accolades : les deux
+% formes |\showcmd\truc| et |\showcs{truc}| sont donc équivalentes.
+% Enfin, |\showenv| montre les definitions de début et de fin d'un
+% environnement.
+%
+% \medbreak
+%
+% C'est tout pour la description des commandes. Il faut bien remarquer
+% qu'elles ne sont pas infaillibles, et ne fonctionnent qu'avec les
+% commandes crées par les macros standard de \LaTeXe{} (et celles de
+% \pf{xargs}, d'ailleurs) : elles n'essayent pas de prendre en compte
+% des usages directs de |\@ifnextchar|, ni même de |\@ifstar| (pour le
+% moment).
+% 
+% Pour les curieux, le code commenté apparaît à la fin de la version
+% anglaise de cette documentation
 %
 % \begin{center}\large
 % C'est tout pour cette fois ! \\
@@ -165,8 +202,27 @@ This is a generated file. See show2e.dtx for license information.
 %
 % \else
 % 
-% \DescribeMacro{\foobar}
-% It's easy.
+% \DescribeMacro{\showcmd}
+% The |\showcmd| command displays a command like \TeX's |\show|, but
+% with a little bonus: it also checks if the macros takes an optional
+% argument (like some commands defined with |\newcommand| do), or was
+% made robust by using |\DeclareRobustCommand| or \pf{fixltx2e}'s
+% |\MakeRobust|. Such commands use other(s) internal command(s), which
+% |\showcmd| will also display for you.
+%
+% \DescribeMacro{\showcs}
+% \DescribeMacro{\showenv}
+% The |\showcs| command does the same thing as |\showcmd|, but takes the
+% command's \emph{name} as its argument: |\showcmd\truc| is equivalent
+% to |\showcs{truc}|. Finally, the |\showenv| command does the same for
+% environments.
+%
+% \medbreak
+%
+% The previous commands will only work on simple commands defined with
+% standard \LaTeXe{} commands (or, by the way, with \pf{xargs}): they
+% do not try to guess such things as a direct use of |\@ifnextchar|, or
+% even |\@ifstar| (at the moment).
 %
 % \fi
 %
@@ -174,9 +230,11 @@ This is a generated file. See show2e.dtx for license information.
 %
 % \section{Implementation}
 %
-% And it's well implented.
-%
-% \begin{macro}{\foobar}
+% \begin{macro}{\showcmd}
+% The |\showcmd| macro just checks to beginning of the meaning of is
+% argument, in order to decide if there are any internal macro to
+% show too. It also sets a default value for |\escapechar| for sake of
+% readability.
 %    \begin{macrocode}
 \newcommand* \showcmd [1] {%
   \begingroup \escapechar92
@@ -189,6 +247,10 @@ This is a generated file. See show2e.dtx for license information.
     {\showe@show@backslash@macro@N #1}%
   \endgroup}
 %    \end{macrocode}
+% \end{macro}
+% \begin{macro}{\showcs}
+% \begin{macro}{\showenv}
+% The two variants are only wrappers for |\showcmd|.
 %    \begin{macrocode}
 \newcommand* \showcs [1] {%
   \expandafter \showcmd \csname#1\endcsname}
@@ -198,6 +260,12 @@ This is a generated file. See show2e.dtx for license information.
   \showcs{#1}%
   \expandafter \show\csname end#1\endcsname}
 %    \end{macrocode}
+% \end{macro}
+% \end{macro}
+% \begin{macro}{\showe@show@backslash@macro@N}
+% \begin{macro}{\showe@show@space@macro@N}
+% Macros for showing the internal macros found, either with |\show| or
+% with |\showcmd|.
 %    \begin{macrocode}
 \newcommand* \showe@show@backslash@macro@N [1] {%
   \expandafter \show \csname\string#1\endcsname}
@@ -207,6 +275,12 @@ This is a generated file. See show2e.dtx for license information.
   \begingroup \escapechar\m@ne \expandafter\endgroup
   \expandafter \showcmd \csname\string#1 \endcsname}
 %    \end{macrocode}
+% \end{macro}
+% \end{macro}
+% \begin{macro}{\showe@if@meaning@prefix@NnT}
+% \begin{macro}{\showe@if@meaning@prefix@NoT}
+% Check if the second argument is a prefix for the meaning of the first.
+% Variant expanding the second argument once before (named in l3 style).
 %    \begin{macrocode}
 \newcommand* \showe@if@meaning@prefix@NnT [2] {%
   \def \@tempa {#2}%
@@ -218,11 +292,12 @@ This is a generated file. See show2e.dtx for license information.
   \expandafter #1%
   \expandafter {#2}}
 %    \end{macrocode}
-%    \begin{macrocode}
-\newcommand* \showe@if@prefix@ooT [2] {%
-  \edef \@tempa {{#1}{#2}}%
-  \expandafter \showe@if@prefix@nnT\@tempa}
-%    \end{macrocode}
+% \end{macro}
+% \end{macro}
+% \begin{macro}{\showe@if@prefix@nnT}
+% \begin{macro}{\showe@if@prefix@ooT}
+% Check if string 2 is a prefix of string 1. Variant expanding the two
+% arguments once before checking.
 %    \begin{macrocode}
 \newcommand* \showe@if@prefix@nnT [2] {%
   \def \@tempa ##1#2##2\@nil {%
@@ -233,6 +308,12 @@ This is a generated file. See show2e.dtx for license information.
     \fi}%
   \@tempa#1#2\@nil}
 %    \end{macrocode}
+%    \begin{macrocode}
+\newcommand* \showe@if@prefix@ooT [2] {%
+  \edef \@tempa {{#1}{#2}}%
+  \expandafter \showe@if@prefix@nnT\@tempa}
+%    \end{macrocode}
+% \end{macro}
 % \end{macro}
 %
 %
