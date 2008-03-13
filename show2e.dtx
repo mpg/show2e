@@ -186,16 +186,16 @@ This is a generated file. See show2e.dtx for license information.
   \showe@if@meaning@prefix@NnT #1 {\protect}
     {\showe@show@space@macro@N #1}%
   \showe@if@meaning@prefix@NoT #1 {\string\@protected@testopt}
-    {\showe@show@backslashm@macro@N #1}%
+    {\showe@show@backslash@macro@N #1}%
   \endgroup}
 %    \end{macrocode}
 %    \begin{macrocode}
-\newcommand* \showcmdc [1] {%
+\newcommand* \showcs [1] {%
   \expandafter \showcmd \csname#1\endcsname}
 %    \end{macrocode}
 %    \begin{macrocode}
 \newcommand* \showenv [1] {%
-  \showcmdc{#1}%
+  \showcs{#1}%
   \expandafter \show\csname end#1\endcsname}
 %    \end{macrocode}
 %    \begin{macrocode}
@@ -209,11 +209,17 @@ This is a generated file. See show2e.dtx for license information.
 %    \end{macrocode}
 %    \begin{macrocode}
 \newcommand* \showe@if@meaning@prefix@NnT [2] {%
-  \edef \@tempa {#2}%
+  \def \@tempa {#2}%
   \showe@if@prefix@ooT {\meaning #1} {\meaning \@tempa}}
 %    \end{macrocode}
 %    \begin{macrocode}
-\newcommand* \showe@if@meaning@ooT [2] {%
+\newcommand* \showe@if@meaning@prefix@NoT [2] {%
+  \expandafter \showe@if@meaning@prefix@NnT
+  \expandafter #1%
+  \expandafter {#2}}
+%    \end{macrocode}
+%    \begin{macrocode}
+\newcommand* \showe@if@prefix@ooT [2] {%
   \edef \@tempa {{#1}{#2}}%
   \expandafter \showe@if@prefix@nnT\@tempa}
 %    \end{macrocode}
@@ -221,9 +227,9 @@ This is a generated file. See show2e.dtx for license information.
 \newcommand* \showe@if@prefix@nnT [2] {%
   \def \@tempa ##1#2##2\@nil {%
     \ifx\empty##2\empty
-      \expandafter\@secondoftwo
+      \expandafter\@gobble
     \else
-      \expandafter\@firstoftwo
+      \expandafter\@firstofone
     \fi}%
   \@tempa#1#2\@nil}
 %    \end{macrocode}
