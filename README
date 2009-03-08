@@ -1,0 +1,37 @@
+                           The show2e package
+
+                  \show variants for LaTeX2e commands
+
+              Manuel P\'egouri\'e-Gonnard (mpg@elzevir.fr)
+
+
+Presentation
+------------
+
+This very small package aims at making debugging (esp. in an interactive way)
+easier, by providing \show variants suited to \LaTeXe's commands (with
+optional arguments or robust) and environments: those variants also display
+the internal macros used by such commands, if any.  The \showcs variant helps
+with macros with exotic names.
+
+Contents
+--------
+
+show2e.sty:      the package itself
+show2e.pdf:      the (English) documentation and documented code
+show2e-fr.pdf:   the French documentation
+
+show2e.dtx:      source for both documentations and package
+
+Version info
+------------
+
+2008-03-13  v1.0    first release
+
+License
+-------
+
+This material is subject to the LaTeX Project Public License. See
+http://www.ctan.org/tex-archive/help/Catalogue/licenses.lppl.html for the
+details of that license.
+
